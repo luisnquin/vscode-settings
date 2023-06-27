@@ -157,7 +157,7 @@
     {
         "identifier": "jackpanyj.zip-preview",
         "version": "0.0.4",
-        "enabled": true
+        "enabled": false
     },
     {
         "identifier": "jeff-hykin.better-cpp-syntax",
@@ -432,7 +432,7 @@
     {
         "identifier": "TomasHubelbauer.zip-file-system",
         "version": "2.0.0",
-        "enabled": false
+        "enabled": true
     },
     {
         "identifier": "tonybaloney.vscode-pets",
