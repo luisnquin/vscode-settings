@@ -1,0 +1,1087 @@
+{
+    /*
+        🌳 Git
+    */
+
+    "git.openRepositoryInParentFolders": "always",
+    "git.terminalAuthentication": true,
+    "git.mergeEditor": false,
+    "diffEditor.wordWrap": "off",
+
+    /*
+        ⚙️ Core
+    */
+
+    "liveServer.settings.donotShowInfoMsg": true,
+    "update.showReleaseNotes": true,
+    "extensions.autoUpdate": true,
+    "update.mode": "none",
+
+    /*
+        📁 Explorer
+    */
+
+    "explorer.confirmDragAndDrop": false,
+    "explorer.confirmDelete": false,
+
+    "settings-repository.branch": "main",
+    "settings-repository.autoSync": true,
+    "settings-repository.repository": "https://github.com/luisnquin/vscode-settings.git",
+    "settings-repository.includeHostnameInCommitMessage": true,
+
+    /*
+        📟 Integrated terminal
+    */
+
+    // "terminal.integrated.fontFamily": "'Monocraft', 'Symbols Nerd Font Mono'",
+
+    "terminal.integrated.fontFamily": "'Cascadia Code', 'Symbols Nerd Font Mono'",
+    "terminal.integrated.enableMultiLinePasteWarning": false,
+    "terminal.integrated.defaultProfile.linux": "zsh",
+    "terminal.integrated.copyOnSelection": true,
+    "terminal.integrated.gpuAcceleration": "on",
+    "terminal.integrated.scrollback": 10000,
+    "terminal.integrated.inheritEnv": true,
+    "terminal.integrated.fontSize": 14,
+
+    "terminal.integrated.profiles.linux": {
+        "bash": {
+            "path": "bash",
+            "icon": "terminal-bash"
+        },
+
+        "zsh": {
+            "path": "zsh"
+        },
+
+        "fish": {
+            "path": "fish"
+        },
+
+        "tmux": {
+            "path": "tmux",
+            "icon": "terminal-tmux"
+        }
+    },
+
+    /*
+        🪟 Window settings
+    */
+
+    "window.title": "${dirty}${rootName}/.../${activeEditorShort} ${separator} VSCode",
+    "window.openFoldersInNewWindow": "on",
+    "window.customMenuBarAltFocus": true,
+    "window.openFilesInNewWindow": "off",
+    "window.titleBarStyle": "custom",
+    "window.dialogStyle": "custom",
+    "window.confirmBeforeClose": "never",
+    "window.doubleClickIconToClose": true,
+    "window.menuBarVisibility": "compact",
+    "window.commandCenter": true,
+
+    /*
+        🛠️ Workbench
+    */
+
+    "workbench.colorCustomizations": {
+        "editor.lineHighlightBackground": "#1073cf2d",
+        "editor.lineHighlightBorder": "#9fced11f"
+    },
+
+    "workbench.editorLargeFileConfirmation": 1024,
+    "workbench.editor.pinnedTabSizing": "compact",
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.panel.opensMaximized": "never",
+    "workbench.editor.labelFormat": "short",
+    "workbench.colorTheme": "Tokyo Night",
+    "workbench.activityBar.visible": true,
+    "workbench.sideBar.location": "right",
+    "workbench.statusBar.visible": false,
+    "workbench.settings.editor": "json",
+    "workbench.editor.showIcons": true,
+    "workbench.editor.showTabs": true,
+    "workbench.startupEditor": "none",
+
+    "files.autoSaveDelay": 1000,
+    "files.autoSave": "afterDelay",
+    "files.refactoring.autoSave": true,
+    "files.associations": {
+        "example.json": "jsonc",
+        "*.theme": "plaintext",
+        ".firebaserc": "json",
+        ".babelrc": "json",
+        "*.yml": "yaml",
+        "*.yaml": "yaml",
+        ".env.example": "env",
+        ".env.production": "env"
+    },
+    "files.exclude": {
+        "node_modules": true
+    },
+
+    /*
+        📝 Editor settings
+    */
+
+    "editor.tokenColorCustomizations": {
+        "[One Dark Pro]": {
+            "textMateRules": [
+                {
+                    "scope": [
+                        "punctuation.definition.sequence.start.yaml",
+                        "punctuation.definition.sequence.end.yaml",
+                        "punctuation.definition.dictionary.begin.json.comments",
+                        "meta.structure.dictionary.json.comments",
+                        "meta.structure.array.json.comments",
+                        "meta.structure.dictionary.value.json.comments",
+                        "meta.structure.dictionary.json.comments",
+                        "meta.structure.dictionary.value.json.comments",
+                        "meta.structure.dictionary.json.comments",
+                        "meta.structure.dictionary.value.json.comments",
+                        "meta.structure.dictionary.json.comments"
+                    ],
+                    "settings": {
+                        "foreground": "#ADBAC7"
+                    }
+                },
+
+                {
+                    "scope": [
+                        "entity.name.tag.yaml",
+                        "support.type.property-name.json.comments",
+                        "punctuation.support.type.property-name.begin.json.comments",
+                        "punctuation.support.type.property-name.end.json.comments"
+                    ],
+                    "settings": {
+                        "foreground": "#8DDB8C"
+                    }
+                },
+
+                {
+                    "scope": [
+                        "string.quoted.double.json.comments",
+                        "string.unquoted.plain.out.yaml",
+                        "string.unquoted.plain.out.yaml",
+                        "string.quoted.double.yaml",
+                        "string.quoted.single.yaml"
+                    ],
+                    "settings": {
+                        "foreground": "#8cccf7"
+                    }
+                },
+
+                {
+                    "scope": "constant",
+                    "settings": {
+                        "foreground": "#d1bd66"
+                    }
+                }
+            ]
+        },
+
+        "[Tokyo Night]": {
+            "textMateRules": [
+                {
+                    "scope": "variable.other.declaration.go",
+                    "settings": {
+                        "foreground": "#cce6eb"
+                    }
+                },
+                {
+                    "scope": "constant.language",
+                    "settings": {
+                        "foreground": "#d1bd66"
+                    }
+                },
+                {
+                    "scope": "entity.name",
+                    "settings": {
+                        "foreground": "#73c9df"
+                    }
+                },
+                {
+                    "scope": "string",
+                    "settings": {
+                        "foreground": "#8df89b"
+                    }
+                }
+            ]
+        }
+    },
+
+    "editor.semanticTokenColorCustomizations": {
+        "enabled": true,
+        "rules": {
+            "*.mutable": {
+                "underline": false
+            }
+        },
+        "[One Dark Pro]": {
+            "rules": {},
+
+            "enabled": true
+        }
+    },
+
+    "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
+    "editor.fontFamily": "'Cascadia Code', 'Symbols Nerd Font Mono'",
+    "editor.suggest.selectionMode": "whenQuickSuggestion",
+    "editor.guides.highlightActiveIndentation": false,
+    "editor.guides.highlightActiveBracketPair": false,
+    "editor.bracketPairColorization.enabled": true,
+    "editor.autoClosingBrackets": "languageDefined",
+    "editor.guides.bracketPairsHorizontal": false,
+    "editor.linkedEditing": true,
+
+    // "editor.guides.bracketPairs": true,
+
+    "editor.scrollbar.verticalScrollbarSize": 13,
+    "editor.acceptSuggestionOnEnter": "smart",
+    "editor.hideCursorInOverviewRuler": true,
+    "editor.largeFileOptimizations": false,
+    "editor.scrollbar.horizontal": "auto",
+    "editor.scrollbar.vertical": "hidden",
+    "editor.renderWhitespace": "boundary",
+    "editor.inlineSuggest.enabled": true,
+    "editor.stickyScroll.enabled": true,
+    "editor.overviewRulerBorder": false,
+    "editor.guides.indentation": false,
+    "editor.fastScrollSensitivity": 50,
+    "editor.guides.bracketPairs": true,
+    "editor.formatOnSaveMode": "file",
+    "editor.cursorBlinking": "phase",
+    "editor.indentSize": "tabSize",
+    "editor.glyphMargin": false,
+    "editor.smoothScrolling": false,
+    "editor.autoIndent": "advanced",
+    "editor.matchBrackets": "never",
+    "editor.formatOnPaste": false,
+    "editor.formatOnType": false,
+    "editor.stickyTabStops": true,
+    "editor.tabCompletion": "on",
+    "editor.fontLigatures": true,
+    "editor.formatOnSave": true,
+    "editor.cursorStyle": "line",
+    "editor.letterSpacing": 0,
+    "editor.wordWrap": "off",
+    "editor.cursorWidth": 2,
+    "editor.tabSize": 4,
+
+    "zenMode.centerLayout": false,
+    "breadcrumbs.enabled": false,
+
+    "material-icon-theme.opacity": 1,
+    "material-icon-theme.folders.color": "#83aff2",
+    "material-icon-theme.folders.theme": "specific",
+    "material-icon-theme.files.associations": {
+        ".golangci.yaml": "Go_gopher",
+        "repository.go": "Codecov",
+        "compose.yaml": "Docker",
+        "handlers.go": "Coffee",
+        "compose.yml": "Docker",
+        "justfile": "Makefile",
+        "manager.go": "Red",
+        "dtos.go": "Robot",
+        "rules.go": "Todo",
+        "*.service": "Lib"
+    },
+
+    "material-icon-theme.saturation": 0.9,
+    "material-icon-theme.hidesExplorerArrows": true,
+
+    "material-icon-theme.folders.associations": {
+        "arango": "Database",
+        "audit": "Stack",
+        "backoffice": "Node",
+        "codes": "Mappings",
+        "collab": "Admin",
+        "compose": "Docker",
+        "cron": "Temp",
+        "datalayer": "Database",
+        "dataserver": "Server",
+        "drillster": "Helper",
+        "deployments": "Aws",
+        "dtos": "Shader",
+        "education": "Helper",
+        "emailer": "Mail",
+        "employee": "Admin",
+        "encryption": "Keys",
+        "Engine": "Core",
+        "errorx": "Error",
+        "eventbus": "Event",
+        "fields": "Batch",
+        "geography": "Global",
+        "grades": "Rules",
+        "internal": "Src",
+        "linkedin": "Public",
+        "match": "Stack",
+        "media": "Environment",
+        "metrics": "Mappings",
+        "motivation": "Gulp",
+        "nats": "Shared",
+        "news": "Resource",
+        "nginx": "Meta",
+        "notification": "Event",
+        "openapi": "Shared",
+        "openssl": "Keys",
+        "organization": "Node",
+        "perfreview": "Messages",
+        "profile": "Admin",
+        "prompts": "Custom",
+        "query": "Database",
+        "quiz": "Custom",
+        "reindexer": "Batch",
+        "repository": "Meta",
+        "rest": "Serverless",
+        "ristretto": "Batch",
+        "s3": "Aws",
+        "scim": "Secure",
+        "search": "Review",
+        "Seed": "GitLab",
+        "sites": "Environment",
+        "skills": "Azure-pipelines",
+        "stats": "Mappings",
+        "team": "Content",
+        "trad": "I18n",
+        "types": "Container",
+        "units": "Home",
+        "user": "Admin",
+        "validate": "Rules",
+        "websocket": "Cluster",
+        "workflows": "Github",
+        "xlsx": "Meta"
+    },
+
+    "indenticator.color.dark": "rgba(255,255, 255, 0.1)",
+    "indenticator.width": 0.1,
+
+    /* 
+        🧪 Programming languages and other tools
+    */
+
+    // Go
+
+    "gopls": {
+        "formatting.gofumpt": true
+    },
+    "go.useLanguageServer": true,
+    "go.toolsManagement.autoUpdate": true,
+    "go.lintTool": "golangci-lint",
+    "go.diagnostic.vulncheck": "Imports",
+    "go.formatTool": "gofumpt",
+    "go.lintOnSave": "package",
+    "go.survey.prompt": true,
+    "go.inlayHints.constantValues": false,
+    "go.inlayHints.functionTypeParameters": false,
+    "go.autocompleteUnimportedPackages": true,
+    "go.liveErrors": {
+        "enabled": false,
+        "delay": 500
+    },
+    "go.lintFlags": ["--fast"],
+
+    "[go]": {
+        "editor.insertSpaces": false,
+        "editor.codeActionsOnSave": {
+            "source.organizeImports": true
+        },
+        "editor.tabSize": 4,
+        "editor.suggest.snippetsPreventQuickSuggestions": false
+    },
+
+    //  Nix
+
+    "[nix]": {
+        "editor.defaultFormatter": "kamadorueda.alejandra",
+        "editor.insertSpaces": true,
+        "editor.tabSize": 2
+    },
+
+    "nix.enableLanguageServer": true,
+    "nix.serverPath": "rnix-lsp",
+    "alejandra.program": "alejandra",
+
+    "[ocaml]": {
+        "editor.tabSize": 2,
+        "editor.insertSpaces": true,
+        "editor.defaultFormatter": "ocamllabs.ocaml-platform"
+    },
+
+    "ocaml.dune.autoDetect": true,
+
+    // Rust
+    "[rust]": {
+        "editor.defaultFormatter": "rust-lang.rust-analyzer"
+    },
+
+    "rust-analyzer.inlayHints.closingBraceHints.enable": false,
+
+    // Shell script
+
+    "[shellscript]": {
+        "editor.defaultFormatter": "mkhl.shfmt"
+    },
+
+    // JSON, and JavaScript related
+
+    "typescript.updateImportsOnFileMove.enabled": "always",
+
+    "eslint.trace.server": "off",
+
+    "prettier.documentSelectors": ["**/*.astro"],
+    "prettier.trailingComma": "none",
+    "prettier.singleQuote": true,
+    "prettier.endOfLine": "auto",
+    "prettier.useTabs": false,
+    "prettier.printWidth": 120,
+    "prettier.enable": true,
+    "prettier.tabWidth": 4,
+    "prettier.semi": false,
+
+    "[json]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode",
+        "editor.autoIndent": "full"
+    },
+
+    "[jsonc]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode",
+        "editor.autoIndent": "full"
+    },
+
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+
+    "[javascriptreact]": {
+        "editor.rulers": [125],
+
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+
+    "[typescript]": {
+        "editor.rulers": [125],
+
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+
+    "[typescriptreact]": {
+        "editor.rulers": [125],
+
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+
+    // Python
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.python"
+    },
+
+    "python.terminal.activateEnvironment": true,
+    "python.languageServer": "Default",
+
+    // Dart
+    "[dart]": {
+        "editor.suggest.snippetsPreventQuickSuggestions": false,
+        "editor.tabCompletion": "onlySnippets",
+        "editor.wordBasedSuggestions": false,
+        "editor.selectionHighlight": false,
+        "editor.suggestSelection": "first",
+        "editor.rulers": [80]
+    },
+
+    // Web-only
+
+    "[html]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+
+    "[css]": {
+        "editor.defaultFormatter": "vscode.css-language-features"
+    },
+
+    "[scss]": {
+        "editor.defaultFormatter": "vscode.css-language-features"
+    },
+
+    // Latex
+    "latex-workshop.latex.watch.pdf.delay": 250,
+    "latex-workshop.latex.autoClean.run": "onSucceeded",
+    "latex-workshop.latex.autoBuild.run": "onFileChange",
+
+    // Etc languages
+    "[markdown]": {
+        "editor.wordWrap": "off",
+        "editor.quickSuggestions": {
+            "comments": true,
+            "strings": true,
+            "other": true
+        },
+        "editor.defaultFormatter": "DavidAnson.vscode-markdownlint"
+    },
+
+    "[toml]": {
+        "editor.defaultFormatter": "tamasfe.even-better-toml"
+    },
+
+    "[just]": {
+        "editor.defaultFormatter": "skellock.just"
+    },
+
+    "[vue]": {
+        "editor.defaultFormatter": "rvest.vs-code-prettier-eslint"
+    },
+
+    "[vue-directives]": {
+        "editor.defaultFormatter": "dbaeumer.vscode-eslint"
+    },
+
+    "volar.format.initialIndent": {
+        "html": true
+    },
+
+    "[yaml]": {
+        "editor.insertSpaces": true,
+        "editor.defaultFormatter": "redhat.vscode-yaml",
+        "editor.tabSize": 2,
+        "editor.autoIndent": "keep"
+    },
+    "yaml.format.enable": true,
+    "yaml.completion": true,
+
+    "[makefile]": {
+        "editor.insertSpaces": false,
+        "editor.tabCompletion": "on",
+        "editor.detectIndentation": true
+    },
+
+    /*
+        🔍📖 Spell checker
+    */
+
+    "cSpell.enabled": true,
+    "cSpell.language": "en,fr",
+
+    "cSpell.userWords": [
+        // Any context
+        "committerdate",
+        "shellcheckrc",
+        "unmarshalled",
+        "indenticator",
+        "localappdata",
+        "syncronized",
+        "kamadorueda",
+        "libncursesw",
+        "libncurses",
+        "journalctl",
+        "commitlint",
+        "httpserver",
+        "videogames",
+        "backoffice",
+        "firebaserc",
+        "scrollback",
+        "unimported",
+        "lazydocker",
+        "autorebase",
+        "linebreak",
+        "libnotify",
+        "datalayer",
+        "tsconfigs",
+        "luisnquin",
+        "vlanguage",
+        "publickey",
+        "plantasia",
+        "monocraft",
+        "firstname",
+        "unzipper",
+        "autoload",
+        "lastname",
+        "compinit",
+        "dotfiles",
+        "mocktail",
+        "lastyear",
+        "azoricum",
+        "justfile",
+        "quiñones",
+        "requelme",
+        "desstorm",
+        "arangojs",
+        "cascadia",
+        "batlimit",
+        "pliskin",
+        "varchar",
+        "bindkey",
+        "semgrep",
+        "unmuted",
+        "codecov",
+        "pylance",
+        "inplace",
+        "oneline",
+        "redocly",
+        "lazygit",
+        "zathura",
+        "nutella",
+        "nixpkgs",
+        "openapi",
+        "stylint",
+        "compadd",
+        "sslmode",
+        "compdef",
+        "signout",
+        "jinzhu",
+        "signin",
+        "samber",
+        "strenv",
+        "jasmín",
+        "wrappe",
+        "amixer",
+        "dbname",
+        "libmpv",
+        "wechat",
+        "openai",
+        "zstyle",
+        "isatty",
+        "pgdata",
+        "errorf",
+        "debugf",
+        "argocd",
+        "samber",
+        "upsert",
+        "rundll",
+        "tcell",
+        "pgrep",
+        "ninym",
+        "htmlq",
+        "ralei",
+        "nixos",
+        "shfmt",
+        "astro",
+        "warnf",
+        "infof",
+        "rustc",
+        "tview",
+        "xclip",
+        "imgbb",
+        "weibo",
+        "virt",
+        "imdb",
+        "fira",
+        "rnix",
+        "nord",
+        "jexp",
+        "etag",
+        "inka",
+        "dtos",
+        "nvim",
+        "shrc",
+        "rgba",
+        "bson",
+        "vite",
+        "opam",
+        "betd",
+        "pkgs",
+        "dto",
+
+        // http
+        "openxmlformats",
+        "officedocument",
+        "spreadsheetml",
+
+        // Extensions
+        "behaviour",
+        "tabnine",
+        "vscord",
+        "donot",
+
+        // Authors
+        "russellhaering",
+        "jesseduffield",
+        "julienschmidt",
+        "charmbracelet",
+        "sashabaranov",
+        "PuerkitoBio",
+        "barkimedes",
+        "briandowns",
+        "jroimartin",
+        "shopspring",
+        "mitchellh",
+        "blinxwang",
+        "deckarep",
+        "agnivade",
+        "caarlos0",
+        "skellock",
+        "goodsign",
+        "brianvoe",
+        "mdaverde",
+        "varcheck",
+        "stretchr",
+        "treilik",
+        "malisit",
+        "tamasfe",
+        "d-tsuji",
+        "fedulov",
+        "matoous",
+        "unparam",
+        "gdamore",
+        "beevik",
+        "esbenp",
+        "vitali",
+        "imulab",
+        "urfave",
+        "logzap",
+        "rakyll",
+        "hiyosi",
+        "gookit",
+        "padder",
+        "vlang",
+        "labix",
+        "xeonx",
+        "goccy",
+        "Anson",
+        "mvdan",
+        "scim",
+        "mattn",
+        "xhit",
+        "mkhl",
+        "xuri",
+        "rivo",
+
+        // Python
+        "apscheduler",
+        "virtualenv",
+        "pydantic",
+        "plombery",
+        "fastapi",
+        "uvicorn",
+        "venv",
+
+        // Git
+        "committer",
+
+        // Go
+        "gochecknoglobals",
+        "passwordreminder",
+        "pwdremindersent",
+        "forcetypeassert",
+        "openweathermap",
+        "gochecknoinits",
+        "badloginused",
+        "containedctx",
+        "mapstructure",
+        "nosnakecase",
+        "govulncheck",
+        "randatetime",
+        "userblocked",
+        "gotraceback",
+        "handlerutil",
+        "bubbleboxer",
+        "httprouter",
+        "panicparse",
+        "badpwdused",
+        "memprofile",
+        "libopenapi",
+        "cpuprofile",
+        "goxmldsig",
+        "scopelint",
+        "bubbletea",
+        "goprivate",
+        "vulncheck",
+        "terminfo",
+        "excelize",
+        "lipgloss",
+        "deepcopy",
+        "worktree",
+        "alphanum",
+        "gocognit",
+        "gofakeit",
+        "golangci",
+        "gonanoid",
+        "fparser",
+        "samlurl",
+        "zerolog",
+        "gocolly",
+        "ifshort",
+        "gosaml",
+        "pdfutil",
+        "ldflags",
+        "timeago",
+        "goquery",
+        "gofumpt",
+        "storer",
+        "appdir",
+        "funlen",
+        "etree",
+        "mapset",
+        "goarch",
+        "nolint",
+        "gopath",
+        "awserr",
+        "nestif",
+        "gomnd",
+        "gopls",
+        "pprof",
+        "memfs",
+        "gocui",
+        "godox",
+        "kolpa",
+        "redoc",
+        "addf",
+        "fpdf",
+        "strs",
+        "anys",
+        "errc",
+        "msgf",
+        "gorm",
+        "dupl",
+
+        "removeallkeyinfobytypename",
+        "getttldocumentcollection",
+        "saveintransactioncommand",
+        "jobmatchingresultsaved",
+        "profilejobgraphcommand",
+        "educationrequestsaved",
+        "changepasswordcommand",
+        "getdocumentcollection",
+        "getkeyinfobytypename",
+        "checkifexistbyfields",
+        "refreshgraphcommand",
+        "jobprogresscommand",
+        "motivationcategory",
+        "evolutionappraisal",
+        "existsincollection",
+        "matchquerycommand",
+        "partiallyapproved",
+        "performancereview",
+        "employeevalidated",
+        "jobmatchingresult",
+        "managervalidated",
+        "sendemailcommand",
+        "importresultinfo",
+        "educationrequest",
+        "getwithaqlquery",
+        "savemanycommand",
+        "sysopcompleted",
+        "profilehistory",
+        "filedownloaded",
+        "getallconcepts",
+        "onboardingstep",
+        "remindpassword",
+        "getkeyinfobyid",
+        "getallkeyinfo",
+        "hobbycategory",
+        "skillcategory",
+        "emailtemplate",
+        "arangorestore",
+        "educationfile",
+        "employeestats",
+        "storageunits",
+        "sysopstarted",
+        "quizcategory",
+        "progresstype",
+        "notconcerned",
+        "usersignedin",
+        "imagecommand",
+        "asynccommand",
+        "subordinater",
+        "arangodbhttp",
+        "customsearch",
+        "emailaddress",
+        "savecommand",
+        "liteprofile",
+        "seedupdated",
+        "synccommand",
+        "serverutils",
+        "skillscores",
+        "xlgenerator",
+        "getsyncinfo",
+        "usercreated",
+        "jobcategory",
+        "ensureview",
+        "abandonned",
+        "instanceid",
+        "getconcept",
+        "createview",
+        "saveobject",
+        "datestring",
+        "workertask",
+        "clienttest",
+        "quizresult",
+        "jumpcollab",
+        "costcentre",
+        "googleapis",
+        "dataserver",
+        "skillscore",
+        "perfreview",
+        "customname",
+        "arangodump",
+        "mcqcomplex",
+        "getobject",
+        "tduration",
+        "proxycurl",
+        "clusterid",
+        "encrypter",
+        "onboarded",
+        "appraisee",
+        "appraisor",
+        "emailsent",
+        "drillster",
+        "reindexer",
+        "ristretto",
+        "radartype",
+        "ordertype",
+        "orgconfig",
+        "preheader",
+        "skippable",
+        "mcqsimple",
+        "finduser",
+        "syncinfo",
+        "blocklen",
+        "backuper",
+        "organise",
+        "dontknow",
+        "locktime",
+        "jsoniter",
+        "promhttp",
+        "neobrain",
+        "emaillog",
+        "arangodb",
+        "eventlog",
+        "eventbus",
+        "samlslo",
+        "getmany",
+        "reindex",
+        "xlquery",
+        "lanczos",
+        "keyinfo",
+        "preprod",
+        "collab",
+        "cronapi",
+        "nameid",
+        "slourl",
+        "xcert",
+        "accomp",
+        "arango",
+        "apiurl",
+        "syncer",
+        "errorx",
+        "feuil1",
+        "killds",
+        "ssourl",
+        "nubela",
+        "idpsso",
+        "areaid",
+        "getall",
+        "runds",
+        "webui",
+        "unpad",
+        "spsso",
+        "xlgen",
+        "trads",
+        "orgid",
+        "bpalc",
+        "resty",
+        "uat's",
+        "cecaz",
+        "bpri",
+        "bcom",
+        "pkcs",
+        "bpoc",
+        "dsig",
+        "aito",
+        "cavf",
+        "serv",
+        "itim",
+        "peis",
+        "aeis",
+        "ceapc",
+        "cebfc",
+        "celr",
+        "nats",
+        "grhs",
+        "grh",
+
+        // Spanish
+        "estrenos",
+        "estreno",
+        "fecha",
+
+        // French
+        "réinitialisation",
+        "téléchargement",
+        "informatique",
+        "dutilisation",
+        "compétences",
+        "obligatoire",
+        "responsable",
+        "conseiller",
+        "contacter",
+        "générales",
+        "entretien",
+        "finalisé",
+        "commencé",
+        "mobilité",
+        "survenue",
+        "reconnu",
+        "carrière",
+        "fichier",
+        "accéder",
+        "demande",
+        "erreur",
+        "succès",
+        "projet",
+        "validé",
+        "reçue",
+        "votre",
+        "echec"
+    ],
+
+    "cSpell.enableFiletypes": [
+        "shellcheckrc",
+        "shellscript",
+        "govulncheck",
+        "dockerfile",
+        "jsx-tags",
+        "makefile",
+        "jinja",
+        "astro",
+        "http",
+        "csv",
+        "env",
+        "log",
+        "sql"
+    ],
+
+    "cSpell.caseSensitive": false,
+    "cSpell.ignorePaths": [
+        "package-lock.json",
+        "package.json",
+        "node_modules",
+        "vscode-extension",
+        ".git/objects",
+        ".vscode",
+        ".vscode-insiders"
+    ],
+
+    /*
+        💬 Other
+    */
+
+    "vscord.enabled": true,
+    "vscord.status.image.large.viewing.text": "Flirting with a {LANG} file",
+    "vscord.behaviour.suppressNotifications": true,
+
+    "thunder-client.saveRequestOnSend": true,
+    "thunder-client.httpVersion": "HTTP/1.1",
+    "thunder-client.followRedirects": true,
+    "thunder-client.requestTimeout": 5000,
+    "thunder-client.responseLimit": 10,
+    "thunder-client.indentSize": 2,
+
+    "tabnine.experimentalAutoImports": true,
+
+    "vscode-pets.theme": "forest",
+    "vscode-pets.petSize": "medium",
+    "vscode-pets.throwBallWithMouse": true,
+
+    "redhat.telemetry.enabled": true,
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "vscode-edge-devtools.webhint": false
+}
