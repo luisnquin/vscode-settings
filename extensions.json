@@ -155,11 +155,6 @@
         "enabled": true
     },
     {
-        "identifier": "jackpanyj.zip-preview",
-        "version": "0.0.4",
-        "enabled": false
-    },
-    {
         "identifier": "jeff-hykin.better-cpp-syntax",
         "version": "1.17.2",
         "enabled": true
@@ -405,11 +400,6 @@
         "enabled": true
     },
     {
-        "identifier": "slevesque.vscode-zipexplorer",
-        "version": "0.3.1",
-        "enabled": false
-    },
-    {
         "identifier": "streetsidesoftware.code-spell-checker",
         "version": "2.20.5",
         "enabled": true
@@ -427,11 +417,6 @@
     {
         "identifier": "timonwong.shellcheck",
         "version": "0.32.6",
-        "enabled": true
-    },
-    {
-        "identifier": "TomasHubelbauer.zip-file-system",
-        "version": "2.0.0",
         "enabled": true
     },
     {
