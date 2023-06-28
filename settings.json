@@ -1084,5 +1084,7 @@
 
     "redhat.telemetry.enabled": true,
     "javascript.updateImportsOnFileMove.enabled": "always",
-    "vscode-edge-devtools.webhint": false
+    "vscode-edge-devtools.webhint": false,
+    "zig.zigPath": "/home/luisnquin/.nix-profile/bin/zig",
+    "zig.zls.path": "/home/luisnquin/.config/Code/User/globalStorage/ziglang.vscode-zig/zls_install/zls"
 }
