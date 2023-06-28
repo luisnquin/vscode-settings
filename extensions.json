@@ -6,7 +6,7 @@
     },
     {
         "identifier": "42Crunch.vscode-openapi",
-        "version": "4.18.4",
+        "version": "4.18.5",
         "enabled": true
     },
     {
@@ -336,7 +336,7 @@
     },
     {
         "identifier": "rangav.vscode-thunder-client",
-        "version": "2.8.2",
+        "version": "2.8.3",
         "enabled": true
     },
     {
@@ -436,12 +436,12 @@
     },
     {
         "identifier": "Vue.volar",
-        "version": "1.8.2",
+        "version": "1.8.3",
         "enabled": true
     },
     {
         "identifier": "Vue.vscode-typescript-vue-plugin",
-        "version": "1.8.2",
+        "version": "1.8.3",
         "enabled": true
     },
     {
