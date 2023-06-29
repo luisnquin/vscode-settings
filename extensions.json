@@ -221,7 +221,7 @@
     },
     {
         "identifier": "ms-azuretools.vscode-docker",
-        "version": "1.25.1",
+        "version": "1.25.2",
         "enabled": true
     },
     {
@@ -271,7 +271,7 @@
     },
     {
         "identifier": "ms-vscode.cmake-tools",
-        "version": "1.14.33",
+        "version": "1.14.34",
         "enabled": true
     },
     {
@@ -296,7 +296,7 @@
     },
     {
         "identifier": "ms-vscode.vscode-typescript-next",
-        "version": "5.2.20230627",
+        "version": "5.2.20230628",
         "enabled": true
     },
     {
@@ -406,7 +406,7 @@
     },
     {
         "identifier": "TabNine.tabnine-vscode",
-        "version": "3.6.61",
+        "version": "3.6.62",
         "enabled": true
     },
     {
