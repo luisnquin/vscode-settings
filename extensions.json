@@ -111,7 +111,7 @@
     },
     {
         "identifier": "esbenp.prettier-vscode",
-        "version": "9.16.0",
+        "version": "9.18.0",
         "enabled": true
     },
     {
@@ -296,7 +296,7 @@
     },
     {
         "identifier": "ms-vscode.vscode-typescript-next",
-        "version": "5.2.20230628",
+        "version": "5.2.20230629",
         "enabled": true
     },
     {
