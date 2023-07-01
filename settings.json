@@ -254,7 +254,7 @@
     "editor.glyphMargin": false,
     "editor.smoothScrolling": false,
     "editor.autoIndent": "advanced",
-    "editor.matchBrackets": "never",
+    "editor.matchBrackets": false,
     "editor.formatOnPaste": false,
     "editor.formatOnType": false,
     "editor.stickyTabStops": true,
@@ -570,6 +570,7 @@
         "syncronized",
         "kamadorueda",
         "libncursesw",
+        "unversioned",
         "libncurses",
         "journalctl",
         "commitlint",
@@ -670,6 +671,7 @@
         "etag",
         "inka",
         "dtos",
+        "senv",
         "nvim",
         "shrc",
         "rgba",
@@ -679,18 +681,18 @@
         "betd",
         "pkgs",
         "dto",
-        
+
         // http
         "openxmlformats",
         "officedocument",
         "spreadsheetml",
-        
+
         // Extensions
         "behaviour",
         "tabnine",
         "vscord",
         "donot",
-        
+
         // Authors
         "russellhaering",
         "jesseduffield",
@@ -700,6 +702,7 @@
         "PuerkitoBio",
         "barkimedes",
         "briandowns",
+        "manifoldco",
         "jroimartin",
         "shopspring",
         "mitchellh",
@@ -787,6 +790,7 @@
         "vulncheck",
         "terminfo",
         "excelize",
+        "promptui",
         "lipgloss",
         "deepcopy",
         "worktree",
