@@ -679,18 +679,18 @@
         "betd",
         "pkgs",
         "dto",
-
+        
         // http
         "openxmlformats",
         "officedocument",
         "spreadsheetml",
-
+        
         // Extensions
         "behaviour",
         "tabnine",
         "vscord",
         "donot",
-
+        
         // Authors
         "russellhaering",
         "jesseduffield",
@@ -706,6 +706,7 @@
         "blinxwang",
         "deckarep",
         "agnivade",
+        "integrii",
         "caarlos0",
         "skellock",
         "goodsign",
