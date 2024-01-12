@@ -1,0 +1,35 @@
+#!/usr/bin/env bash
+
+BLD='\e[1m'
+DEF='\e[0m'
+CYN='\e[96m'
+MGN='\e[95m'
+
+get_user_settings_json() {
+    cat "/home/$USER/.config/Code/User/settings.json"
+}
+
+get_user_extensions_json() {
+    raw=$(code --list-extensions --show-versions | awk -F '@' '{print "{\"identifier\": \""$1"\", \"enable\": true, \"version\": \""$2"\"}, "}')
+    echo "[${raw::-2}]" | jq
+}
+
+get_commit_message() {
+    vscode_version=$(code --version | tr '\n' ' ' | awk '{print $1}')
+    today=$(date -u +%Y-%m-%d)
+
+    echo "chore: VS-$vscode_version <${USER}@$(hostname)>  VSCode settings repository at $today"
+}
+
+main() {
+    get_user_extensions_json >./extensions.json
+    get_user_settings_json >./settings.json
+    echo -e "${MGN}Done.${DEF}"
+    echo
+
+    echo -e "${BLD}${CYN}Next steps:${DEF}"
+    echo "git add *.json"
+    echo "git commit -m \"$(get_commit_message)\""
+}
+
+main "$@"
