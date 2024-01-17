@@ -7,7 +7,7 @@
   {
     "identifier": "42Crunch.vscode-openapi",
     "enable": true,
-    "version": "4.19.5"
+    "version": "4.20.0"
   },
   {
     "identifier": "aaron-bond.better-comments",
@@ -322,7 +322,7 @@
   {
     "identifier": "ms-vscode.vscode-typescript-next",
     "enable": true,
-    "version": "5.4.20240111"
+    "version": "5.4.20240115"
   },
   {
     "identifier": "ms-vsliveshare.vsliveshare",
@@ -337,7 +337,7 @@
   {
     "identifier": "ocamllabs.ocaml-platform",
     "enable": true,
-    "version": "1.15.0"
+    "version": "1.16.0"
   },
   {
     "identifier": "octref.vetur",
@@ -362,7 +362,7 @@
   {
     "identifier": "rangav.vscode-thunder-client",
     "enable": true,
-    "version": "2.17.0"
+    "version": "2.17.1"
   },
   {
     "identifier": "redhat.vscode-yaml",
@@ -397,7 +397,7 @@
   {
     "identifier": "rust-lang.rust-analyzer",
     "enable": true,
-    "version": "0.3.1799"
+    "version": "0.3.1807"
   },
   {
     "identifier": "rvest.vs-code-prettier-eslint",
@@ -432,7 +432,7 @@
   {
     "identifier": "TabNine.tabnine-vscode",
     "enable": true,
-    "version": "3.57.0"
+    "version": "3.62.0"
   },
   {
     "identifier": "tamasfe.even-better-toml",
@@ -443,6 +443,11 @@
     "identifier": "timonwong.shellcheck",
     "enable": true,
     "version": "0.35.0"
+  },
+  {
+    "identifier": "tomoki1207.pdf",
+    "enable": true,
+    "version": "1.2.2"
   },
   {
     "identifier": "tonybaloney.vscode-pets",
@@ -497,7 +502,7 @@
   {
     "identifier": "yzhang.markdown-all-in-one",
     "enable": true,
-    "version": "3.6.1"
+    "version": "3.6.2"
   },
   {
     "identifier": "zeshuaro.vscode-python-poetry",

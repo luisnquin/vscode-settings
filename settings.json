@@ -447,6 +447,8 @@
         "editor.autoIndent": "full"
     },
 
+    "reactSnippets.settings.prettierEnabled": true,
+
     "[javascript]": {
         "editor.defaultFormatter": "esbenp.prettier-vscode"
     },
@@ -642,6 +644,7 @@
         "openai",
         "zstyle",
         "isatty",
+        "nixfmt",
         "pgdata",
         "errorf",
         "debugf",
@@ -767,6 +770,7 @@
         "committer",
 
         // Rust
+        "linuxver",
         "chrono",
         "soloud",
 
