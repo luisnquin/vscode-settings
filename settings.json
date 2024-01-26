@@ -76,7 +76,7 @@
     "window.dialogStyle": "custom",
     "window.confirmBeforeClose": "never",
     "window.doubleClickIconToClose": true,
-    "window.menuBarVisibility": "toggle",
+    "window.menuBarVisibility": "compact",
     "window.commandCenter": true,
 
     /*
@@ -93,7 +93,6 @@
     "workbench.iconTheme": "eq-material-theme-icons-ocean",
     "workbench.panel.opensMaximized": "never",
     "workbench.editor.labelFormat": "short",
-    "workbench.colorTheme": "Tokyo Night",
     "workbench.sideBar.location": "right",
     "workbench.statusBar.visible": false,
     "workbench.settings.editor": "json",
@@ -115,7 +114,10 @@
         ".env.production": "env"
     },
     "files.exclude": {
-        "node_modules": true
+        "node_modules": true,
+        ".direnv": true,
+        ".next": true,
+        "coverage-ts": true
     },
 
     /*
@@ -382,7 +384,7 @@
     "[go]": {
         "editor.insertSpaces": false,
         "editor.codeActionsOnSave": {
-            "source.organizeImports": true
+            "source.organizeImports": "explicit"
         },
         "editor.tabSize": 4,
         "editor.suggest.snippetsPreventQuickSuggestions": false
@@ -483,7 +485,7 @@
     "[dart]": {
         "editor.suggest.snippetsPreventQuickSuggestions": false,
         "editor.tabCompletion": "onlySnippets",
-        "editor.wordBasedSuggestions": false,
+        "editor.wordBasedSuggestions": "off",
         "editor.selectionHighlight": false,
         "editor.suggestSelection": "first",
         "editor.rulers": [80]
@@ -576,6 +578,7 @@
         "commitlint",
         "httpserver",
         "videogames",
+        "noreferrer",
         "backoffice",
         "firebaserc",
         "scrollback",
@@ -609,6 +612,8 @@
         "arangojs",
         "cascadia",
         "batlimit",
+        "realpath",
+        "noopener",
         "pliskin",
         "varchar",
         "bindkey",
@@ -851,6 +856,9 @@
         "gorm",
         "dupl",
 
+        // Astro
+        "frontmatter",
+
         // Spanish
         "estrenos",
         "estreno",
@@ -938,5 +946,6 @@
     "javascript.updateImportsOnFileMove.enabled": "always",
     "vscode-edge-devtools.webhint": false,
     "zig.path": "/home/luisnquin/.nix-profile/bin/zig",
-    "zig.zls.path": "/home/luisnquin/.config/Code/User/globalStorage/ziglang.vscode-zig/zls_install/zls"
+    "zig.zls.path": "/home/luisnquin/.config/Code/User/globalStorage/ziglang.vscode-zig/zls_install/zls",
+    "workbench.colorTheme": "Tokyo Night"
 }
