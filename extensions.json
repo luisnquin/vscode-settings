@@ -62,7 +62,7 @@
   {
     "identifier": "DavidAnson.vscode-markdownlint",
     "enable": true,
-    "version": "0.53.0"
+    "version": "0.54.0"
   },
   {
     "identifier": "dawidd6.debian-vscode",
@@ -230,6 +230,11 @@
     "version": "0.0.18"
   },
   {
+    "identifier": "mikestead.dotenv",
+    "enable": true,
+    "version": "1.0.1"
+  },
+  {
     "identifier": "mintlify.document",
     "enable": true,
     "version": "2.2.1"
@@ -277,7 +282,7 @@
   {
     "identifier": "ms-python.vscode-pylance",
     "enable": true,
-    "version": "2024.1.100"
+    "version": "2024.1.101"
   },
   {
     "identifier": "ms-vscode-remote.remote-containers",
@@ -407,7 +412,7 @@
   {
     "identifier": "rust-lang.rust-analyzer",
     "enable": true,
-    "version": "0.3.1815"
+    "version": "0.3.1823"
   },
   {
     "identifier": "rvest.vs-code-prettier-eslint",
@@ -442,7 +447,7 @@
   {
     "identifier": "TabNine.tabnine-vscode",
     "enable": true,
-    "version": "3.63.0"
+    "version": "3.65.0"
   },
   {
     "identifier": "tamasfe.even-better-toml",
@@ -517,7 +522,7 @@
   {
     "identifier": "zeshuaro.vscode-python-poetry",
     "enable": true,
-    "version": "0.17.10"
+    "version": "0.17.11"
   },
   {
     "identifier": "zhuangtongfa.material-theme",

@@ -269,7 +269,7 @@
     "editor.tabSize": 4,
 
     "zenMode.centerLayout": false,
-    "breadcrumbs.enabled": false,
+    "breadcrumbs.enabled": true,
 
     "material-icon-theme.opacity": 1,
     "material-icon-theme.folders.color": "#83aff2",
@@ -572,6 +572,7 @@
         "localappdata",
         "syncronized",
         "kamadorueda",
+        "freedesktop",
         "libncursesw",
         "libncurses",
         "journalctl",
@@ -677,6 +678,7 @@
         "virt",
         "imdb",
         "senv",
+        "dbus",
         "fira",
         "rnix",
         "nord",
@@ -776,6 +778,7 @@
 
         // Rust
         "linuxver",
+        "anstyle",
         "chrono",
         "soloud",
 
