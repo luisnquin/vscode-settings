@@ -764,6 +764,9 @@
         "xuri",
         "rivo",
 
+        // Node || JS
+        "typeorm",
+
         // Python
         "apscheduler",
         "virtualenv",
