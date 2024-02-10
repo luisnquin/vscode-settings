@@ -632,6 +632,7 @@
         "nixpkgs",
         "openapi",
         "stylint",
+        "fsutils",
         "compadd",
         "sslmode",
         "compdef",
