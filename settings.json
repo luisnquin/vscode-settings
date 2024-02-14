@@ -477,6 +477,7 @@
     "[python]": {
         "editor.defaultFormatter": "ms-python.python"
     },
+    "pylint.args": ["--disable=C0111,C0114,C0115,C0116"],
 
     "python.terminal.activateEnvironment": true,
     "python.languageServer": "Default",
@@ -768,7 +769,8 @@
         "xuri",
         "rivo",
 
-        // Node || JS
+        // Node || JS || NestJS
+        "streamable",
         "typeorm",
 
         // SQL
