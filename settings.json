@@ -680,6 +680,7 @@
         "perú",
         "imgbb",
         "weibo",
+        "neww",
         "virt",
         "imdb",
         "senv",
@@ -913,6 +914,8 @@
         "inversionesio",
         "inversiones",
         "apiperu",
+        "reniec",
+        "sunat",
         "invio"
     ],
 
@@ -969,5 +972,8 @@
     "vscode-edge-devtools.webhint": false,
     "zig.path": "/home/luisnquin/.nix-profile/bin/zig",
     "zig.zls.path": "/home/luisnquin/.config/Code/User/globalStorage/ziglang.vscode-zig/zls_install/zls",
-    "workbench.colorTheme": "Tokyo Night"
+    "workbench.colorTheme": "Tokyo Night",
+    "[dockerfile]": {
+        "editor.defaultFormatter": "ms-azuretools.vscode-docker"
+    }
 }
