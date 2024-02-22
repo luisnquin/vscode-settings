@@ -85,6 +85,11 @@
     "version": "1.0.0"
   },
   {
+    "identifier": "dotjoshjohnson.xml",
+    "enable": true,
+    "version": "2.5.1"
+  },
+  {
     "identifier": "dsznajder.es7-react-js-snippets",
     "enable": true,
     "version": "4.4.3"
@@ -152,7 +157,7 @@
   {
     "identifier": "golang.go",
     "enable": true,
-    "version": "0.41.0"
+    "version": "0.41.1"
   },
   {
     "identifier": "grapecity.gc-excelviewer",
@@ -277,7 +282,7 @@
   {
     "identifier": "ms-python.debugpy",
     "enable": true,
-    "version": "2024.3.10511005"
+    "version": "2024.3.10521007"
   },
   {
     "identifier": "ms-python.isort",
@@ -297,7 +302,7 @@
   {
     "identifier": "ms-python.vscode-pylance",
     "enable": true,
-    "version": "2024.2.101"
+    "version": "2024.2.102"
   },
   {
     "identifier": "ms-vscode-remote.remote-containers",
@@ -322,12 +327,12 @@
   {
     "identifier": "ms-vscode.cmake-tools",
     "enable": true,
-    "version": "1.17.15"
+    "version": "1.17.16"
   },
   {
     "identifier": "ms-vscode.cpptools",
     "enable": true,
-    "version": "1.19.3"
+    "version": "1.19.4"
   },
   {
     "identifier": "ms-vscode.cpptools-extension-pack",
@@ -352,7 +357,7 @@
   {
     "identifier": "ms-vscode.vscode-typescript-next",
     "enable": true,
-    "version": "5.4.20240219"
+    "version": "5.5.20240221"
   },
   {
     "identifier": "ms-vsliveshare.vsliveshare",
@@ -393,6 +398,11 @@
     "identifier": "rangav.vscode-thunder-client",
     "enable": true,
     "version": "2.17.8"
+  },
+  {
+    "identifier": "redhat.vscode-xml",
+    "enable": true,
+    "version": "0.26.1"
   },
   {
     "identifier": "redhat.vscode-yaml",
@@ -462,7 +472,7 @@
   {
     "identifier": "tabnine.tabnine-vscode",
     "enable": true,
-    "version": "3.71.0"
+    "version": "3.72.0"
   },
   {
     "identifier": "tamasfe.even-better-toml",

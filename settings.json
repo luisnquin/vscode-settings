@@ -83,11 +83,6 @@
         🛠️ Workbench
     */
 
-    "workbench.colorCustomizations": {
-        "editor.lineHighlightBackground": "#1073cf2d",
-        "editor.lineHighlightBorder": "#9fced11f"
-    },
-
     "workbench.editorLargeFileConfirmation": 1024,
     "workbench.editor.pinnedTabSizing": "compact",
     "workbench.iconTheme": "eq-material-theme-icons-ocean",
@@ -561,7 +556,7 @@
         🔍📖 Spell checker
     */
 
-    "cSpell.enabled": true,
+    "cSpell.enabled": false,
     "cSpell.language": "en,fr",
 
     "cSpell.userWords": [
@@ -596,6 +591,7 @@
         "publickey",
         "plantasia",
         "monocraft",
+        "encrypter",
         "firstname",
         "hyprland",
         "unzipper",
@@ -912,6 +908,7 @@
 
         // Inversiones.io
         "inversionesio",
+        "microfinanzas",
         "inversiones",
         "apiperu",
         "reniec",
@@ -975,5 +972,6 @@
     "workbench.colorTheme": "Tokyo Night",
     "[dockerfile]": {
         "editor.defaultFormatter": "ms-azuretools.vscode-docker"
-    }
+    },
+    "workbench.colorCustomizations": {}
 }
