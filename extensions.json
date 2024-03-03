@@ -7,7 +7,7 @@
   {
     "identifier": "42crunch.vscode-openapi",
     "enable": true,
-    "version": "4.23.1"
+    "version": "4.25.1"
   },
   {
     "identifier": "aaron-bond.better-comments",
@@ -162,7 +162,7 @@
   {
     "identifier": "grapecity.gc-excelviewer",
     "enable": true,
-    "version": "4.2.58"
+    "version": "4.2.59"
   },
   {
     "identifier": "gruntfuggly.todo-tree",
@@ -277,12 +277,12 @@
   {
     "identifier": "ms-edgedevtools.vscode-edge-devtools",
     "enable": true,
-    "version": "2.1.4"
+    "version": "2.1.5"
   },
   {
     "identifier": "ms-python.debugpy",
     "enable": true,
-    "version": "2024.3.10521007"
+    "version": "2024.3.10611006"
   },
   {
     "identifier": "ms-python.isort",
@@ -297,17 +297,17 @@
   {
     "identifier": "ms-python.python",
     "enable": true,
-    "version": "2024.0.1"
+    "version": "2024.2.1"
   },
   {
     "identifier": "ms-python.vscode-pylance",
     "enable": true,
-    "version": "2024.2.102"
+    "version": "2024.2.105"
   },
   {
     "identifier": "ms-vscode-remote.remote-containers",
     "enable": true,
-    "version": "0.338.1"
+    "version": "0.348.0"
   },
   {
     "identifier": "ms-vscode-remote.remote-ssh",
@@ -327,7 +327,7 @@
   {
     "identifier": "ms-vscode.cmake-tools",
     "enable": true,
-    "version": "1.17.16"
+    "version": "1.17.17"
   },
   {
     "identifier": "ms-vscode.cpptools",
@@ -357,7 +357,7 @@
   {
     "identifier": "ms-vscode.vscode-typescript-next",
     "enable": true,
-    "version": "5.5.20240221"
+    "version": "5.5.20240302"
   },
   {
     "identifier": "ms-vsliveshare.vsliveshare",
@@ -397,7 +397,7 @@
   {
     "identifier": "rangav.vscode-thunder-client",
     "enable": true,
-    "version": "2.17.8"
+    "version": "2.18.0"
   },
   {
     "identifier": "redhat.vscode-xml",
@@ -437,7 +437,7 @@
   {
     "identifier": "rust-lang.rust-analyzer",
     "enable": true,
-    "version": "0.3.1850"
+    "version": "0.3.1860"
   },
   {
     "identifier": "rvest.vs-code-prettier-eslint",
@@ -472,7 +472,7 @@
   {
     "identifier": "tabnine.tabnine-vscode",
     "enable": true,
-    "version": "3.72.0"
+    "version": "3.73.0"
   },
   {
     "identifier": "tamasfe.even-better-toml",
@@ -507,7 +507,7 @@
   {
     "identifier": "vue.volar",
     "enable": true,
-    "version": "1.8.27"
+    "version": "2.0.3"
   },
   {
     "identifier": "vue.vscode-typescript-vue-plugin",
@@ -557,6 +557,6 @@
   {
     "identifier": "ziglang.vscode-zig",
     "enable": true,
-    "version": "0.5.3"
+    "version": "0.5.4"
   }
 ]

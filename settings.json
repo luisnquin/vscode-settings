@@ -114,6 +114,13 @@
         ".next": true,
         "coverage-ts": true
     },
+    // "json.schemas": [
+    //     {
+    //         "url": "https://ecs-intellisense.s3-us-west-2.amazonaws.com/task-definition/schema.json",
+    //         "fileMatch": [".aws/task-definition.json"],
+    //         "schema": true
+    //     }
+    // ],
 
     /*
         📝 Editor settings
