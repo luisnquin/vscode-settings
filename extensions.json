@@ -227,7 +227,7 @@
   {
     "identifier": "leonardssh.vscord",
     "enable": true,
-    "version": "5.2.3"
+    "version": "5.2.4"
   },
   {
     "identifier": "lizebang.bash-extension-pack",
@@ -357,7 +357,7 @@
   {
     "identifier": "ms-vscode.vscode-typescript-next",
     "enable": true,
-    "version": "5.5.20240314"
+    "version": "5.5.20240318"
   },
   {
     "identifier": "ms-vsliveshare.vsliveshare",
@@ -402,7 +402,7 @@
   {
     "identifier": "rangav.vscode-thunder-client",
     "enable": true,
-    "version": "2.19.5"
+    "version": "2.19.6"
   },
   {
     "identifier": "redhat.vscode-xml",
@@ -442,7 +442,7 @@
   {
     "identifier": "rust-lang.rust-analyzer",
     "enable": true,
-    "version": "0.3.1877"
+    "version": "0.3.1885"
   },
   {
     "identifier": "rvest.vs-code-prettier-eslint",
