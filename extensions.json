@@ -127,7 +127,7 @@
   {
     "identifier": "esbenp.prettier-vscode",
     "enable": true,
-    "version": "10.1.0"
+    "version": "10.4.0"
   },
   {
     "identifier": "eww-yuck.yuck",
@@ -297,12 +297,12 @@
   {
     "identifier": "ms-python.python",
     "enable": true,
-    "version": "2024.2.1"
+    "version": "2023.1.10091012"
   },
   {
     "identifier": "ms-python.vscode-pylance",
     "enable": true,
-    "version": "2024.3.100"
+    "version": "2024.3.101"
   },
   {
     "identifier": "ms-vscode-remote.remote-containers",
@@ -332,7 +332,7 @@
   {
     "identifier": "ms-vscode.cpptools",
     "enable": true,
-    "version": "1.19.8"
+    "version": "1.19.9"
   },
   {
     "identifier": "ms-vscode.cpptools-extension-pack",
@@ -357,7 +357,7 @@
   {
     "identifier": "ms-vscode.vscode-typescript-next",
     "enable": true,
-    "version": "5.5.20240318"
+    "version": "5.5.20240321"
   },
   {
     "identifier": "ms-vsliveshare.vsliveshare",
@@ -402,7 +402,7 @@
   {
     "identifier": "rangav.vscode-thunder-client",
     "enable": true,
-    "version": "2.19.6"
+    "version": "2.19.9"
   },
   {
     "identifier": "redhat.vscode-xml",
@@ -477,7 +477,7 @@
   {
     "identifier": "tabnine.tabnine-vscode",
     "enable": true,
-    "version": "3.77.0"
+    "version": "3.78.0"
   },
   {
     "identifier": "tamasfe.even-better-toml",
@@ -517,7 +517,7 @@
   {
     "identifier": "vue.volar",
     "enable": true,
-    "version": "2.0.6"
+    "version": "2.0.7"
   },
   {
     "identifier": "william-voyek.vscode-nginx",
