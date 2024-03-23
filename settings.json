@@ -111,8 +111,8 @@
     "files.exclude": {
         "node_modules": true,
         ".direnv": true,
-        ".next": true,
-        "coverage-ts": true
+        "**/.next": true,
+        "**/coverage-ts": true
     },
     // "json.schemas": [
     //     {

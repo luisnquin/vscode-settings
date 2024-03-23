@@ -32,7 +32,7 @@
   {
     "identifier": "astro-build.astro-vscode",
     "enable": true,
-    "version": "2.8.3"
+    "version": "2.8.4"
   },
   {
     "identifier": "bbenoist.nix",
@@ -297,7 +297,7 @@
   {
     "identifier": "ms-python.python",
     "enable": true,
-    "version": "2023.1.10091012"
+    "version": "2024.2.1"
   },
   {
     "identifier": "ms-python.vscode-pylance",
@@ -357,7 +357,7 @@
   {
     "identifier": "ms-vscode.vscode-typescript-next",
     "enable": true,
-    "version": "5.5.20240321"
+    "version": "5.5.20240322"
   },
   {
     "identifier": "ms-vsliveshare.vsliveshare",
@@ -402,7 +402,7 @@
   {
     "identifier": "rangav.vscode-thunder-client",
     "enable": true,
-    "version": "2.19.9"
+    "version": "2.20.0"
   },
   {
     "identifier": "redhat.vscode-xml",
