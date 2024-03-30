@@ -10,6 +10,11 @@
     "version": "4.25.1"
   },
   {
+    "identifier": "4ops.terraform",
+    "enable": true,
+    "version": "0.2.5"
+  },
+  {
     "identifier": "aaron-bond.better-comments",
     "enable": true,
     "version": "3.0.2"
@@ -32,7 +37,7 @@
   {
     "identifier": "astro-build.astro-vscode",
     "enable": true,
-    "version": "2.8.4"
+    "version": "2.8.5"
   },
   {
     "identifier": "bbenoist.nix",
@@ -170,6 +175,11 @@
     "version": "0.0.226"
   },
   {
+    "identifier": "hashicorp.terraform",
+    "enable": true,
+    "version": "2.29.5"
+  },
+  {
     "identifier": "humao.rest-client",
     "enable": true,
     "version": "0.25.1"
@@ -222,7 +232,7 @@
   {
     "identifier": "katsute.settings-repository",
     "enable": true,
-    "version": "1.0.8"
+    "version": "1.0.9"
   },
   {
     "identifier": "leonardssh.vscord",
@@ -282,7 +292,7 @@
   {
     "identifier": "ms-python.debugpy",
     "enable": true,
-    "version": "2024.3.10611006"
+    "version": "2024.3.10881615"
   },
   {
     "identifier": "ms-python.isort",
@@ -302,7 +312,7 @@
   {
     "identifier": "ms-python.vscode-pylance",
     "enable": true,
-    "version": "2024.3.101"
+    "version": "2024.3.102"
   },
   {
     "identifier": "ms-vscode-remote.remote-containers",
@@ -312,7 +322,7 @@
   {
     "identifier": "ms-vscode-remote.remote-ssh",
     "enable": true,
-    "version": "0.108.0"
+    "version": "0.109.0"
   },
   {
     "identifier": "ms-vscode-remote.remote-ssh-edit",
@@ -332,7 +342,7 @@
   {
     "identifier": "ms-vscode.cpptools",
     "enable": true,
-    "version": "1.19.9"
+    "version": "1.20.0"
   },
   {
     "identifier": "ms-vscode.cpptools-extension-pack",
@@ -352,12 +362,12 @@
   {
     "identifier": "ms-vscode.remote-explorer",
     "enable": true,
-    "version": "0.4.1"
+    "version": "0.4.3"
   },
   {
     "identifier": "ms-vscode.vscode-typescript-next",
     "enable": true,
-    "version": "5.5.20240322"
+    "version": "5.5.20240327"
   },
   {
     "identifier": "ms-vsliveshare.vsliveshare",
@@ -372,7 +382,7 @@
   {
     "identifier": "ocamllabs.ocaml-platform",
     "enable": true,
-    "version": "1.18.0"
+    "version": "1.18.1"
   },
   {
     "identifier": "octref.vetur",
@@ -402,7 +412,7 @@
   {
     "identifier": "rangav.vscode-thunder-client",
     "enable": true,
-    "version": "2.20.0"
+    "version": "2.20.3"
   },
   {
     "identifier": "redhat.vscode-xml",
@@ -442,7 +452,7 @@
   {
     "identifier": "rust-lang.rust-analyzer",
     "enable": true,
-    "version": "0.3.1885"
+    "version": "0.3.1896"
   },
   {
     "identifier": "rvest.vs-code-prettier-eslint",
@@ -477,7 +487,7 @@
   {
     "identifier": "tabnine.tabnine-vscode",
     "enable": true,
-    "version": "3.78.0"
+    "version": "3.81.0"
   },
   {
     "identifier": "tamasfe.even-better-toml",
@@ -517,7 +527,7 @@
   {
     "identifier": "vue.volar",
     "enable": true,
-    "version": "2.0.7"
+    "version": "2.0.8"
   },
   {
     "identifier": "william-voyek.vscode-nginx",
@@ -557,7 +567,7 @@
   {
     "identifier": "zeshuaro.vscode-python-poetry",
     "enable": true,
-    "version": "0.17.12"
+    "version": "0.17.15"
   },
   {
     "identifier": "zhuangtongfa.material-theme",

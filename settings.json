@@ -401,7 +401,7 @@
     },
 
     "nix.enableLanguageServer": true,
-    "nix.serverPath": "rnix-lsp",
+    "nix.serverPath": "nil",
     "alejandra.program": "alejandra",
 
     "[ocaml]": {
@@ -475,6 +475,17 @@
         "editor.defaultFormatter": "esbenp.prettier-vscode"
     },
 
+    "[terraform]": {
+        "editor.defaultFormatter": "hashicorp.terraform",
+        "editor.formatOnSave": true,
+        "editor.formatOnSaveMode": "file"
+    },
+    "[terraform-vars]": {
+        "editor.defaultFormatter": "hashicorp.terraform",
+        "editor.formatOnSave": true,
+        "editor.formatOnSaveMode": "file"
+    },
+
     // Python
     "[python]": {
         "editor.defaultFormatter": "ms-python.python"
@@ -522,6 +533,10 @@
             "other": true
         },
         "editor.defaultFormatter": "DavidAnson.vscode-markdownlint"
+    },
+
+    "[astro]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
     },
 
     "[toml]": {
