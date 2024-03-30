@@ -225,6 +225,11 @@
     "version": "1.5.3"
   },
   {
+    "identifier": "johnpapa.angular2",
+    "enable": true,
+    "version": "16.0.1"
+  },
+  {
     "identifier": "kamadorueda.alejandra",
     "enable": true,
     "version": "1.0.0"
