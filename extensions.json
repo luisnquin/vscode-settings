@@ -297,7 +297,7 @@
   {
     "identifier": "ms-python.debugpy",
     "enable": true,
-    "version": "2024.3.10881615"
+    "version": "2024.2.0"
   },
   {
     "identifier": "ms-python.isort",
@@ -317,7 +317,7 @@
   {
     "identifier": "ms-python.vscode-pylance",
     "enable": true,
-    "version": "2024.3.102"
+    "version": "2024.4.1"
   },
   {
     "identifier": "ms-vscode-remote.remote-containers",
@@ -347,7 +347,7 @@
   {
     "identifier": "ms-vscode.cpptools",
     "enable": true,
-    "version": "1.20.0"
+    "version": "1.19.9"
   },
   {
     "identifier": "ms-vscode.cpptools-extension-pack",
@@ -457,7 +457,7 @@
   {
     "identifier": "rust-lang.rust-analyzer",
     "enable": true,
-    "version": "0.3.1896"
+    "version": "0.3.1906"
   },
   {
     "identifier": "rvest.vs-code-prettier-eslint",
@@ -492,7 +492,7 @@
   {
     "identifier": "tabnine.tabnine-vscode",
     "enable": true,
-    "version": "3.81.0"
+    "version": "3.83.0"
   },
   {
     "identifier": "tamasfe.even-better-toml",
@@ -582,6 +582,6 @@
   {
     "identifier": "ziglang.vscode-zig",
     "enable": true,
-    "version": "0.5.4"
+    "version": "0.5.6"
   }
 ]
