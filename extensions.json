@@ -150,6 +150,16 @@
     "version": "7.2.5"
   },
   {
+    "identifier": "github.copilot",
+    "enable": true,
+    "version": "1.177.0"
+  },
+  {
+    "identifier": "github.copilot-chat",
+    "enable": true,
+    "version": "0.13.1"
+  },
+  {
     "identifier": "github.github-vscode-theme",
     "enable": true,
     "version": "6.3.4"
@@ -488,11 +498,6 @@
     "identifier": "streetsidesoftware.code-spell-checker",
     "enable": true,
     "version": "3.0.1"
-  },
-  {
-    "identifier": "tabnine.tabnine-vscode",
-    "enable": true,
-    "version": "3.83.0"
   },
   {
     "identifier": "tamasfe.even-better-toml",
