@@ -417,6 +417,7 @@
         "editor.defaultFormatter": "rust-lang.rust-analyzer"
     },
 
+    "rust-analyzer.server.path": "rust-analyzer", // don't automatically download binary but use local one
     "rust-analyzer.inlayHints.closingBraceHints.enable": false,
 
     // Shell script

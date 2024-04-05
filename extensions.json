@@ -530,6 +530,11 @@
     "version": "0.0.17"
   },
   {
+    "identifier": "unifiedjs.vscode-mdx",
+    "enable": true,
+    "version": "1.8.3"
+  },
+  {
     "identifier": "usernamehw.errorlens",
     "enable": true,
     "version": "3.16.0"
