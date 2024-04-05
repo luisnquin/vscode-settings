@@ -393,13 +393,13 @@
     },
 
     //  Nix
-
     "[nix]": {
         "editor.defaultFormatter": "kamadorueda.alejandra",
         "editor.insertSpaces": true,
         "editor.tabSize": 2
     },
 
+    "nixEnvSelector.nixFile": "${workspaceFolder}/flake.nix",
     "nix.enableLanguageServer": true,
     "nix.serverPath": "nil",
     "alejandra.program": "alejandra",
