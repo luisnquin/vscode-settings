@@ -152,7 +152,7 @@
   {
     "identifier": "github.copilot",
     "enable": true,
-    "version": "1.177.0"
+    "version": "1.178.0"
   },
   {
     "identifier": "github.copilot-chat",
@@ -252,7 +252,7 @@
   {
     "identifier": "leonardssh.vscord",
     "enable": true,
-    "version": "5.2.4"
+    "version": "5.2.6"
   },
   {
     "identifier": "lizebang.bash-extension-pack",
@@ -307,7 +307,7 @@
   {
     "identifier": "ms-python.debugpy",
     "enable": true,
-    "version": "2024.2.0"
+    "version": "2024.4.0"
   },
   {
     "identifier": "ms-python.isort",
@@ -322,7 +322,7 @@
   {
     "identifier": "ms-python.python",
     "enable": true,
-    "version": "2024.2.1"
+    "version": "2024.4.0"
   },
   {
     "identifier": "ms-python.vscode-pylance",
@@ -332,7 +332,7 @@
   {
     "identifier": "ms-vscode-remote.remote-containers",
     "enable": true,
-    "version": "0.348.0"
+    "version": "0.354.0"
   },
   {
     "identifier": "ms-vscode-remote.remote-ssh",
@@ -382,7 +382,7 @@
   {
     "identifier": "ms-vscode.vscode-typescript-next",
     "enable": true,
-    "version": "5.5.20240327"
+    "version": "5.5.20240404"
   },
   {
     "identifier": "ms-vsliveshare.vsliveshare",
@@ -442,7 +442,7 @@
   {
     "identifier": "redocly.openapi-vs-code",
     "enable": true,
-    "version": "0.4.3"
+    "version": "0.4.4"
   },
   {
     "identifier": "remisa.shellman",
