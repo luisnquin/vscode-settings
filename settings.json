@@ -536,6 +536,11 @@
         "editor.defaultFormatter": "DavidAnson.vscode-markdownlint"
     },
 
+    "markdownlint.config": {
+        "heading-increment": false,
+        "no-inline-html": false
+    },
+
     "[astro]": {
         "editor.defaultFormatter": "esbenp.prettier-vscode"
     },
