@@ -20,11 +20,6 @@
     "version": "3.0.2"
   },
   {
-    "identifier": "adpyke.vscode-sql-formatter",
-    "enable": true,
-    "version": "1.4.4"
-  },
-  {
     "identifier": "arrterian.nix-env-selector",
     "enable": true,
     "version": "1.0.11"
@@ -152,7 +147,7 @@
   {
     "identifier": "github.copilot",
     "enable": true,
-    "version": "1.178.0"
+    "version": "1.180.0"
   },
   {
     "identifier": "github.copilot-chat",
@@ -187,7 +182,7 @@
   {
     "identifier": "hashicorp.terraform",
     "enable": true,
-    "version": "2.29.5"
+    "version": "2.30.0"
   },
   {
     "identifier": "humao.rest-client",
@@ -240,6 +235,11 @@
     "version": "16.0.1"
   },
   {
+    "identifier": "kaanaytekin.concise-sql-formatter",
+    "enable": true,
+    "version": "0.0.3"
+  },
+  {
     "identifier": "kamadorueda.alejandra",
     "enable": true,
     "version": "1.0.0"
@@ -252,7 +252,7 @@
   {
     "identifier": "leonardssh.vscord",
     "enable": true,
-    "version": "5.2.6"
+    "version": "5.2.7"
   },
   {
     "identifier": "lizebang.bash-extension-pack",
@@ -322,7 +322,7 @@
   {
     "identifier": "ms-python.python",
     "enable": true,
-    "version": "2024.4.0"
+    "version": "2024.4.1"
   },
   {
     "identifier": "ms-python.vscode-pylance",
@@ -372,7 +372,7 @@
   {
     "identifier": "ms-vscode.powershell",
     "enable": true,
-    "version": "2024.0.0"
+    "version": "2024.2.0"
   },
   {
     "identifier": "ms-vscode.remote-explorer",
@@ -382,7 +382,7 @@
   {
     "identifier": "ms-vscode.vscode-typescript-next",
     "enable": true,
-    "version": "5.5.20240405"
+    "version": "5.5.20240412"
   },
   {
     "identifier": "ms-vsliveshare.vsliveshare",
@@ -427,7 +427,7 @@
   {
     "identifier": "rangav.vscode-thunder-client",
     "enable": true,
-    "version": "2.20.3"
+    "version": "2.21.0"
   },
   {
     "identifier": "redhat.vscode-xml",
@@ -467,7 +467,7 @@
   {
     "identifier": "rust-lang.rust-analyzer",
     "enable": true,
-    "version": "0.3.1906"
+    "version": "0.3.1916"
   },
   {
     "identifier": "rvest.vs-code-prettier-eslint",
@@ -500,6 +500,11 @@
     "version": "3.0.1"
   },
   {
+    "identifier": "sumneko.lua",
+    "enable": true,
+    "version": "3.7.4"
+  },
+  {
     "identifier": "tamasfe.even-better-toml",
     "enable": true,
     "version": "0.19.2"
@@ -512,7 +517,7 @@
   {
     "identifier": "timonwong.shellcheck",
     "enable": true,
-    "version": "0.37.0"
+    "version": "0.37.1"
   },
   {
     "identifier": "tomoki1207.pdf",
@@ -572,7 +577,7 @@
   {
     "identifier": "yoavbls.pretty-ts-errors",
     "enable": true,
-    "version": "0.5.3"
+    "version": "0.5.4"
   },
   {
     "identifier": "yzhang.markdown-all-in-one",

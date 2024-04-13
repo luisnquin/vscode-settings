@@ -538,7 +538,8 @@
 
     "markdownlint.config": {
         "heading-increment": false,
-        "no-inline-html": false
+        "no-inline-html": false,
+        "first-line-h1": false
     },
 
     "[astro]": {
