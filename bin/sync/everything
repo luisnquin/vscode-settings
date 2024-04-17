@@ -1,8 +1,6 @@
 #!/usr/bin/env bash
 
-BLD='\e[1m'
 DEF='\e[0m'
-CYN='\e[96m'
 MGN='\e[95m'
 
 get_user_settings_json() {
@@ -24,10 +22,8 @@ get_commit_message() {
 main() {
     get_user_extensions_json >./extensions.json
     get_user_settings_json >./settings.json
-    echo -e "${MGN}Done.${DEF}"
-    echo
+    >&2 echo -e "${MGN}Done.${DEF}"
 
-    echo -e "${BLD}${CYN}Next steps:${DEF}"
     echo "git add *.json"
     echo "git commit -m \"$(get_commit_message)\""
 }
