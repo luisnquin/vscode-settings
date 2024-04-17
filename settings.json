@@ -369,18 +369,17 @@
     },
     "go.useLanguageServer": true,
     "go.toolsManagement.autoUpdate": true,
-    "go.lintTool": "golangci-lint",
     "go.diagnostic.vulncheck": "Imports",
     "go.formatTool": "gofumpt",
     "go.lintOnSave": "package",
     "go.survey.prompt": true,
     "go.inlayHints.constantValues": false,
     "go.inlayHints.functionTypeParameters": false,
-    "go.autocompleteUnimportedPackages": true,
-    "go.liveErrors": {
-        "enabled": false,
-        "delay": 500
+    "go.alternateTools": {
+        "gopls": "gopls",
+        "golangci-lint": "golangci-lint"
     },
+    "go.lintTool": "golangci-lint",
     "go.lintFlags": ["--fast"],
 
     "[go]": {

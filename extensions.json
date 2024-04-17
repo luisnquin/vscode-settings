@@ -45,6 +45,11 @@
     "version": "0.5.0"
   },
   {
+    "identifier": "bradlc.vscode-tailwindcss",
+    "enable": true,
+    "version": "0.10.5"
+  },
+  {
     "identifier": "brettm12345.nixfmt-vscode",
     "enable": true,
     "version": "0.0.1"
@@ -58,6 +63,11 @@
     "identifier": "coolbear.systemd-unit-file",
     "enable": true,
     "version": "1.0.6"
+  },
+  {
+    "identifier": "craigrbroughton.htmx-attributes",
+    "enable": true,
+    "version": "0.7.0"
   },
   {
     "identifier": "cschlosser.doxdocgen",
@@ -117,7 +127,7 @@
   {
     "identifier": "equinusocio.vsc-material-theme-icons",
     "enable": true,
-    "version": "3.5.0"
+    "version": "3.6.0"
   },
   {
     "identifier": "eriklynd.json-tools",
@@ -252,7 +262,7 @@
   {
     "identifier": "leonardssh.vscord",
     "enable": true,
-    "version": "5.2.7"
+    "version": "5.2.9"
   },
   {
     "identifier": "lizebang.bash-extension-pack",
@@ -382,7 +392,7 @@
   {
     "identifier": "ms-vscode.vscode-typescript-next",
     "enable": true,
-    "version": "5.5.20240412"
+    "version": "5.5.20240415"
   },
   {
     "identifier": "ms-vsliveshare.vsliveshare",
@@ -427,7 +437,7 @@
   {
     "identifier": "rangav.vscode-thunder-client",
     "enable": true,
-    "version": "2.21.0"
+    "version": "2.21.2"
   },
   {
     "identifier": "redhat.vscode-xml",
@@ -467,7 +477,7 @@
   {
     "identifier": "rust-lang.rust-analyzer",
     "enable": true,
-    "version": "0.3.1916"
+    "version": "0.3.1924"
   },
   {
     "identifier": "rvest.vs-code-prettier-eslint",
@@ -542,7 +552,7 @@
   {
     "identifier": "usernamehw.errorlens",
     "enable": true,
-    "version": "3.16.0"
+    "version": "3.17.0"
   },
   {
     "identifier": "vue.volar",
