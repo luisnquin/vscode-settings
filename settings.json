@@ -36,7 +36,7 @@
     // "terminal.integrated.fontFamily": "'Monocraft', 'Symbols Nerd Font Mono'",
 
     "terminal.integrated.fontFamily": "'Cascadia Code', 'Symbols Nerd Font Mono'",
-    "terminal.integrated.enableMultiLinePasteWarning": false,
+    "terminal.integrated.enableMultiLinePasteWarning": "never",
     "terminal.integrated.defaultProfile.linux": "zsh",
     "terminal.integrated.copyOnSelection": true,
     "terminal.integrated.gpuAcceleration": "on",
@@ -975,7 +975,7 @@
         💬 Other
     */
 
-    "vscord.enabled": true,
+    // "vscord.enabled": true,
     "vscord.status.image.large.viewing.text": "Flirting with a {LANG} file",
     "vscord.behaviour.suppressNotifications": true,
 
