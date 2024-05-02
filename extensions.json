@@ -157,7 +157,7 @@
   {
     "identifier": "github.copilot",
     "enable": true,
-    "version": "1.184.0"
+    "version": "1.186.0"
   },
   {
     "identifier": "github.copilot-chat",
@@ -262,7 +262,7 @@
   {
     "identifier": "leonardssh.vscord",
     "enable": true,
-    "version": "5.2.9"
+    "version": "5.2.10"
   },
   {
     "identifier": "lizebang.bash-extension-pack",
@@ -307,7 +307,7 @@
   {
     "identifier": "ms-azuretools.vscode-docker",
     "enable": true,
-    "version": "1.29.0"
+    "version": "1.29.1"
   },
   {
     "identifier": "ms-edgedevtools.vscode-edge-devtools",
@@ -342,7 +342,7 @@
   {
     "identifier": "ms-vscode-remote.remote-containers",
     "enable": true,
-    "version": "0.354.0"
+    "version": "0.362.0"
   },
   {
     "identifier": "ms-vscode-remote.remote-ssh",
@@ -392,7 +392,7 @@
   {
     "identifier": "ms-vscode.vscode-typescript-next",
     "enable": true,
-    "version": "5.5.20240424"
+    "version": "5.5.20240501"
   },
   {
     "identifier": "ms-vsliveshare.vsliveshare",
@@ -552,7 +552,7 @@
   {
     "identifier": "unifiedjs.vscode-mdx",
     "enable": true,
-    "version": "1.8.3"
+    "version": "1.8.4"
   },
   {
     "identifier": "usernamehw.errorlens",
