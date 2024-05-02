@@ -105,6 +105,7 @@
         ".babelrc": "json",
         "*.yml": "yaml",
         "*.yaml": "yaml",
+        "*curlrc": "text",
         ".env.example": "env",
         ".env.production": "env"
     },
