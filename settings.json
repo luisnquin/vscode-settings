@@ -146,15 +146,82 @@
     */
 
     "workbench.colorTheme": "Default Dark Modern",
+    "workbench.colorCustomizations": {
+        "editor.background": "#1f1f1f",
+        "editorBracketHighlight.foreground1": "#a3a399",
+        "editorBracketHighlight.foreground2": "#505047",
+        "editorBracketHighlight.foreground3": "#a3a399",
+        "editorBracketHighlight.foreground4": "#505047",
+        "editorBracketHighlight.foreground5": "#a3a399",
+        "editorBracketHighlight.foreground6": "#505047"
+    },
 
     "editor.tokenColorCustomizations": {
         "[Default Dark Modern]": {
             "textMateRules": [
                 {
-                    "scope": "constant.language",
+                    "scope": [
+                        "variable",
+                        "variable.declaration.hcl",
+                        "eta.definition.variable.name",
+                        "support.variable",
+                        "entity.name.variable",
+                        "constant.other.placeholder"
+                    ],
                     "settings": {
-                        "foreground": "#FF0000",
+                        "foreground": "#4d3c3c"
+                    }
+                },
+                {
+                    "scope": ["entity.name.type"],
+                    "settings": {
+                        "foreground": "#a3a399",
                         "fontStyle": "bold"
+                    }
+                },
+                {
+                    "scope": ["variable"],
+                    "settings": {
+                        "foreground": "#dadacf"
+                    }
+                },
+                {
+                    "scope": [
+                        "punctuation.definition.sequence.start.yaml",
+                        "comment.block.json.comments",
+                        "comment",
+                        "punctuation.definition.sequence.end.yaml",
+                        "punctuation.definition.dictionary.begin.json.comments",
+                        "meta.structure.dictionary.json.comments",
+                        "meta.structure.array.json.comments",
+                        "meta.structure.dictionary.value.json.comments",
+                        "meta.structure.dictionary.json.comments",
+                        "meta.structure.dictionary.value.json.comments",
+                        "meta.structure.dictionary.json.comments",
+                        "meta.structure.dictionary.value.json.comments",
+                        "meta.structure.dictionary.json.comments",
+                        "punctuation.definition.string.begin.hcl"
+                    ],
+                    "settings": {
+                        "foreground": "#767777"
+                    }
+                },
+                {
+                    "scope": ["keyword.control"],
+                    "settings": {
+                        "foreground": "#ad2c53"
+                    }
+                },
+                {
+                    "scope": [
+                        "string.quoted.double",
+                        "punctuation.definition.string.begin.hcl",
+                        "variable.other.enummember",
+                        "punctuation.definition.string.end.hcl",
+                        "string"
+                    ],
+                    "settings": {
+                        "foreground": "#eb2f67"
                     }
                 }
             ]
@@ -250,8 +317,12 @@
         "rules": {
             "*.mutable": {
                 "underline": false
+            },
+            "*.declaration": {
+                "bold": true
             }
         },
+
         "[One Dark Pro]": {
             "rules": {},
 
@@ -260,7 +331,7 @@
     },
 
     "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
-    "editor.fontFamily": "'Cascadia Code', 'Symbols Nerd Font Mono'",
+    "editor.fontFamily": "'JetBrains-Mono', 'Symbols Nerd Font Mono'",
     "editor.suggest.selectionMode": "whenQuickSuggestion",
     "editor.guides.highlightActiveIndentation": false,
     "editor.guides.highlightActiveBracketPair": false,
@@ -976,6 +1047,5 @@
     "zig.zls.path": "/home/luisnquin/.nix-profile/bin/zls",
     "[dockerfile]": {
         "editor.defaultFormatter": "ms-azuretools.vscode-docker"
-    },
-    "workbench.colorCustomizations": {}
+    }
 }
