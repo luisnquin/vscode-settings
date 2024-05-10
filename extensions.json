@@ -167,7 +167,7 @@
   {
     "identifier": "github.copilot",
     "enable": true,
-    "version": "1.189.0"
+    "version": "1.190.0"
   },
   {
     "identifier": "github.copilot-chat",

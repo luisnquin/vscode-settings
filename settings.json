@@ -173,14 +173,27 @@
                     }
                 },
                 {
-                    "scope": ["entity.name.type"],
+                    "scope": [
+                        "entity.name.type",
+                        "keyword.other.interpolation.begin.hcl",
+                        "keyword.other.interpolation.end.hcl",
+                        "keyword.declaration.provider.terragrunt",
+                        "storage.modifier.version.terragrunt",
+                        "keyword"
+                    ],
                     "settings": {
                         "foreground": "#a3a399",
                         "fontStyle": "bold"
                     }
                 },
                 {
-                    "scope": ["variable"],
+                    "scope": [
+                        "variable",
+                        "punctuation.separator.key-value.mapping.yaml",
+                        "entity.name.tag",
+                        "entity.name.function",
+                        "support.type.property-name"
+                    ],
                     "settings": {
                         "foreground": "#dadacf"
                     }
@@ -207,7 +220,7 @@
                     }
                 },
                 {
-                    "scope": ["keyword.control"],
+                    "scope": ["keyword.control", "constant.language"],
                     "settings": {
                         "foreground": "#ad2c53"
                     }
@@ -410,6 +423,7 @@
 
     "gopls": {
         "formatting.gofumpt": true
+        // "ui.semanticTokens": true
     },
     "go.useLanguageServer": true,
     "go.toolsManagement.autoUpdate": true,
