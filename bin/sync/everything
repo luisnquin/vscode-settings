@@ -4,7 +4,7 @@ DEF='\e[0m'
 MGN='\e[95m'
 
 get_user_settings_json() {
-    cat "/home/$USER/.config/Code/User/settings.json"
+    cat "$HOME/.config/Code/User/settings.json"
 }
 
 get_user_extensions_json() {
@@ -20,11 +20,11 @@ get_commit_message() {
 }
 
 main() {
-    get_user_extensions_json >./extensions.json
-    get_user_settings_json >./settings.json
+    get_user_extensions_json >./extensions.jsonc
+    get_user_settings_json >./settings.jsonc
     >&2 echo -e "${MGN}Done.${DEF}"
 
-    echo "git add *.json"
+    echo "git add *.jsonc"
     echo "git commit -m \"$(get_commit_message)\""
 }
 
