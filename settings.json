@@ -39,11 +39,6 @@
     "explorer.confirmDragAndDrop": false,
     "explorer.confirmDelete": false,
 
-    "settings-repository.branch": "main", // TODO: delete
-    "settings-repository.autoSync": true,
-    "settings-repository.repository": "https://github.com/luisnquin/vscode-settings.git",
-    "settings-repository.includeHostnameInCommitMessage": true,
-
     /*
       ______
      /_  __/__  _________ ___ 
@@ -150,9 +145,21 @@
                              
     */
 
-    "workbench.colorTheme": "Tokyo Night",
+    "workbench.colorTheme": "Default Dark Modern",
 
     "editor.tokenColorCustomizations": {
+        "[Default Dark Modern]": {
+            "textMateRules": [
+                {
+                    "scope": "constant.language",
+                    "settings": {
+                        "foreground": "#FF0000",
+                        "fontStyle": "bold"
+                    }
+                }
+            ]
+        },
+
         "[One Dark Pro]": {
             "textMateRules": [
                 {

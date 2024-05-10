@@ -337,7 +337,7 @@
   {
     "identifier": "ms-python.python",
     "enable": true,
-    "version": "2023.1.10091012"
+    "version": "2024.4.1"
   },
   {
     "identifier": "ms-python.vscode-pylance",
