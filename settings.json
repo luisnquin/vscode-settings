@@ -410,16 +410,53 @@
     "indenticator.color.dark": "rgba(255,255, 255, 0.1)",
     "indenticator.width": 0.1,
 
-    /* 
-            __
-           / /________
-          / / ___/ __ \
-         / (__  ) /_/ /
-        /_/____/ .___/
-              /_/    
+    /*
+                  _          
+       ____ ___  (_)_________
+      / __ `__ \/ / ___/ ___/
+     / / / / / / (__  ) /__  
+    /_/ /_/ /_/_/____/\___/  
+                             
+    */
+    "vscord.status.image.large.viewing.text": "Flirting with a {LANG} file",
+    "vscord.behaviour.suppressNotifications": true,
+
+    "thunder-client.saveRequestOnSend": true,
+    "thunder-client.httpVersion": "HTTP/1.1",
+    "thunder-client.followRedirects": true,
+    "thunder-client.requestTimeout": 5000,
+    "thunder-client.responseLimit": 10,
+    "thunder-client.indentSize": 2,
+
+    "tabnine.experimentalAutoImports": true,
+
+    "vscode-pets.theme": "forest",
+    "vscode-pets.petSize": "medium",
+    "vscode-pets.throwBallWithMouse": true,
+
+    "redhat.telemetry.enabled": true,
+    "vscode-edge-devtools.webhint": false,
+
+    /*
+      ____________________       __          _           ____________________
+     /____/____/____/____/      / /________ ( )_____    /____/____/____/____/
+    /____/____/____/____/      / / ___/ __ \|// ___/   /____/____/____/____/
+                              / (__  ) /_/ / (__  )
+                             /_/____/ .___/ /____/
+                                    /_/          
+                      ______________________________
+                     /____/____/____/____/____/____/
+                    /____/____/____/____/____/____/ 
     */
 
-    // Go
+    /*
+                
+      ____ _____
+     / __ `/ __ \
+    / /_/ / /_/ /
+    \__, /\____/
+    /____/     
+    */
 
     "gopls": {
         "formatting.gofumpt": true
@@ -449,7 +486,14 @@
         "editor.suggest.snippetsPreventQuickSuggestions": false
     },
 
-    //  Nix
+    /*
+              _ 
+       ____  (_)  __
+      / __ \/ / |/_/
+     / / / / />  <
+    /_/ /_/_/_/|_|
+                  
+    */
     "[nix]": {
         "editor.defaultFormatter": "kamadorueda.alejandra",
         "editor.insertSpaces": true,
@@ -461,6 +505,14 @@
     "nix.serverPath": "nil",
     "alejandra.program": "alejandra",
 
+    /*
+                                  __
+      ____  _________ _____ ___  / /
+     / __ \/ ___/ __ `/ __ `__ \/ /
+    / /_/ / /__/ /_/ / / / / / / /
+    \____/\___/\__,_/_/ /_/ /_/_/
+                                 
+    */
     "[ocaml]": {
         "editor.tabSize": 2,
         "editor.insertSpaces": true,
@@ -469,7 +521,14 @@
 
     "ocaml.dune.autoDetect": true,
 
-    // Rust
+    /*
+                        __ 
+       _______  _______/ /_
+      / ___/ / / / ___/ __/
+     / /  / /_/ (__  ) /_  
+    /_/   \__,_/____/\__/  
+                           
+    */
     "[rust]": {
         "editor.defaultFormatter": "rust-lang.rust-analyzer"
     },
@@ -477,39 +536,26 @@
     "rust-analyzer.server.path": "rust-analyzer", // don't automatically download binary but use local one
     "rust-analyzer.inlayHints.closingBraceHints.enable": false,
 
-    // Shell script
+    /*
+             __  
+       _____/ /_ 
+      / ___/ __ \
+     (__  ) / / /
+    /____/_/ /_/ 
 
+    */
     "[shellscript]": {
         "editor.defaultFormatter": "mkhl.shfmt"
     },
 
-    // JSON, and JavaScript related
-
-    "typescript.updateImportsOnFileMove.enabled": "always",
-
-    "eslint.trace.server": "off",
-
-    "prettier.documentSelectors": ["**/*.astro"],
-    "prettier.trailingComma": "none",
-    "prettier.singleQuote": true,
-    "prettier.endOfLine": "auto",
-    "prettier.useTabs": false,
-    "prettier.printWidth": 120,
-    "prettier.enable": true,
-    "prettier.tabWidth": 4,
-    "prettier.semi": false,
-
-    "[json]": {
-        "editor.defaultFormatter": "esbenp.prettier-vscode",
-        "editor.autoIndent": "full"
-    },
-
-    "[jsonc]": {
-        "editor.defaultFormatter": "esbenp.prettier-vscode",
-        "editor.autoIndent": "full"
-    },
-
-    "reactSnippets.settings.prettierEnabled": true,
+    /*
+           _            __   __      
+          (_)____     _/_/  / /______
+         / / ___/   _/_/   / __/ ___/
+        / (__  )  _/_/    / /_(__  ) 
+     __/ /____/  /_/      \__/____/  
+    /___/                            
+    */
 
     "[javascript]": {
         "editor.defaultFormatter": "esbenp.prettier-vscode"
@@ -533,84 +579,51 @@
         "editor.defaultFormatter": "esbenp.prettier-vscode"
     },
 
-    "[terraform]": {
-        "editor.defaultFormatter": "hashicorp.terraform",
-        "editor.formatOnSave": true,
-        "editor.formatOnSaveMode": "file"
-    },
-    "[terraform-vars]": {
-        "editor.defaultFormatter": "hashicorp.terraform",
-        "editor.formatOnSave": true,
-        "editor.formatOnSaveMode": "file"
-    },
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    "javascript.updateImportsOnFileMove.enabled": "always",
 
-    // Python
-    "[python]": {
-        "editor.defaultFormatter": "ms-python.python"
-    },
-    "pylint.args": ["--disable=C0111,C0114,C0115,C0116"],
+    "reactSnippets.settings.prettierEnabled": true,
 
-    "python.terminal.activateEnvironment": true,
-    "python.languageServer": "Default",
+    "eslint.trace.server": "off",
+    "prettier.documentSelectors": ["**/*.astro"],
+    "prettier.trailingComma": "none",
+    "prettier.singleQuote": true,
+    "prettier.endOfLine": "auto",
+    "prettier.useTabs": false,
+    "prettier.printWidth": 120,
+    "prettier.enable": true,
+    "prettier.tabWidth": 4,
+    "prettier.semi": false,
 
-    // Dart
-    "[dart]": {
-        "editor.suggest.snippetsPreventQuickSuggestions": false,
-        "editor.tabCompletion": "onlySnippets",
-        "editor.wordBasedSuggestions": "off",
-        "editor.selectionHighlight": false,
-        "editor.suggestSelection": "first",
-        "editor.rulers": [80]
-    },
+    /*
+                    __
+     _      _____  / /_
+    | | /| / / _ \/ __ \
+    | |/ |/ /  __/ /_/ /
+    |__/|__/\___/_.___/
 
-    // Web-only
-
+    */
     "[html]": {
         "editor.defaultFormatter": "esbenp.prettier-vscode"
     },
-
     "[css]": {
         "editor.defaultFormatter": "vscode.css-language-features"
     },
-
     "[scss]": {
         "editor.defaultFormatter": "vscode.css-language-features"
     },
 
-    // Latex
-    "latex-workshop.latex.watch.pdf.delay": 250,
-    "latex-workshop.latex.autoClean.run": "onSucceeded",
-    "latex-workshop.latex.autoBuild.run": "onFileChange",
-
-    // Etc languages
-    "[markdown]": {
-        "editor.wordWrap": "off",
-        "editor.quickSuggestions": {
-            "comments": true,
-            "strings": true,
-            "other": true
-        },
-        "editor.defaultFormatter": "DavidAnson.vscode-markdownlint"
-    },
-
-    "markdownlint.config": {
-        "heading-increment": false,
-        "no-inline-html": false,
-        "first-line-h1": false
-    },
-
+    /*
+                    __       ____                                             __       
+     _      _____  / /_     / __/________ _____ ___  ___ _      ______  _____/ /_______
+    | | /| / / _ \/ __ \   / /_/ ___/ __ `/ __ `__ \/ _ \ | /| / / __ \/ ___/ //_/ ___/
+    | |/ |/ /  __/ /_/ /  / __/ /  / /_/ / / / / / /  __/ |/ |/ / /_/ / /  / ,< (__  )
+    |__/|__/\___/_.___/  /_/ /_/   \__,_/_/ /_/ /_/\___/|__/|__/\____/_/  /_/|_/____/
+                                                                                    
+    */
     "[astro]": {
         "editor.defaultFormatter": "esbenp.prettier-vscode"
     },
-
-    "[toml]": {
-        "editor.defaultFormatter": "tamasfe.even-better-toml"
-    },
-
-    "[just]": {
-        "editor.defaultFormatter": "skellock.just"
-    },
-
     "[vue]": {
         "editor.defaultFormatter": "rvest.vs-code-prettier-eslint"
     },
@@ -623,6 +636,113 @@
         "html": true
     },
 
+    /*
+       __                       ____                   
+      / /____  ______________ _/ __/___  _________ ___ 
+     / __/ _ \/ ___/ ___/ __ `/ /_/ __ \/ ___/ __ `__ \
+    / /_/  __/ /  / /  / /_/ / __/ /_/ / /  / / / / / /
+    \__/\___/_/  /_/   \__,_/_/  \____/_/  /_/ /_/ /_/ 
+
+    */
+    "[terraform]": {
+        "editor.defaultFormatter": "hashicorp.terraform",
+        "editor.formatOnSave": true,
+        "editor.formatOnSaveMode": "file"
+    },
+    "[terraform-vars]": {
+        "editor.defaultFormatter": "hashicorp.terraform",
+        "editor.formatOnSave": true,
+        "editor.formatOnSaveMode": "file"
+    },
+
+    /*
+           __           __            
+      ____/ /___  _____/ /_____  _____
+     / __  / __ \/ ___/ //_/ _ \/ ___/
+    / /_/ / /_/ / /__/ ,< /  __/ /    
+    \__,_/\____/\___/_/|_|\___/_/     
+
+    */
+    "[dockerfile]": {
+        "editor.defaultFormatter": "ms-azuretools.vscode-docker"
+    },
+
+    /*
+            _      
+     ____  (_)___ _
+    /_  / / / __ `/
+     / /_/ / /_/ /
+    /___/_/\__, /
+          /____/
+               
+    */
+    "zig.path": "/home/luisnquin/.nix-profile/bin/zig",
+    "zig.zls.path": "/home/luisnquin/.nix-profile/bin/zls",
+
+    /*
+                     __  __              
+        ____  __  __/ /_/ /_  ____  ____ 
+       / __ \/ / / / __/ __ \/ __ \/ __ \
+      / /_/ / /_/ / /_/ / / / /_/ / / / /
+     / .___/\__, /\__/_/ /_/\____/_/ /_/
+    /_/    /____/                      
+    */
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.python"
+    },
+
+    "python.terminal.activateEnvironment": true,
+    "python.languageServer": "Default",
+    "pylint.args": ["--disable=C0111,C0114,C0115,C0116"],
+
+    /*
+           __           __ 
+      ____/ /___ ______/ /_
+     / __  / __ `/ ___/ __/
+    / /_/ / /_/ / /  / /_
+    \__,_/\__,_/_/   \__/
+                        
+    */
+    "[dart]": {
+        "editor.suggest.snippetsPreventQuickSuggestions": false,
+        "editor.tabCompletion": "onlySnippets",
+        "editor.wordBasedSuggestions": "off",
+        "editor.selectionHighlight": false,
+        "editor.suggestSelection": "first",
+        "editor.rulers": [80]
+    },
+
+    /*
+                             __       __                  
+       ____ ___  ____ ______/ /______/ /___ _      ______ 
+      / __ `__ \/ __ `/ ___/ //_/ __  / __ \ | /| / / __ \
+     / / / / / / /_/ / /  / ,< / /_/ / /_/ / |/ |/ / / / /
+    /_/ /_/ /_/\__,_/_/  /_/|_|\__,_/\____/|__/|__/_/ /_/
+                                                        
+    */
+    "[markdown]": {
+        "editor.wordWrap": "off",
+        "editor.quickSuggestions": {
+            "comments": true,
+            "strings": true,
+            "other": true
+        },
+        "editor.defaultFormatter": "DavidAnson.vscode-markdownlint"
+    },
+    "markdownlint.config": {
+        "heading-increment": false,
+        "no-inline-html": false,
+        "first-line-h1": false
+    },
+
+    /*
+                       _       ___             __  _                ____                           __      
+       ________  _____(_)___ _/ (_)___  ____ _/ /_(_)___  ____     / __/___  _________ ___  ____ _/ /______
+      / ___/ _ \/ ___/ / __ `/ / /_  / / __ `/ __/ / __ \/ __ \   / /_/ __ \/ ___/ __ `__ \/ __ `/ __/ ___/
+     (__  )  __/ /  / / /_/ / / / / /_/ /_/ / /_/ / /_/ / / / /  / __/ /_/ / /  / / / / / / /_/ / /_(__  )
+    /____/\___/_/  /_/\__,_/_/_/ /___/\__,_/\__/_/\____/_/ /_/  /_/  \____/_/  /_/ /_/ /_/\__,_/\__/____/
+                                                                                                        
+    */
     "[yaml]": {
         "editor.insertSpaces": true,
         "editor.defaultFormatter": "redhat.vscode-yaml",
@@ -632,6 +752,29 @@
     "yaml.format.enable": true,
     "yaml.completion": true,
 
+    "[json]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode",
+        "editor.autoIndent": "full"
+    },
+    "[jsonc]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode",
+        "editor.autoIndent": "full"
+    },
+    "[toml]": {
+        "editor.defaultFormatter": "tamasfe.even-better-toml"
+    },
+
+    /*
+                                             
+       _______  ______  ____  ___  __________
+      / ___/ / / / __ \/ __ \/ _ \/ ___/ ___/
+     / /  / /_/ / / / / / / /  __/ /  (__  )
+    /_/   \__,_/_/ /_/_/ /_/\___/_/  /____/
+                                          
+    */
+    "[just]": {
+        "editor.defaultFormatter": "skellock.just"
+    },
     "[makefile]": {
         "editor.insertSpaces": false,
         "editor.tabCompletion": "on",
@@ -639,9 +782,13 @@
     },
 
     /*
-        🔍📖 Spell checker
+                        ____        __              __            
+       _________  ___  / / /  _____/ /_  ___  _____/ /_____  _____
+      / ___/ __ \/ _ \/ / /  / ___/ __ \/ _ \/ ___/ //_/ _ \/ ___/
+     (__  ) /_/ /  __/ / /  / /__/ / / /  __/ /__/ ,< /  __/ /
+    /____/ .___/\___/_/_/   \___/_/ /_/\___/\___/_/|_|\___/_/
+        /_/                                                 
     */
-
     "cSpell.enabled": false,
     "cSpell.language": "en,fr",
 
@@ -1027,39 +1174,5 @@
         ".git/objects",
         ".vscode",
         ".vscode-insiders"
-    ],
-
-    /*
-                __
-          ___  / /______
-         / _ \/ __/ ___/
-        /  __/ /_/ /__
-        \___/\__/\___/
-                     
-    */
-
-    "vscord.status.image.large.viewing.text": "Flirting with a {LANG} file",
-    "vscord.behaviour.suppressNotifications": true,
-
-    "thunder-client.saveRequestOnSend": true,
-    "thunder-client.httpVersion": "HTTP/1.1",
-    "thunder-client.followRedirects": true,
-    "thunder-client.requestTimeout": 5000,
-    "thunder-client.responseLimit": 10,
-    "thunder-client.indentSize": 2,
-
-    "tabnine.experimentalAutoImports": true,
-
-    "vscode-pets.theme": "forest",
-    "vscode-pets.petSize": "medium",
-    "vscode-pets.throwBallWithMouse": true,
-
-    "redhat.telemetry.enabled": true,
-    "javascript.updateImportsOnFileMove.enabled": "always",
-    "vscode-edge-devtools.webhint": false,
-    "zig.path": "/home/luisnquin/.nix-profile/bin/zig",
-    "zig.zls.path": "/home/luisnquin/.nix-profile/bin/zls",
-    "[dockerfile]": {
-        "editor.defaultFormatter": "ms-azuretools.vscode-docker"
-    }
+    ]
 }
