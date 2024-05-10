@@ -969,7 +969,7 @@
     "javascript.updateImportsOnFileMove.enabled": "always",
     "vscode-edge-devtools.webhint": false,
     "zig.path": "/home/luisnquin/.nix-profile/bin/zig",
-    "zig.zls.path": "/home/luisnquin/.config/Code/User/globalStorage/ziglang.vscode-zig/zls_install/zls",
+    "zig.zls.path": "/home/luisnquin/.nix-profile/bin/zls",
     "[dockerfile]": {
         "editor.defaultFormatter": "ms-azuretools.vscode-docker"
     },

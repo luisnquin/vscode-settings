@@ -167,7 +167,7 @@
   {
     "identifier": "github.copilot",
     "enable": true,
-    "version": "1.188.0"
+    "version": "1.189.0"
   },
   {
     "identifier": "github.copilot-chat",
@@ -265,11 +265,6 @@
     "version": "1.0.0"
   },
   {
-    "identifier": "katsute.settings-repository",
-    "enable": true,
-    "version": "1.0.9"
-  },
-  {
     "identifier": "leonardssh.vscord",
     "enable": true,
     "version": "5.2.10"
@@ -342,7 +337,7 @@
   {
     "identifier": "ms-python.python",
     "enable": true,
-    "version": "2024.4.1"
+    "version": "2023.1.10091012"
   },
   {
     "identifier": "ms-python.vscode-pylance",
