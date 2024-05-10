@@ -67,15 +67,12 @@
             "path": "bash",
             "icon": "terminal-bash"
         },
-
         "zsh": {
             "path": "zsh"
         },
-
         "fish": {
             "path": "fish"
         },
-
         "tmux": {
             "path": "tmux",
             "icon": "terminal-tmux"
