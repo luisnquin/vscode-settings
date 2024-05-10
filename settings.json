@@ -127,6 +127,8 @@
         📝 Editor settings
     */
 
+    "workbench.colorTheme": "Tokyo Night",
+
     "editor.tokenColorCustomizations": {
         "[One Dark Pro]": {
             "textMateRules": [
@@ -998,7 +1000,6 @@
     "vscode-edge-devtools.webhint": false,
     "zig.path": "/home/luisnquin/.nix-profile/bin/zig",
     "zig.zls.path": "/home/luisnquin/.config/Code/User/globalStorage/ziglang.vscode-zig/zls_install/zls",
-    "workbench.colorTheme": "Tokyo Night",
     "[dockerfile]": {
         "editor.defaultFormatter": "ms-azuretools.vscode-docker"
     },
