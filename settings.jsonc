@@ -145,16 +145,17 @@
                              
     */
 
-    "workbench.colorTheme": "Default Dark Modern",
-    "workbench.colorCustomizations": {
-        "editor.background": "#1f1f1f",
-        "editorBracketHighlight.foreground1": "#a3a399",
-        "editorBracketHighlight.foreground2": "#505047",
-        "editorBracketHighlight.foreground3": "#a3a399",
-        "editorBracketHighlight.foreground4": "#505047",
-        "editorBracketHighlight.foreground5": "#a3a399",
-        "editorBracketHighlight.foreground6": "#505047"
-    },
+    "workbench.colorTheme": "Tokyo Night",
+    // "workbench.colorTheme": "Default Dark Modern",
+    // "workbench.colorCustomizations": {
+    //     "editor.background": "#1f1f1f",
+    //     "editorBracketHighlight.foreground1": "#a3a399",
+    //     "editorBracketHighlight.foreground2": "#505047",
+    //     "editorBracketHighlight.foreground3": "#a3a399",
+    //     "editorBracketHighlight.foreground4": "#505047",
+    //     "editorBracketHighlight.foreground5": "#a3a399",
+    //     "editorBracketHighlight.foreground6": "#505047"
+    // },
 
     "editor.tokenColorCustomizations": {
         "[Default Dark Modern]": {
@@ -344,7 +345,7 @@
     },
 
     "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
-    "editor.fontFamily": "'JetBrains-Mono', 'Symbols Nerd Font Mono'",
+    "editor.fontFamily": "'Cascadia Code', 'Symbols Nerd Font Mono'",
     "editor.suggest.selectionMode": "whenQuickSuggestion",
     "editor.guides.highlightActiveIndentation": false,
     "editor.guides.highlightActiveBracketPair": false,
@@ -1174,5 +1175,6 @@
         ".git/objects",
         ".vscode",
         ".vscode-insiders"
-    ]
+    ],
+    "workbench.colorCustomizations": {}
 }
