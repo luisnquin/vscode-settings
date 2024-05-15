@@ -647,14 +647,19 @@
     */
     "[terraform]": {
         "editor.defaultFormatter": "hashicorp.terraform",
+        "editor.tabSize": 2, // optionally
         "editor.formatOnSave": true,
         "editor.formatOnSaveMode": "file"
     },
     "[terraform-vars]": {
         "editor.defaultFormatter": "hashicorp.terraform",
+        "editor.tabSize": 2, // optionally
         "editor.formatOnSave": true,
         "editor.formatOnSaveMode": "file"
     },
+    "terraform.languageServer.enable": true,
+    "terraform.experimentalFeatures.validateOnSave": true,
+    "terraform.validation.enableEnhancedValidation": true,
 
     /*
            __           __            
