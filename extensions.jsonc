@@ -17,7 +17,7 @@
   {
     "identifier": "a-h.templ",
     "enable": true,
-    "version": "0.0.22"
+    "version": "0.0.24"
   },
   {
     "identifier": "aaron-bond.better-comments",
@@ -37,7 +37,7 @@
   {
     "identifier": "astro-build.astro-vscode",
     "enable": true,
-    "version": "2.9.0"
+    "version": "2.10.2"
   },
   {
     "identifier": "bbenoist.nix",
@@ -117,7 +117,7 @@
   {
     "identifier": "eamodio.gitlens",
     "enable": true,
-    "version": "14.9.1"
+    "version": "15.0.3"
   },
   {
     "identifier": "ecksdy.env-switcher",
@@ -167,12 +167,12 @@
   {
     "identifier": "github.copilot",
     "enable": true,
-    "version": "1.190.0"
+    "version": "1.193.0"
   },
   {
     "identifier": "github.copilot-chat",
     "enable": true,
-    "version": "0.13.1"
+    "version": "0.15.1"
   },
   {
     "identifier": "github.github-vscode-theme",
@@ -277,7 +277,7 @@
   {
     "identifier": "mads-hartmann.bash-ide-vscode",
     "enable": true,
-    "version": "1.39.0"
+    "version": "1.41.0"
   },
   {
     "identifier": "mechatroner.rainbow-csv",
@@ -307,7 +307,7 @@
   {
     "identifier": "monotykamary.vscode-aql",
     "enable": true,
-    "version": "1.8.1"
+    "version": "1.8.2"
   },
   {
     "identifier": "ms-azuretools.vscode-docker",
@@ -337,7 +337,7 @@
   {
     "identifier": "ms-python.python",
     "enable": true,
-    "version": "2024.4.1"
+    "version": "2024.6.0"
   },
   {
     "identifier": "ms-python.vscode-pylance",
@@ -352,7 +352,7 @@
   {
     "identifier": "ms-vscode-remote.remote-ssh",
     "enable": true,
-    "version": "0.109.0"
+    "version": "0.110.1"
   },
   {
     "identifier": "ms-vscode-remote.remote-ssh-edit",
@@ -362,7 +362,7 @@
   {
     "identifier": "ms-vscode-remote.remote-wsl",
     "enable": true,
-    "version": "0.86.0"
+    "version": "0.88.2"
   },
   {
     "identifier": "ms-vscode.cmake-tools",
@@ -387,7 +387,7 @@
   {
     "identifier": "ms-vscode.powershell",
     "enable": true,
-    "version": "2024.2.1"
+    "version": "2024.2.2"
   },
   {
     "identifier": "ms-vscode.remote-explorer",
@@ -427,7 +427,7 @@
   {
     "identifier": "pkief.material-icon-theme",
     "enable": true,
-    "version": "5.2.0"
+    "version": "5.3.0"
   },
   {
     "identifier": "pyros2097.vscode-go-inline-html",
@@ -442,7 +442,7 @@
   {
     "identifier": "rangav.vscode-thunder-client",
     "enable": true,
-    "version": "2.22.1"
+    "version": "2.23.5"
   },
   {
     "identifier": "redhat.vscode-xml",
@@ -487,7 +487,7 @@
   {
     "identifier": "rust-lang.rust-analyzer",
     "enable": true,
-    "version": "0.3.1950"
+    "version": "0.3.1958"
   },
   {
     "identifier": "rvest.vs-code-prettier-eslint",
@@ -522,7 +522,7 @@
   {
     "identifier": "sumneko.lua",
     "enable": true,
-    "version": "3.9.0"
+    "version": "3.9.1"
   },
   {
     "identifier": "tabnine.tabnine-vscode",
@@ -572,7 +572,7 @@
   {
     "identifier": "vue.volar",
     "enable": true,
-    "version": "1.8.27"
+    "version": "2.0.18"
   },
   {
     "identifier": "william-voyek.vscode-nginx",
@@ -612,7 +612,7 @@
   {
     "identifier": "zeshuaro.vscode-python-poetry",
     "enable": true,
-    "version": "0.17.15"
+    "version": "0.17.18"
   },
   {
     "identifier": "zhuangtongfa.material-theme",
