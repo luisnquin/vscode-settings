@@ -327,7 +327,7 @@
   {
     "identifier": "ms-python.python",
     "enable": true,
-    "version": "2024.6.0"
+    "version": "2023.1.10091012"
   },
   {
     "identifier": "ms-python.vscode-pylance",
@@ -408,6 +408,11 @@
     "identifier": "octref.vetur",
     "enable": true,
     "version": "0.37.3"
+  },
+  {
+    "identifier": "passioinc.go-inline-pgformatter",
+    "enable": true,
+    "version": "1.0.3"
   },
   {
     "identifier": "phplasma.csv-to-table",
