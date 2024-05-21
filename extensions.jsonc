@@ -117,7 +117,7 @@
   {
     "identifier": "eamodio.gitlens",
     "enable": true,
-    "version": "15.0.3"
+    "version": "15.0.4"
   },
   {
     "identifier": "ecksdy.env-switcher",
@@ -287,7 +287,7 @@
   {
     "identifier": "mintlify.document",
     "enable": true,
-    "version": "2.2.1"
+    "version": "2.2.2"
   },
   {
     "identifier": "mkhl.shfmt",
@@ -515,9 +515,9 @@
     "version": "3.9.1"
   },
   {
-    "identifier": "tabnine.tabnine-vscode",
+    "identifier": "supermaven.supermaven",
     "enable": true,
-    "version": "3.100.0"
+    "version": "0.1.50"
   },
   {
     "identifier": "tamasfe.even-better-toml",
@@ -552,7 +552,7 @@
   {
     "identifier": "unifiedjs.vscode-mdx",
     "enable": true,
-    "version": "1.8.5"
+    "version": "1.8.6"
   },
   {
     "identifier": "usernamehw.errorlens",
