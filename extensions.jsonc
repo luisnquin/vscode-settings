@@ -165,16 +165,6 @@
     "version": "7.2.5"
   },
   {
-    "identifier": "github.copilot",
-    "enable": true,
-    "version": "1.193.0"
-  },
-  {
-    "identifier": "github.copilot-chat",
-    "enable": true,
-    "version": "0.15.1"
-  },
-  {
     "identifier": "github.github-vscode-theme",
     "enable": true,
     "version": "6.3.4"
@@ -442,7 +432,7 @@
   {
     "identifier": "rangav.vscode-thunder-client",
     "enable": true,
-    "version": "2.23.5"
+    "version": "2.23.6"
   },
   {
     "identifier": "redhat.vscode-xml",
@@ -527,7 +517,7 @@
   {
     "identifier": "tabnine.tabnine-vscode",
     "enable": true,
-    "version": "3.98.0"
+    "version": "3.100.0"
   },
   {
     "identifier": "tamasfe.even-better-toml",
@@ -572,7 +562,7 @@
   {
     "identifier": "vue.volar",
     "enable": true,
-    "version": "2.0.18"
+    "version": "2.0.19"
   },
   {
     "identifier": "william-voyek.vscode-nginx",
