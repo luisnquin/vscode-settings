@@ -91,7 +91,7 @@
     "window.dialogStyle": "custom",
     "window.confirmBeforeClose": "never",
     "window.doubleClickIconToClose": true,
-    "window.menuBarVisibility": "compact",
+    "window.menuBarVisibility": "toggle",
     "window.commandCenter": true,
 
     /*
@@ -135,17 +135,6 @@
         "**/.next": true,
         "**/coverage-ts": true
     },
-
-    /*
-                 ___ __
-       ___  ____/ (_) /_____  _____
-      / _ \/ __  / / __/ __ \/ ___/
-     /  __/ /_/ / / /_/ /_/ / /
-     \___/\__,_/_/\__/\____/_/
-                             
-    */
-
-    "workbench.colorTheme": "Tokyo Night",
     // "workbench.colorTheme": "Default Dark Modern",
     // "workbench.colorCustomizations": {
     //     "editor.background": "#1f1f1f",
@@ -760,7 +749,9 @@
 
     "[json]": {
         "editor.defaultFormatter": "esbenp.prettier-vscode",
-        "editor.autoIndent": "full"
+        "editor.autoIndent": "full",
+        "editor.indentSize": "tabSize",
+        "editor.tabSize": 2
     },
     "[jsonc]": {
         "editor.defaultFormatter": "esbenp.prettier-vscode",
@@ -1181,5 +1172,5 @@
         ".vscode",
         ".vscode-insiders"
     ],
-    "workbench.colorCustomizations": {}
+    "workbench.colorTheme": "Tokyo Night"
 }

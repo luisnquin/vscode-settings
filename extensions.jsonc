@@ -7,7 +7,7 @@
   {
     "identifier": "42crunch.vscode-openapi",
     "enable": true,
-    "version": "4.25.3"
+    "version": "4.26.1"
   },
   {
     "identifier": "4ops.terraform",
@@ -272,7 +272,7 @@
   {
     "identifier": "mechatroner.rainbow-csv",
     "enable": true,
-    "version": "3.11.0"
+    "version": "3.12.0"
   },
   {
     "identifier": "miguelsolorio.fluent-icons",
@@ -327,7 +327,7 @@
   {
     "identifier": "ms-python.python",
     "enable": true,
-    "version": "2023.1.10091012"
+    "version": "2024.7.11491011"
   },
   {
     "identifier": "ms-python.vscode-pylance",
@@ -357,7 +357,7 @@
   {
     "identifier": "ms-vscode.cmake-tools",
     "enable": true,
-    "version": "1.17.17"
+    "version": "1.18.41"
   },
   {
     "identifier": "ms-vscode.cpptools",
@@ -437,12 +437,12 @@
   {
     "identifier": "rangav.vscode-thunder-client",
     "enable": true,
-    "version": "2.23.6"
+    "version": "2.24.7"
   },
   {
     "identifier": "redhat.vscode-xml",
     "enable": true,
-    "version": "0.26.1"
+    "version": "0.27.0"
   },
   {
     "identifier": "redhat.vscode-yaml",
@@ -482,7 +482,7 @@
   {
     "identifier": "rust-lang.rust-analyzer",
     "enable": true,
-    "version": "0.3.1958"
+    "version": "0.3.1975"
   },
   {
     "identifier": "rvest.vs-code-prettier-eslint",
@@ -522,7 +522,7 @@
   {
     "identifier": "supermaven.supermaven",
     "enable": true,
-    "version": "0.1.50"
+    "version": "0.1.51"
   },
   {
     "identifier": "tamasfe.even-better-toml",
@@ -557,7 +557,7 @@
   {
     "identifier": "unifiedjs.vscode-mdx",
     "enable": true,
-    "version": "1.8.6"
+    "version": "1.8.7"
   },
   {
     "identifier": "usernamehw.errorlens",
@@ -607,7 +607,7 @@
   {
     "identifier": "zeshuaro.vscode-python-poetry",
     "enable": true,
-    "version": "0.17.18"
+    "version": "0.17.19"
   },
   {
     "identifier": "zhuangtongfa.material-theme",
@@ -617,6 +617,6 @@
   {
     "identifier": "ziglang.vscode-zig",
     "enable": true,
-    "version": "0.5.7"
+    "version": "0.5.8"
   }
 ]
