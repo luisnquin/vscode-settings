@@ -7,7 +7,7 @@
   {
     "identifier": "42crunch.vscode-openapi",
     "enable": true,
-    "version": "4.26.1"
+    "version": "4.26.3"
   },
   {
     "identifier": "4ops.terraform",
@@ -17,7 +17,7 @@
   {
     "identifier": "a-h.templ",
     "enable": true,
-    "version": "0.0.24"
+    "version": "0.0.25"
   },
   {
     "identifier": "aaron-bond.better-comments",
@@ -62,7 +62,7 @@
   {
     "identifier": "christian-kohler.path-intellisense",
     "enable": true,
-    "version": "2.8.5"
+    "version": "2.9.0"
   },
   {
     "identifier": "coolbear.systemd-unit-file",
@@ -117,7 +117,7 @@
   {
     "identifier": "eamodio.gitlens",
     "enable": true,
-    "version": "15.0.4"
+    "version": "15.1.0"
   },
   {
     "identifier": "ecksdy.env-switcher",
@@ -137,7 +137,7 @@
   {
     "identifier": "equinusocio.vsc-material-theme-icons",
     "enable": true,
-    "version": "3.6.0"
+    "version": "3.6.1"
   },
   {
     "identifier": "eriklynd.json-tools",
@@ -172,7 +172,7 @@
   {
     "identifier": "github.vscode-github-actions",
     "enable": true,
-    "version": "0.26.2"
+    "version": "0.26.3"
   },
   {
     "identifier": "golang.go",
@@ -192,7 +192,7 @@
   {
     "identifier": "hashicorp.terraform",
     "enable": true,
-    "version": "2.30.1"
+    "version": "2.30.2"
   },
   {
     "identifier": "humao.rest-client",
@@ -257,7 +257,7 @@
   {
     "identifier": "leonardssh.vscord",
     "enable": true,
-    "version": "5.2.10"
+    "version": "5.2.12"
   },
   {
     "identifier": "lizebang.bash-extension-pack",
@@ -327,22 +327,22 @@
   {
     "identifier": "ms-python.python",
     "enable": true,
-    "version": "2024.7.11491011"
+    "version": "2024.8.1"
   },
   {
     "identifier": "ms-python.vscode-pylance",
     "enable": true,
-    "version": "2024.5.1"
+    "version": "2024.6.1"
   },
   {
     "identifier": "ms-vscode-remote.remote-containers",
     "enable": true,
-    "version": "0.362.0"
+    "version": "0.369.0"
   },
   {
     "identifier": "ms-vscode-remote.remote-ssh",
     "enable": true,
-    "version": "0.110.1"
+    "version": "0.112.0"
   },
   {
     "identifier": "ms-vscode-remote.remote-ssh-edit",
@@ -357,7 +357,7 @@
   {
     "identifier": "ms-vscode.cmake-tools",
     "enable": true,
-    "version": "1.18.41"
+    "version": "1.18.42"
   },
   {
     "identifier": "ms-vscode.cpptools",
@@ -387,12 +387,12 @@
   {
     "identifier": "ms-vscode.vscode-typescript-next",
     "enable": true,
-    "version": "5.5.20240505"
+    "version": "5.6.20240612"
   },
   {
     "identifier": "ms-vsliveshare.vsliveshare",
     "enable": true,
-    "version": "1.0.5918"
+    "version": "1.0.5932"
   },
   {
     "identifier": "netcorext.uuid-generator",
@@ -422,7 +422,7 @@
   {
     "identifier": "pkief.material-icon-theme",
     "enable": true,
-    "version": "5.3.0"
+    "version": "5.4.2"
   },
   {
     "identifier": "pyros2097.vscode-go-inline-html",
@@ -437,17 +437,17 @@
   {
     "identifier": "rangav.vscode-thunder-client",
     "enable": true,
-    "version": "2.24.7"
+    "version": "2.24.11"
   },
   {
     "identifier": "redhat.vscode-xml",
     "enable": true,
-    "version": "0.27.0"
+    "version": "0.27.1"
   },
   {
     "identifier": "redhat.vscode-yaml",
     "enable": true,
-    "version": "1.14.0"
+    "version": "1.15.0"
   },
   {
     "identifier": "redocly.openapi-vs-code",
@@ -482,7 +482,7 @@
   {
     "identifier": "rust-lang.rust-analyzer",
     "enable": true,
-    "version": "0.3.1975"
+    "version": "0.3.1995"
   },
   {
     "identifier": "rvest.vs-code-prettier-eslint",
@@ -517,7 +517,7 @@
   {
     "identifier": "sumneko.lua",
     "enable": true,
-    "version": "3.9.1"
+    "version": "3.9.3"
   },
   {
     "identifier": "supermaven.supermaven",
@@ -547,7 +547,7 @@
   {
     "identifier": "tonybaloney.vscode-pets",
     "enable": true,
-    "version": "1.25.1"
+    "version": "1.27.0"
   },
   {
     "identifier": "twxs.cmake",
@@ -557,17 +557,17 @@
   {
     "identifier": "unifiedjs.vscode-mdx",
     "enable": true,
-    "version": "1.8.7"
+    "version": "1.8.8"
   },
   {
     "identifier": "usernamehw.errorlens",
     "enable": true,
-    "version": "3.17.0"
+    "version": "3.18.0"
   },
   {
     "identifier": "vue.volar",
     "enable": true,
-    "version": "2.0.19"
+    "version": "2.0.21"
   },
   {
     "identifier": "william-voyek.vscode-nginx",
@@ -607,7 +607,7 @@
   {
     "identifier": "zeshuaro.vscode-python-poetry",
     "enable": true,
-    "version": "0.17.19"
+    "version": "0.17.20"
   },
   {
     "identifier": "zhuangtongfa.material-theme",

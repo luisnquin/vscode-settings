@@ -133,6 +133,7 @@
         "node_modules": true,
         ".direnv": true,
         "**/.next": true,
+        "**/.terraform": true,
         "**/coverage-ts": true
     },
     // "workbench.colorTheme": "Default Dark Modern",
@@ -1172,5 +1173,6 @@
         ".vscode",
         ".vscode-insiders"
     ],
-    "workbench.colorTheme": "Tokyo Night"
+    "workbench.colorTheme": "Tokyo Night",
+    "workbench.colorCustomizations": {}
 }
