@@ -97,7 +97,7 @@
   {
     "identifier": "dbaeumer.vscode-eslint",
     "enable": true,
-    "version": "2.4.4"
+    "version": "3.0.10"
   },
   {
     "identifier": "dlasagno.rasi",
@@ -387,7 +387,7 @@
   {
     "identifier": "ms-vscode.vscode-typescript-next",
     "enable": true,
-    "version": "5.6.20240612"
+    "version": "5.6.20240621"
   },
   {
     "identifier": "ms-vsliveshare.vsliveshare",
@@ -482,7 +482,7 @@
   {
     "identifier": "rust-lang.rust-analyzer",
     "enable": true,
-    "version": "0.3.1995"
+    "version": "0.3.2002"
   },
   {
     "identifier": "rvest.vs-code-prettier-eslint",
@@ -522,7 +522,7 @@
   {
     "identifier": "supermaven.supermaven",
     "enable": true,
-    "version": "0.1.51"
+    "version": "0.2.10"
   },
   {
     "identifier": "tamasfe.even-better-toml",
@@ -562,7 +562,7 @@
   {
     "identifier": "usernamehw.errorlens",
     "enable": true,
-    "version": "3.18.0"
+    "version": "3.20.0"
   },
   {
     "identifier": "vue.volar",
@@ -607,7 +607,7 @@
   {
     "identifier": "zeshuaro.vscode-python-poetry",
     "enable": true,
-    "version": "0.17.20"
+    "version": "0.17.21"
   },
   {
     "identifier": "zhuangtongfa.material-theme",
