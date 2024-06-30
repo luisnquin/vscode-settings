@@ -7,7 +7,7 @@
   {
     "identifier": "42crunch.vscode-openapi",
     "enable": true,
-    "version": "4.26.3"
+    "version": "4.27.0"
   },
   {
     "identifier": "4ops.terraform",
@@ -17,7 +17,7 @@
   {
     "identifier": "a-h.templ",
     "enable": true,
-    "version": "0.0.25"
+    "version": "0.0.26"
   },
   {
     "identifier": "aaron-bond.better-comments",
@@ -52,7 +52,7 @@
   {
     "identifier": "bradlc.vscode-tailwindcss",
     "enable": true,
-    "version": "0.10.5"
+    "version": "0.12.3"
   },
   {
     "identifier": "brettm12345.nixfmt-vscode",
@@ -192,7 +192,7 @@
   {
     "identifier": "hashicorp.terraform",
     "enable": true,
-    "version": "2.30.2"
+    "version": "2.31.0"
   },
   {
     "identifier": "humao.rest-client",
@@ -387,7 +387,7 @@
   {
     "identifier": "ms-vscode.vscode-typescript-next",
     "enable": true,
-    "version": "5.6.20240621"
+    "version": "5.6.20240628"
   },
   {
     "identifier": "ms-vsliveshare.vsliveshare",
@@ -402,7 +402,7 @@
   {
     "identifier": "ocamllabs.ocaml-platform",
     "enable": true,
-    "version": "1.18.1"
+    "version": "1.19.1"
   },
   {
     "identifier": "octref.vetur",
@@ -437,7 +437,7 @@
   {
     "identifier": "rangav.vscode-thunder-client",
     "enable": true,
-    "version": "2.24.11"
+    "version": "2.24.12"
   },
   {
     "identifier": "redhat.vscode-xml",
@@ -482,7 +482,7 @@
   {
     "identifier": "rust-lang.rust-analyzer",
     "enable": true,
-    "version": "0.3.2002"
+    "version": "0.3.2011"
   },
   {
     "identifier": "rvest.vs-code-prettier-eslint",
@@ -522,7 +522,7 @@
   {
     "identifier": "supermaven.supermaven",
     "enable": true,
-    "version": "0.2.10"
+    "version": "0.2.14"
   },
   {
     "identifier": "tamasfe.even-better-toml",
@@ -557,7 +557,7 @@
   {
     "identifier": "unifiedjs.vscode-mdx",
     "enable": true,
-    "version": "1.8.8"
+    "version": "1.8.9"
   },
   {
     "identifier": "usernamehw.errorlens",
@@ -567,7 +567,7 @@
   {
     "identifier": "vue.volar",
     "enable": true,
-    "version": "2.0.21"
+    "version": "2.0.22"
   },
   {
     "identifier": "william-voyek.vscode-nginx",
@@ -607,7 +607,7 @@
   {
     "identifier": "zeshuaro.vscode-python-poetry",
     "enable": true,
-    "version": "0.17.21"
+    "version": "0.17.22"
   },
   {
     "identifier": "zhuangtongfa.material-theme",
