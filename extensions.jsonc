@@ -52,7 +52,7 @@
   {
     "identifier": "bradlc.vscode-tailwindcss",
     "enable": true,
-    "version": "0.12.3"
+    "version": "0.12.5"
   },
   {
     "identifier": "brettm12345.nixfmt-vscode",
@@ -72,7 +72,7 @@
   {
     "identifier": "craigrbroughton.htmx-attributes",
     "enable": true,
-    "version": "0.7.0"
+    "version": "0.8.0"
   },
   {
     "identifier": "cschlosser.doxdocgen",
@@ -237,7 +237,7 @@
   {
     "identifier": "jock.svg",
     "enable": true,
-    "version": "1.5.3"
+    "version": "1.5.4"
   },
   {
     "identifier": "johnpapa.angular2",
@@ -337,7 +337,7 @@
   {
     "identifier": "ms-vscode-remote.remote-containers",
     "enable": true,
-    "version": "0.369.0"
+    "version": "0.375.0"
   },
   {
     "identifier": "ms-vscode-remote.remote-ssh",
@@ -375,6 +375,11 @@
     "version": "2.0.0"
   },
   {
+    "identifier": "ms-vscode.makefile-tools",
+    "enable": true,
+    "version": "0.9.10"
+  },
+  {
     "identifier": "ms-vscode.powershell",
     "enable": true,
     "version": "2024.2.2"
@@ -387,7 +392,7 @@
   {
     "identifier": "ms-vscode.vscode-typescript-next",
     "enable": true,
-    "version": "5.6.20240628"
+    "version": "5.6.20240704"
   },
   {
     "identifier": "ms-vsliveshare.vsliveshare",
@@ -482,7 +487,7 @@
   {
     "identifier": "rust-lang.rust-analyzer",
     "enable": true,
-    "version": "0.3.2011"
+    "version": "0.3.2020"
   },
   {
     "identifier": "rvest.vs-code-prettier-eslint",
@@ -522,7 +527,7 @@
   {
     "identifier": "supermaven.supermaven",
     "enable": true,
-    "version": "0.2.14"
+    "version": "1.0.2"
   },
   {
     "identifier": "tamasfe.even-better-toml",
@@ -567,7 +572,7 @@
   {
     "identifier": "vue.volar",
     "enable": true,
-    "version": "2.0.22"
+    "version": "2.0.26"
   },
   {
     "identifier": "william-voyek.vscode-nginx",
