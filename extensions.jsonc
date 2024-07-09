@@ -37,7 +37,7 @@
   {
     "identifier": "astro-build.astro-vscode",
     "enable": true,
-    "version": "2.10.2"
+    "version": "2.11.0"
   },
   {
     "identifier": "bbenoist.nix",
@@ -332,12 +332,12 @@
   {
     "identifier": "ms-python.vscode-pylance",
     "enable": true,
-    "version": "2024.6.1"
+    "version": "2024.7.1"
   },
   {
     "identifier": "ms-vscode-remote.remote-containers",
     "enable": true,
-    "version": "0.375.0"
+    "version": "0.375.1"
   },
   {
     "identifier": "ms-vscode-remote.remote-ssh",
@@ -457,7 +457,7 @@
   {
     "identifier": "redocly.openapi-vs-code",
     "enable": true,
-    "version": "0.4.4"
+    "version": "0.4.5"
   },
   {
     "identifier": "remisa.shellman",
@@ -487,7 +487,7 @@
   {
     "identifier": "rust-lang.rust-analyzer",
     "enable": true,
-    "version": "0.3.2020"
+    "version": "0.3.2029"
   },
   {
     "identifier": "rvest.vs-code-prettier-eslint",
@@ -527,7 +527,7 @@
   {
     "identifier": "supermaven.supermaven",
     "enable": true,
-    "version": "1.0.2"
+    "version": "1.0.4"
   },
   {
     "identifier": "tamasfe.even-better-toml",
