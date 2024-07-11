@@ -729,7 +729,8 @@
         "heading-increment": false,
         "no-inline-html": false,
         "first-line-h1": false,
-        "no-duplicate-heading": false
+        "no-duplicate-heading": false,
+        "commands-show-output": false
     },
 
     /*
@@ -1174,6 +1175,6 @@
         ".vscode",
         ".vscode-insiders"
     ],
-    "workbench.colorTheme": "Tokyo Night",
-    "workbench.colorCustomizations": {}
+    "workbench.colorCustomizations": {},
+    "workbench.colorTheme": "Tokyo Night"
 }

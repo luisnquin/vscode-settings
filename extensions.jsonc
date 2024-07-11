@@ -117,7 +117,7 @@
   {
     "identifier": "eamodio.gitlens",
     "enable": true,
-    "version": "15.1.0"
+    "version": "15.2.0"
   },
   {
     "identifier": "ecksdy.env-switcher",
@@ -132,7 +132,7 @@
   {
     "identifier": "enkia.tokyo-night",
     "enable": true,
-    "version": "1.0.6"
+    "version": "1.0.8"
   },
   {
     "identifier": "equinusocio.vsc-material-theme-icons",
@@ -312,7 +312,7 @@
   {
     "identifier": "ms-python.debugpy",
     "enable": true,
-    "version": "2024.6.0"
+    "version": "2024.8.0"
   },
   {
     "identifier": "ms-python.isort",
@@ -327,7 +327,7 @@
   {
     "identifier": "ms-python.python",
     "enable": true,
-    "version": "2024.8.1"
+    "version": "2024.10.0"
   },
   {
     "identifier": "ms-python.vscode-pylance",
@@ -357,7 +357,7 @@
   {
     "identifier": "ms-vscode.cmake-tools",
     "enable": true,
-    "version": "1.18.42"
+    "version": "1.18.43"
   },
   {
     "identifier": "ms-vscode.cpptools",
@@ -392,7 +392,7 @@
   {
     "identifier": "ms-vscode.vscode-typescript-next",
     "enable": true,
-    "version": "5.6.20240707"
+    "version": "5.6.20240710"
   },
   {
     "identifier": "ms-vsliveshare.vsliveshare",
