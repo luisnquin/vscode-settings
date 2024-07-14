@@ -82,7 +82,7 @@
   {
     "identifier": "darian-benam.vscode-robots-dot-txt-support",
     "enable": true,
-    "version": "1.5.0"
+    "version": "1.5.1"
   },
   {
     "identifier": "davidanson.vscode-markdownlint",
@@ -132,7 +132,7 @@
   {
     "identifier": "enkia.tokyo-night",
     "enable": true,
-    "version": "1.0.8"
+    "version": "1.0.9"
   },
   {
     "identifier": "equinusocio.vsc-material-theme-icons",
@@ -227,7 +227,7 @@
   {
     "identifier": "jeff-hykin.better-cpp-syntax",
     "enable": true,
-    "version": "1.17.2"
+    "version": "1.27.1"
   },
   {
     "identifier": "jnoortheen.nix-ide",
@@ -392,7 +392,7 @@
   {
     "identifier": "ms-vscode.vscode-typescript-next",
     "enable": true,
-    "version": "5.6.20240710"
+    "version": "5.6.20240713"
   },
   {
     "identifier": "ms-vsliveshare.vsliveshare",

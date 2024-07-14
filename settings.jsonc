@@ -91,7 +91,7 @@
     "window.dialogStyle": "custom",
     "window.confirmBeforeClose": "never",
     "window.doubleClickIconToClose": true,
-    "window.menuBarVisibility": "toggle",
+    "window.menuBarVisibility": "compact",
     "window.commandCenter": true,
 
     /*
