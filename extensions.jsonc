@@ -400,6 +400,11 @@
     "version": "1.0.5936"
   },
   {
+    "identifier": "msjsdiag.vscode-react-native",
+    "enable": true,
+    "version": "1.13.0"
+  },
+  {
     "identifier": "netcorext.uuid-generator",
     "enable": true,
     "version": "0.0.5"
