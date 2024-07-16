@@ -192,7 +192,7 @@
   {
     "identifier": "hashicorp.terraform",
     "enable": true,
-    "version": "2.31.0"
+    "version": "2.32.0"
   },
   {
     "identifier": "humao.rest-client",
@@ -242,7 +242,7 @@
   {
     "identifier": "johnpapa.angular2",
     "enable": true,
-    "version": "16.0.1"
+    "version": "18.0.2"
   },
   {
     "identifier": "kaanaytekin.concise-sql-formatter",
@@ -392,12 +392,12 @@
   {
     "identifier": "ms-vscode.vscode-typescript-next",
     "enable": true,
-    "version": "5.6.20240713"
+    "version": "5.6.20240715"
   },
   {
     "identifier": "ms-vsliveshare.vsliveshare",
     "enable": true,
-    "version": "1.0.5932"
+    "version": "1.0.5936"
   },
   {
     "identifier": "netcorext.uuid-generator",
@@ -407,7 +407,7 @@
   {
     "identifier": "ocamllabs.ocaml-platform",
     "enable": true,
-    "version": "1.19.1"
+    "version": "1.20.0"
   },
   {
     "identifier": "octref.vetur",
@@ -427,7 +427,7 @@
   {
     "identifier": "pkief.material-icon-theme",
     "enable": true,
-    "version": "5.4.2"
+    "version": "5.5.1"
   },
   {
     "identifier": "pyros2097.vscode-go-inline-html",
@@ -487,7 +487,7 @@
   {
     "identifier": "rust-lang.rust-analyzer",
     "enable": true,
-    "version": "0.3.2029"
+    "version": "0.3.2037"
   },
   {
     "identifier": "rvest.vs-code-prettier-eslint",
