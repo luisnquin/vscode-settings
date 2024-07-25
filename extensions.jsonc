@@ -37,7 +37,7 @@
   {
     "identifier": "astro-build.astro-vscode",
     "enable": true,
-    "version": "2.11.0"
+    "version": "2.12.6"
   },
   {
     "identifier": "bbenoist.nix",
@@ -117,7 +117,7 @@
   {
     "identifier": "eamodio.gitlens",
     "enable": true,
-    "version": "15.2.0"
+    "version": "15.2.1"
   },
   {
     "identifier": "ecksdy.env-switcher",
@@ -177,7 +177,7 @@
   {
     "identifier": "golang.go",
     "enable": true,
-    "version": "0.41.4"
+    "version": "0.42.0"
   },
   {
     "identifier": "grapecity.gc-excelviewer",
@@ -192,7 +192,7 @@
   {
     "identifier": "hashicorp.terraform",
     "enable": true,
-    "version": "2.32.0"
+    "version": "2.32.1"
   },
   {
     "identifier": "humao.rest-client",
@@ -362,7 +362,7 @@
   {
     "identifier": "ms-vscode.cpptools",
     "enable": true,
-    "version": "1.20.5"
+    "version": "1.21.3"
   },
   {
     "identifier": "ms-vscode.cpptools-extension-pack",
@@ -392,7 +392,7 @@
   {
     "identifier": "ms-vscode.vscode-typescript-next",
     "enable": true,
-    "version": "5.6.20240715"
+    "version": "5.6.20240724"
   },
   {
     "identifier": "ms-vsliveshare.vsliveshare",
@@ -420,6 +420,11 @@
     "version": "0.37.3"
   },
   {
+    "identifier": "oxc.oxc-vscode",
+    "enable": true,
+    "version": "0.6.1"
+  },
+  {
     "identifier": "passioinc.go-inline-pgformatter",
     "enable": true,
     "version": "1.0.3"
@@ -432,7 +437,7 @@
   {
     "identifier": "pkief.material-icon-theme",
     "enable": true,
-    "version": "5.5.1"
+    "version": "5.8.0"
   },
   {
     "identifier": "pyros2097.vscode-go-inline-html",
@@ -447,7 +452,7 @@
   {
     "identifier": "rangav.vscode-thunder-client",
     "enable": true,
-    "version": "2.24.12"
+    "version": "2.24.13"
   },
   {
     "identifier": "redhat.vscode-xml",
@@ -462,7 +467,7 @@
   {
     "identifier": "redocly.openapi-vs-code",
     "enable": true,
-    "version": "0.4.5"
+    "version": "0.4.7"
   },
   {
     "identifier": "remisa.shellman",
@@ -492,7 +497,7 @@
   {
     "identifier": "rust-lang.rust-analyzer",
     "enable": true,
-    "version": "0.3.2037"
+    "version": "0.3.2045"
   },
   {
     "identifier": "rvest.vs-code-prettier-eslint",
@@ -577,7 +582,7 @@
   {
     "identifier": "vue.volar",
     "enable": true,
-    "version": "2.0.26"
+    "version": "2.0.28"
   },
   {
     "identifier": "william-voyek.vscode-nginx",

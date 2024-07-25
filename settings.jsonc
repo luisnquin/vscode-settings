@@ -548,25 +548,27 @@
     /___/                            
     */
 
+    "eslint.validate": ["javascript", "javascriptreact", "typescript", "typescriptreact"],
+
     "[javascript]": {
-        "editor.defaultFormatter": "esbenp.prettier-vscode"
+        "editor.formatOnSave": true,
+        "editor.tabSize": 2,
+        "editor.defaultFormatter": "rvest.vs-code-prettier-eslint"
     },
 
     "[javascriptreact]": {
         "editor.rulers": [125],
-
-        "editor.defaultFormatter": "esbenp.prettier-vscode"
+        "editor.tabSize": 2,
+        "editor.defaultFormatter": "rvest.vs-code-prettier-eslint"
     },
 
     "[typescript]": {
         "editor.rulers": [125],
-
-        "editor.defaultFormatter": "esbenp.prettier-vscode"
+        "editor.tabSize": 2,
+        "editor.defaultFormatter": "rvest.vs-code-prettier-eslint"
     },
 
     "[typescriptreact]": {
-        "editor.rulers": [125],
-
         "editor.defaultFormatter": "esbenp.prettier-vscode"
     },
 
@@ -575,7 +577,11 @@
 
     "reactSnippets.settings.prettierEnabled": true,
 
+    "eslint.enable": true,
+    "eslint.debug": true,
     "eslint.trace.server": "off",
+    "eslint.codeActionsOnSave.mode": "all",
+
     "prettier.documentSelectors": ["**/*.astro"],
     "prettier.trailingComma": "none",
     "prettier.singleQuote": true,
