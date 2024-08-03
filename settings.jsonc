@@ -549,6 +549,7 @@
     */
 
     "eslint.validate": ["javascript", "javascriptreact", "typescript", "typescriptreact"],
+    "biome.lspBin": "/home/luisnquin/.nix-profile/bin/biome",
 
     "[javascript]": {
         "editor.formatOnSave": true,
@@ -1182,5 +1183,8 @@
         ".vscode-insiders"
     ],
     "workbench.colorCustomizations": {},
-    "workbench.colorTheme": "Tokyo Night"
+    "workbench.colorTheme": "Tokyo Night",
+    "[svg]": {
+        "editor.defaultFormatter": "redhat.vscode-xml"
+    }
 }
