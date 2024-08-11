@@ -125,6 +125,7 @@
         ".babelrc": "json",
         "*.yml": "yaml",
         "*.yaml": "yaml",
+        "encore.app": "json",
         "*curlrc": "text",
         ".env.example": "env",
         ".env.production": "env"
