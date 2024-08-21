@@ -122,7 +122,7 @@
   {
     "identifier": "eamodio.gitlens",
     "enable": true,
-    "version": "15.3.0"
+    "version": "15.3.1"
   },
   {
     "identifier": "ecksdy.env-switcher",
@@ -267,7 +267,7 @@
   {
     "identifier": "leonardssh.vscord",
     "enable": true,
-    "version": "5.2.12"
+    "version": "5.2.13"
   },
   {
     "identifier": "lizebang.bash-extension-pack",
