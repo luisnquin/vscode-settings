@@ -37,7 +37,7 @@
   {
     "identifier": "astro-build.astro-vscode",
     "enable": true,
-    "version": "2.14.0"
+    "version": "2.14.1"
   },
   {
     "identifier": "bbenoist.nix",
@@ -187,7 +187,7 @@
   {
     "identifier": "grapecity.gc-excelviewer",
     "enable": true,
-    "version": "4.2.60"
+    "version": "4.2.61"
   },
   {
     "identifier": "gruntfuggly.todo-tree",
@@ -327,7 +327,7 @@
   {
     "identifier": "ms-python.debugpy",
     "enable": true,
-    "version": "2024.8.0"
+    "version": "2024.10.0"
   },
   {
     "identifier": "ms-python.isort",
@@ -407,7 +407,7 @@
   {
     "identifier": "ms-vscode.vscode-typescript-next",
     "enable": true,
-    "version": "5.6.20240817"
+    "version": "5.7.20240820"
   },
   {
     "identifier": "ms-vsliveshare.vsliveshare",
@@ -433,11 +433,6 @@
     "identifier": "octref.vetur",
     "enable": true,
     "version": "0.37.3"
-  },
-  {
-    "identifier": "oxc.oxc-vscode",
-    "enable": true,
-    "version": "0.7.2"
   },
   {
     "identifier": "passioinc.go-inline-pgformatter",
@@ -512,7 +507,7 @@
   {
     "identifier": "rust-lang.rust-analyzer",
     "enable": true,
-    "version": "0.3.2070"
+    "version": "0.3.2078"
   },
   {
     "identifier": "rvest.vs-code-prettier-eslint",
@@ -547,7 +542,7 @@
   {
     "identifier": "sumneko.lua",
     "enable": true,
-    "version": "3.10.4"
+    "version": "3.10.5"
   },
   {
     "identifier": "supermaven.supermaven",
@@ -587,7 +582,7 @@
   {
     "identifier": "unifiedjs.vscode-mdx",
     "enable": true,
-    "version": "1.8.9"
+    "version": "1.8.10"
   },
   {
     "identifier": "usernamehw.errorlens",
@@ -637,7 +632,7 @@
   {
     "identifier": "zeshuaro.vscode-python-poetry",
     "enable": true,
-    "version": "0.17.22"
+    "version": "0.17.27"
   },
   {
     "identifier": "zhuangtongfa.material-theme",

@@ -1,3 +1,4 @@
+
 {
     /*
               _ __
@@ -21,6 +22,8 @@
         \____/\____/_/   \___/
                              
     */
+
+    "typescript.tsserver.log": "verbose",
 
     "liveServer.settings.donotShowInfoMsg": true,
     "update.showReleaseNotes": true,
