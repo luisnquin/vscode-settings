@@ -407,7 +407,7 @@
   {
     "identifier": "ms-vscode.vscode-typescript-next",
     "enable": true,
-    "version": "5.7.20240823"
+    "version": "5.7.20240825"
   },
   {
     "identifier": "ms-vsliveshare.vsliveshare",
@@ -507,7 +507,7 @@
   {
     "identifier": "rust-lang.rust-analyzer",
     "enable": true,
-    "version": "0.3.2078"
+    "version": "0.3.2086"
   },
   {
     "identifier": "rvest.vs-code-prettier-eslint",
