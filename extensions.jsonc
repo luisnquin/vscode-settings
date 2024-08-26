@@ -450,6 +450,11 @@
     "version": "5.9.0"
   },
   {
+    "identifier": "prisma.prisma",
+    "enable": true,
+    "version": "5.18.0"
+  },
+  {
     "identifier": "pyros2097.vscode-go-inline-html",
     "enable": true,
     "version": "0.0.4"
