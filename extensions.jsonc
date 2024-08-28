@@ -57,7 +57,7 @@
   {
     "identifier": "bradlc.vscode-tailwindcss",
     "enable": true,
-    "version": "0.12.7"
+    "version": "0.12.8"
   },
   {
     "identifier": "brettm12345.nixfmt-vscode",
@@ -142,7 +142,7 @@
   {
     "identifier": "equinusocio.vsc-material-theme-icons",
     "enable": true,
-    "version": "3.8.7"
+    "version": "3.8.8"
   },
   {
     "identifier": "eriklynd.json-tools",
@@ -347,7 +347,7 @@
   {
     "identifier": "ms-python.vscode-pylance",
     "enable": true,
-    "version": "2024.8.1"
+    "version": "2024.8.2"
   },
   {
     "identifier": "ms-vscode-remote.remote-containers",
@@ -407,7 +407,7 @@
   {
     "identifier": "ms-vscode.vscode-typescript-next",
     "enable": true,
-    "version": "5.7.20240825"
+    "version": "5.7.20240827"
   },
   {
     "identifier": "ms-vsliveshare.vsliveshare",
@@ -452,7 +452,7 @@
   {
     "identifier": "prisma.prisma",
     "enable": true,
-    "version": "5.18.0"
+    "version": "5.19.0"
   },
   {
     "identifier": "pyros2097.vscode-go-inline-html",
@@ -482,7 +482,7 @@
   {
     "identifier": "redocly.openapi-vs-code",
     "enable": true,
-    "version": "0.4.7"
+    "version": "0.4.8"
   },
   {
     "identifier": "remisa.shellman",
@@ -512,7 +512,7 @@
   {
     "identifier": "rust-lang.rust-analyzer",
     "enable": true,
-    "version": "0.3.2086"
+    "version": "0.3.2089"
   },
   {
     "identifier": "rvest.vs-code-prettier-eslint",
@@ -552,7 +552,7 @@
   {
     "identifier": "supermaven.supermaven",
     "enable": true,
-    "version": "1.0.8"
+    "version": "1.1.1"
   },
   {
     "identifier": "tamasfe.even-better-toml",
