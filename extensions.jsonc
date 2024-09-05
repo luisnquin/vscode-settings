@@ -57,7 +57,7 @@
   {
     "identifier": "bradlc.vscode-tailwindcss",
     "enable": true,
-    "version": "0.12.8"
+    "version": "0.12.10"
   },
   {
     "identifier": "brettm12345.nixfmt-vscode",
@@ -337,7 +337,7 @@
   {
     "identifier": "ms-python.python",
     "enable": true,
-    "version": "2024.13.2024082701"
+    "version": "2024.15.2024090406"
   },
   {
     "identifier": "ms-python.vscode-pylance",
@@ -367,7 +367,7 @@
   {
     "identifier": "ms-vscode.cmake-tools",
     "enable": true,
-    "version": "1.19.49"
+    "version": "1.19.50"
   },
   {
     "identifier": "ms-vscode.cpptools",
@@ -402,7 +402,7 @@
   {
     "identifier": "ms-vscode.vscode-typescript-next",
     "enable": true,
-    "version": "5.7.20240831"
+    "version": "5.7.20240903"
   },
   {
     "identifier": "ms-vsliveshare.vsliveshare",
@@ -447,7 +447,7 @@
   {
     "identifier": "prisma.prisma",
     "enable": true,
-    "version": "5.19.0"
+    "version": "5.19.1"
   },
   {
     "identifier": "pyros2097.vscode-go-inline-html",
@@ -462,7 +462,7 @@
   {
     "identifier": "rangav.vscode-thunder-client",
     "enable": true,
-    "version": "2.24.13"
+    "version": "2.25.1"
   },
   {
     "identifier": "redhat.vscode-xml",
@@ -507,7 +507,7 @@
   {
     "identifier": "rust-lang.rust-analyzer",
     "enable": true,
-    "version": "0.3.2089"
+    "version": "0.3.2096"
   },
   {
     "identifier": "rvest.vs-code-prettier-eslint",
@@ -547,7 +547,7 @@
   {
     "identifier": "supermaven.supermaven",
     "enable": true,
-    "version": "1.1.6"
+    "version": "1.1.9"
   },
   {
     "identifier": "tamasfe.even-better-toml",
@@ -592,7 +592,7 @@
   {
     "identifier": "vue.volar",
     "enable": true,
-    "version": "2.1.4"
+    "version": "2.1.6"
   },
   {
     "identifier": "william-voyek.vscode-nginx",
