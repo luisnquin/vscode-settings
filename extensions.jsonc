@@ -37,7 +37,7 @@
   {
     "identifier": "astro-build.astro-vscode",
     "enable": true,
-    "version": "2.14.1"
+    "version": "2.14.2"
   },
   {
     "identifier": "bbenoist.nix",
@@ -122,7 +122,7 @@
   {
     "identifier": "eamodio.gitlens",
     "enable": true,
-    "version": "15.3.1"
+    "version": "15.4.0"
   },
   {
     "identifier": "ecksdy.env-switcher",
@@ -197,7 +197,7 @@
   {
     "identifier": "hashicorp.terraform",
     "enable": true,
-    "version": "2.32.2"
+    "version": "2.32.3"
   },
   {
     "identifier": "humao.rest-client",
@@ -347,7 +347,7 @@
   {
     "identifier": "ms-vscode-remote.remote-containers",
     "enable": true,
-    "version": "0.380.0"
+    "version": "0.384.0"
   },
   {
     "identifier": "ms-vscode-remote.remote-ssh",
@@ -367,7 +367,7 @@
   {
     "identifier": "ms-vscode.cmake-tools",
     "enable": true,
-    "version": "1.19.50"
+    "version": "1.19.51"
   },
   {
     "identifier": "ms-vscode.cpptools",
@@ -402,7 +402,7 @@
   {
     "identifier": "ms-vscode.vscode-typescript-next",
     "enable": true,
-    "version": "5.7.20240903"
+    "version": "5.7.20240904"
   },
   {
     "identifier": "ms-vsliveshare.vsliveshare",
@@ -462,7 +462,7 @@
   {
     "identifier": "rangav.vscode-thunder-client",
     "enable": true,
-    "version": "2.25.1"
+    "version": "2.25.2"
   },
   {
     "identifier": "redhat.vscode-xml",
@@ -632,7 +632,7 @@
   {
     "identifier": "zeshuaro.vscode-python-poetry",
     "enable": true,
-    "version": "0.17.28"
+    "version": "0.17.29"
   },
   {
     "identifier": "zhuangtongfa.material-theme",
