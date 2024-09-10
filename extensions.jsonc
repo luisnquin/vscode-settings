@@ -342,7 +342,7 @@
   {
     "identifier": "ms-python.vscode-pylance",
     "enable": true,
-    "version": "2024.8.2"
+    "version": "2024.9.1"
   },
   {
     "identifier": "ms-vscode-remote.remote-containers",
@@ -507,7 +507,7 @@
   {
     "identifier": "rust-lang.rust-analyzer",
     "enable": true,
-    "version": "0.3.2096"
+    "version": "0.3.2104"
   },
   {
     "identifier": "rvest.vs-code-prettier-eslint",
