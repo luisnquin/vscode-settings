@@ -122,7 +122,7 @@
   {
     "identifier": "eamodio.gitlens",
     "enable": true,
-    "version": "15.5.0"
+    "version": "15.5.1"
   },
   {
     "identifier": "ecksdy.env-switcher",
@@ -387,7 +387,7 @@
   {
     "identifier": "ms-vscode.makefile-tools",
     "enable": true,
-    "version": "0.10.26"
+    "version": "0.11.13"
   },
   {
     "identifier": "ms-vscode.powershell",
@@ -402,12 +402,12 @@
   {
     "identifier": "ms-vscode.vscode-typescript-next",
     "enable": true,
-    "version": "5.7.20240913"
+    "version": "5.7.20240916"
   },
   {
     "identifier": "ms-vsliveshare.vsliveshare",
     "enable": true,
-    "version": "1.0.5936"
+    "version": "1.0.5940"
   },
   {
     "identifier": "msjsdiag.vscode-react-native",
@@ -462,7 +462,7 @@
   {
     "identifier": "rangav.vscode-thunder-client",
     "enable": true,
-    "version": "2.25.3"
+    "version": "2.25.4"
   },
   {
     "identifier": "redhat.vscode-xml",
@@ -507,7 +507,7 @@
   {
     "identifier": "rust-lang.rust-analyzer",
     "enable": true,
-    "version": "0.3.2104"
+    "version": "0.3.2112"
   },
   {
     "identifier": "rvest.vs-code-prettier-eslint",
@@ -547,7 +547,7 @@
   {
     "identifier": "supermaven.supermaven",
     "enable": true,
-    "version": "1.1.9"
+    "version": "1.1.11"
   },
   {
     "identifier": "tamasfe.even-better-toml",

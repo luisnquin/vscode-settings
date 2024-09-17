@@ -1189,5 +1189,6 @@
     "workbench.colorTheme": "Tokyo Night",
     "[svg]": {
         "editor.defaultFormatter": "redhat.vscode-xml"
-    }
+    },
+    "zig.initialSetupDone": true
 }
