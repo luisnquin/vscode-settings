@@ -367,7 +367,7 @@
   {
     "identifier": "ms-vscode.cmake-tools",
     "enable": true,
-    "version": "1.19.51"
+    "version": "1.19.52"
   },
   {
     "identifier": "ms-vscode.cpptools",
@@ -402,7 +402,7 @@
   {
     "identifier": "ms-vscode.vscode-typescript-next",
     "enable": true,
-    "version": "5.7.20240916"
+    "version": "5.7.20240918"
   },
   {
     "identifier": "ms-vsliveshare.vsliveshare",
@@ -462,7 +462,7 @@
   {
     "identifier": "rangav.vscode-thunder-client",
     "enable": true,
-    "version": "2.25.4"
+    "version": "2.25.5"
   },
   {
     "identifier": "redhat.vscode-xml",
@@ -477,7 +477,7 @@
   {
     "identifier": "redocly.openapi-vs-code",
     "enable": true,
-    "version": "0.4.9"
+    "version": "0.4.10"
   },
   {
     "identifier": "remisa.shellman",
@@ -547,7 +547,7 @@
   {
     "identifier": "supermaven.supermaven",
     "enable": true,
-    "version": "1.1.11"
+    "version": "1.1.12"
   },
   {
     "identifier": "tamasfe.even-better-toml",
