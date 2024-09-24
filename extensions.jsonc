@@ -57,7 +57,7 @@
   {
     "identifier": "bradlc.vscode-tailwindcss",
     "enable": true,
-    "version": "0.12.10"
+    "version": "0.12.11"
   },
   {
     "identifier": "brettm12345.nixfmt-vscode",
@@ -177,7 +177,7 @@
   {
     "identifier": "github.vscode-github-actions",
     "enable": true,
-    "version": "0.26.5"
+    "version": "0.27.0"
   },
   {
     "identifier": "golang.go",
@@ -307,7 +307,7 @@
   {
     "identifier": "ms-azuretools.vscode-docker",
     "enable": true,
-    "version": "1.29.2"
+    "version": "1.29.3"
   },
   {
     "identifier": "ms-edgedevtools.vscode-edge-devtools",
@@ -342,7 +342,7 @@
   {
     "identifier": "ms-python.vscode-pylance",
     "enable": true,
-    "version": "2024.9.1"
+    "version": "2024.9.2"
   },
   {
     "identifier": "ms-vscode-remote.remote-containers",
@@ -402,12 +402,12 @@
   {
     "identifier": "ms-vscode.vscode-typescript-next",
     "enable": true,
-    "version": "5.7.20240918"
+    "version": "5.7.20240923"
   },
   {
     "identifier": "ms-vsliveshare.vsliveshare",
     "enable": true,
-    "version": "1.0.5940"
+    "version": "1.0.5941"
   },
   {
     "identifier": "msjsdiag.vscode-react-native",
@@ -442,12 +442,12 @@
   {
     "identifier": "pkief.material-icon-theme",
     "enable": true,
-    "version": "5.10.0"
+    "version": "5.11.1"
   },
   {
     "identifier": "prisma.prisma",
     "enable": true,
-    "version": "5.19.1"
+    "version": "5.20.0"
   },
   {
     "identifier": "pyros2097.vscode-go-inline-html",
@@ -462,7 +462,7 @@
   {
     "identifier": "rangav.vscode-thunder-client",
     "enable": true,
-    "version": "2.25.5"
+    "version": "2.25.7"
   },
   {
     "identifier": "redhat.vscode-xml",
@@ -507,7 +507,7 @@
   {
     "identifier": "rust-lang.rust-analyzer",
     "enable": true,
-    "version": "0.3.2112"
+    "version": "0.3.2121"
   },
   {
     "identifier": "rvest.vs-code-prettier-eslint",
@@ -582,7 +582,7 @@
   {
     "identifier": "unifiedjs.vscode-mdx",
     "enable": true,
-    "version": "1.8.10"
+    "version": "1.8.11"
   },
   {
     "identifier": "usernamehw.errorlens",
@@ -637,7 +637,7 @@
   {
     "identifier": "zhuangtongfa.material-theme",
     "enable": true,
-    "version": "3.17.3"
+    "version": "3.17.5"
   },
   {
     "identifier": "ziglang.vscode-zig",

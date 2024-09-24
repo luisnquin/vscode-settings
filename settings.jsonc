@@ -685,6 +685,8 @@
     "zig.path": "/home/luisnquin/.nix-profile/bin/zig",
     "zig.zls.path": "/home/luisnquin/.nix-profile/bin/zls",
 
+    "zig.zls.inlayHintsShowVariableTypeHints": false,
+
     /*
                      __  __              
         ____  __  __/ /_/ /_  ____  ____ 
