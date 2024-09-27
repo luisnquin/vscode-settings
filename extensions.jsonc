@@ -462,7 +462,7 @@
   {
     "identifier": "rangav.vscode-thunder-client",
     "enable": true,
-    "version": "2.25.8"
+    "version": "2.25.9"
   },
   {
     "identifier": "redhat.vscode-xml",
