@@ -272,7 +272,7 @@
   {
     "identifier": "mads-hartmann.bash-ide-vscode",
     "enable": true,
-    "version": "1.42.0"
+    "version": "1.43.0"
   },
   {
     "identifier": "mechatroner.rainbow-csv",
@@ -362,7 +362,7 @@
   {
     "identifier": "ms-vscode-remote.remote-wsl",
     "enable": true,
-    "version": "0.88.3"
+    "version": "0.88.4"
   },
   {
     "identifier": "ms-vscode.cmake-tools",
@@ -402,7 +402,7 @@
   {
     "identifier": "ms-vscode.vscode-typescript-next",
     "enable": true,
-    "version": "5.7.20240923"
+    "version": "5.7.20240926"
   },
   {
     "identifier": "ms-vsliveshare.vsliveshare",
@@ -462,7 +462,7 @@
   {
     "identifier": "rangav.vscode-thunder-client",
     "enable": true,
-    "version": "2.25.7"
+    "version": "2.25.8"
   },
   {
     "identifier": "redhat.vscode-xml",
