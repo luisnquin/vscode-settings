@@ -143,6 +143,14 @@
         "**/.terraform": true,
         "**/coverage-ts": true
     },
+
+    "search.exclude": {
+        "**/node_modules": true,
+        "**/bower_components": true,
+        "**/*.code-search": true,
+        "result/*": true
+    },
+
     // "workbench.colorTheme": "Default Dark Modern",
     // "workbench.colorCustomizations": {
     //     "editor.background": "#1f1f1f",
