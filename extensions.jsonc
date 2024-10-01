@@ -402,7 +402,7 @@
   {
     "identifier": "ms-vscode.vscode-typescript-next",
     "enable": true,
-    "version": "5.7.20240928"
+    "version": "5.7.20240930"
   },
   {
     "identifier": "ms-vsliveshare.vsliveshare",
@@ -477,7 +477,7 @@
   {
     "identifier": "redocly.openapi-vs-code",
     "enable": true,
-    "version": "0.4.10"
+    "version": "0.4.11"
   },
   {
     "identifier": "remisa.shellman",
@@ -507,7 +507,7 @@
   {
     "identifier": "rust-lang.rust-analyzer",
     "enable": true,
-    "version": "0.3.2121"
+    "version": "0.3.2129"
   },
   {
     "identifier": "rvest.vs-code-prettier-eslint",
@@ -542,7 +542,7 @@
   {
     "identifier": "sumneko.lua",
     "enable": true,
-    "version": "3.10.6"
+    "version": "3.11.0"
   },
   {
     "identifier": "supermaven.supermaven",
