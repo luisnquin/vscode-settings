@@ -7,7 +7,7 @@
   {
     "identifier": "42crunch.vscode-openapi",
     "enable": true,
-    "version": "4.28.1"
+    "version": "4.29.0"
   },
   {
     "identifier": "4ops.terraform",
@@ -357,7 +357,7 @@
   {
     "identifier": "ms-vscode-remote.remote-ssh-edit",
     "enable": true,
-    "version": "0.86.0"
+    "version": "0.87.0"
   },
   {
     "identifier": "ms-vscode-remote.remote-wsl",
@@ -402,7 +402,7 @@
   {
     "identifier": "ms-vscode.vscode-typescript-next",
     "enable": true,
-    "version": "5.7.20240930"
+    "version": "5.7.20241001"
   },
   {
     "identifier": "ms-vsliveshare.vsliveshare",
@@ -462,7 +462,7 @@
   {
     "identifier": "rangav.vscode-thunder-client",
     "enable": true,
-    "version": "2.25.9"
+    "version": "2.27.0"
   },
   {
     "identifier": "redhat.vscode-xml",
