@@ -172,7 +172,7 @@
   {
     "identifier": "github.github-vscode-theme",
     "enable": true,
-    "version": "6.3.4"
+    "version": "6.3.5"
   },
   {
     "identifier": "github.vscode-github-actions",
@@ -312,7 +312,7 @@
   {
     "identifier": "ms-edgedevtools.vscode-edge-devtools",
     "enable": true,
-    "version": "2.1.5"
+    "version": "2.1.6"
   },
   {
     "identifier": "ms-python.autopep8",
@@ -337,7 +337,7 @@
   {
     "identifier": "ms-python.python",
     "enable": true,
-    "version": "2024.15.2024091202"
+    "version": "2024.15.2024091301"
   },
   {
     "identifier": "ms-python.vscode-pylance",
@@ -347,12 +347,12 @@
   {
     "identifier": "ms-vscode-remote.remote-containers",
     "enable": true,
-    "version": "0.384.0"
+    "version": "0.388.0"
   },
   {
     "identifier": "ms-vscode-remote.remote-ssh",
     "enable": true,
-    "version": "0.113.1"
+    "version": "0.114.3"
   },
   {
     "identifier": "ms-vscode-remote.remote-ssh-edit",
@@ -402,7 +402,7 @@
   {
     "identifier": "ms-vscode.vscode-typescript-next",
     "enable": true,
-    "version": "5.7.20241001"
+    "version": "5.7.20241003"
   },
   {
     "identifier": "ms-vsliveshare.vsliveshare",
@@ -462,7 +462,7 @@
   {
     "identifier": "rangav.vscode-thunder-client",
     "enable": true,
-    "version": "2.27.0"
+    "version": "2.27.2"
   },
   {
     "identifier": "redhat.vscode-xml",
