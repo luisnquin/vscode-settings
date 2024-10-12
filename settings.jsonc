@@ -565,24 +565,29 @@
     */
 
     "eslint.validate": ["javascript", "javascriptreact", "typescript", "typescriptreact"],
+
+    "biome.enabled": true,
     "biome.lspBin": "/home/luisnquin/.nix-profile/bin/biome",
 
     "[javascript]": {
         "editor.formatOnSave": true,
         "editor.tabSize": 2,
-        "editor.defaultFormatter": "rvest.vs-code-prettier-eslint"
+        "editor.defaultFormatter": "biomejs.biome"
+        // "editor.defaultFormatter": "rvest.vs-code-prettier-eslint"
     },
 
     "[javascriptreact]": {
         "editor.rulers": [125],
         "editor.tabSize": 2,
-        "editor.defaultFormatter": "rvest.vs-code-prettier-eslint"
+        "editor.defaultFormatter": "biomejs.biome"
+        // "editor.defaultFormatter": "rvest.vs-code-prettier-eslint"
     },
 
     "[typescript]": {
         "editor.rulers": [125],
         "editor.tabSize": 2,
-        "editor.defaultFormatter": "rvest.vs-code-prettier-eslint"
+        "editor.defaultFormatter": "biomejs.biome"
+        // "editor.defaultFormatter": "rvest.vs-code-prettier-eslint"
     },
 
     "[typescriptreact]": {
@@ -776,13 +781,15 @@
     "yaml.completion": true,
 
     "[json]": {
-        "editor.defaultFormatter": "esbenp.prettier-vscode",
+        "editor.defaultFormatter": "biomejs.biome",
+        // "editor.defaultFormatter": "esbenp.prettier-vscode",
         "editor.autoIndent": "full",
         "editor.indentSize": "tabSize",
         "editor.tabSize": 2
     },
     "[jsonc]": {
-        "editor.defaultFormatter": "esbenp.prettier-vscode",
+        "editor.defaultFormatter": "biomejs.biome",
+        // "editor.defaultFormatter": "esbenp.prettier-vscode",
         "editor.autoIndent": "full"
     },
     "[toml]": {
