@@ -7,7 +7,7 @@
   {
     "identifier": "42crunch.vscode-openapi",
     "enable": true,
-    "version": "4.29.0"
+    "version": "4.29.2"
   },
   {
     "identifier": "4ops.terraform",
@@ -37,7 +37,7 @@
   {
     "identifier": "astro-build.astro-vscode",
     "enable": true,
-    "version": "2.14.2"
+    "version": "2.15.2"
   },
   {
     "identifier": "bbenoist.nix",
@@ -122,7 +122,7 @@
   {
     "identifier": "eamodio.gitlens",
     "enable": true,
-    "version": "15.5.1"
+    "version": "15.6.0"
   },
   {
     "identifier": "ecksdy.env-switcher",
@@ -332,7 +332,7 @@
   {
     "identifier": "ms-python.pylint",
     "enable": true,
-    "version": "2023.10.1"
+    "version": "2024.0.0"
   },
   {
     "identifier": "ms-python.python",
@@ -342,7 +342,7 @@
   {
     "identifier": "ms-python.vscode-pylance",
     "enable": true,
-    "version": "2024.9.2"
+    "version": "2024.10.1"
   },
   {
     "identifier": "ms-vscode-remote.remote-containers",
@@ -352,7 +352,7 @@
   {
     "identifier": "ms-vscode-remote.remote-ssh",
     "enable": true,
-    "version": "0.114.3"
+    "version": "0.115.0"
   },
   {
     "identifier": "ms-vscode-remote.remote-ssh-edit",
@@ -402,7 +402,7 @@
   {
     "identifier": "ms-vscode.vscode-typescript-next",
     "enable": true,
-    "version": "5.7.20241003"
+    "version": "5.7.20241011"
   },
   {
     "identifier": "ms-vsliveshare.vsliveshare",
@@ -418,6 +418,11 @@
     "identifier": "netcorext.uuid-generator",
     "enable": true,
     "version": "0.0.5"
+  },
+  {
+    "identifier": "nvarner.typst-lsp",
+    "enable": true,
+    "version": "0.13.0"
   },
   {
     "identifier": "ocamllabs.ocaml-platform",
@@ -462,7 +467,7 @@
   {
     "identifier": "rangav.vscode-thunder-client",
     "enable": true,
-    "version": "2.27.2"
+    "version": "2.27.6"
   },
   {
     "identifier": "redhat.vscode-xml",
@@ -507,7 +512,7 @@
   {
     "identifier": "rust-lang.rust-analyzer",
     "enable": true,
-    "version": "0.3.2129"
+    "version": "0.3.2137"
   },
   {
     "identifier": "rvest.vs-code-prettier-eslint",
@@ -542,7 +547,7 @@
   {
     "identifier": "sumneko.lua",
     "enable": true,
-    "version": "3.11.0"
+    "version": "3.11.1"
   },
   {
     "identifier": "supermaven.supermaven",
@@ -632,7 +637,7 @@
   {
     "identifier": "zeshuaro.vscode-python-poetry",
     "enable": true,
-    "version": "0.17.29"
+    "version": "0.17.30"
   },
   {
     "identifier": "zhuangtongfa.material-theme",
