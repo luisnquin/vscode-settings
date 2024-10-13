@@ -402,7 +402,7 @@
   {
     "identifier": "ms-vscode.vscode-typescript-next",
     "enable": true,
-    "version": "5.7.20241011"
+    "version": "5.7.20241012"
   },
   {
     "identifier": "ms-vsliveshare.vsliveshare",
@@ -502,7 +502,7 @@
   {
     "identifier": "rpinski.shebang-snippets",
     "enable": true,
-    "version": "0.1.4"
+    "version": "1.0.1"
   },
   {
     "identifier": "run-at-scale.terraform-doc-snippets",
