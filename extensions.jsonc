@@ -37,7 +37,7 @@
   {
     "identifier": "astro-build.astro-vscode",
     "enable": true,
-    "version": "2.15.2"
+    "version": "2.15.3"
   },
   {
     "identifier": "bbenoist.nix",
@@ -402,7 +402,7 @@
   {
     "identifier": "ms-vscode.vscode-typescript-next",
     "enable": true,
-    "version": "5.7.20241015"
+    "version": "5.7.20241016"
   },
   {
     "identifier": "ms-vsliveshare.vsliveshare",
@@ -467,7 +467,7 @@
   {
     "identifier": "rangav.vscode-thunder-client",
     "enable": true,
-    "version": "2.28.2"
+    "version": "2.28.5"
   },
   {
     "identifier": "redhat.vscode-xml",
