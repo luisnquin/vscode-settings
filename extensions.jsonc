@@ -337,7 +337,7 @@
   {
     "identifier": "ms-python.python",
     "enable": true,
-    "version": "2024.15.2024091301"
+    "version": "2024.17.2024101501"
   },
   {
     "identifier": "ms-python.vscode-pylance",
@@ -402,7 +402,7 @@
   {
     "identifier": "ms-vscode.vscode-typescript-next",
     "enable": true,
-    "version": "5.7.20241018"
+    "version": "5.7.20241019"
   },
   {
     "identifier": "ms-vsliveshare.vsliveshare",
