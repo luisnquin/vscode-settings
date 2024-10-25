@@ -22,7 +22,7 @@
                              
     */
 
-    "typescript.tsserver.log": "verbose",
+    
 
     "liveServer.settings.donotShowInfoMsg": true,
     "update.showReleaseNotes": true,
@@ -594,6 +594,7 @@
         "editor.defaultFormatter": "biomejs.biome"
     },
 
+    "typescript.tsserver.log": "off",
     "typescript.updateImportsOnFileMove.enabled": "always",
     "javascript.updateImportsOnFileMove.enabled": "always",
 
