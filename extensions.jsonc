@@ -37,7 +37,7 @@
   {
     "identifier": "astro-build.astro-vscode",
     "enable": true,
-    "version": "2.15.3"
+    "version": "2.15.4"
   },
   {
     "identifier": "bbenoist.nix",
@@ -57,7 +57,7 @@
   {
     "identifier": "bradlc.vscode-tailwindcss",
     "enable": true,
-    "version": "0.12.11"
+    "version": "0.12.12"
   },
   {
     "identifier": "brettm12345.nixfmt-vscode",
@@ -122,7 +122,7 @@
   {
     "identifier": "eamodio.gitlens",
     "enable": true,
-    "version": "15.6.2"
+    "version": "15.6.3"
   },
   {
     "identifier": "ecksdy.env-switcher",
@@ -282,7 +282,7 @@
   {
     "identifier": "miguelsolorio.fluent-icons",
     "enable": true,
-    "version": "0.0.18"
+    "version": "0.0.19"
   },
   {
     "identifier": "mikestead.dotenv",
@@ -342,7 +342,7 @@
   {
     "identifier": "ms-python.vscode-pylance",
     "enable": true,
-    "version": "2024.10.1"
+    "version": "2024.11.1"
   },
   {
     "identifier": "ms-vscode-remote.remote-containers",
@@ -362,7 +362,7 @@
   {
     "identifier": "ms-vscode-remote.remote-wsl",
     "enable": true,
-    "version": "0.88.4"
+    "version": "0.88.5"
   },
   {
     "identifier": "ms-vscode.cmake-tools",
@@ -372,7 +372,7 @@
   {
     "identifier": "ms-vscode.cpptools",
     "enable": true,
-    "version": "1.22.10"
+    "version": "1.22.11"
   },
   {
     "identifier": "ms-vscode.cpptools-extension-pack",
@@ -402,7 +402,7 @@
   {
     "identifier": "ms-vscode.vscode-typescript-next",
     "enable": true,
-    "version": "5.7.20241024"
+    "version": "5.8.20241106"
   },
   {
     "identifier": "ms-vsliveshare.vsliveshare",
@@ -447,12 +447,12 @@
   {
     "identifier": "pkief.material-icon-theme",
     "enable": true,
-    "version": "5.12.0"
+    "version": "5.13.0"
   },
   {
     "identifier": "prisma.prisma",
     "enable": true,
-    "version": "5.21.1"
+    "version": "5.22.0"
   },
   {
     "identifier": "pyros2097.vscode-go-inline-html",
@@ -467,7 +467,7 @@
   {
     "identifier": "rangav.vscode-thunder-client",
     "enable": true,
-    "version": "2.29.2"
+    "version": "2.29.9"
   },
   {
     "identifier": "redhat.vscode-xml",
@@ -512,7 +512,7 @@
   {
     "identifier": "rust-lang.rust-analyzer",
     "enable": true,
-    "version": "0.3.2154"
+    "version": "0.3.2172"
   },
   {
     "identifier": "rvest.vs-code-prettier-eslint",
@@ -547,7 +547,7 @@
   {
     "identifier": "sumneko.lua",
     "enable": true,
-    "version": "3.11.1"
+    "version": "3.12.0"
   },
   {
     "identifier": "supermaven.supermaven",
@@ -597,7 +597,7 @@
   {
     "identifier": "vue.volar",
     "enable": true,
-    "version": "2.1.6"
+    "version": "2.1.10"
   },
   {
     "identifier": "william-voyek.vscode-nginx",
@@ -642,7 +642,7 @@
   {
     "identifier": "zhuangtongfa.material-theme",
     "enable": true,
-    "version": "3.17.5"
+    "version": "3.17.6"
   },
   {
     "identifier": "ziglang.vscode-zig",
