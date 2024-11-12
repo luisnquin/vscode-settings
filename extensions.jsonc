@@ -57,7 +57,7 @@
   {
     "identifier": "bradlc.vscode-tailwindcss",
     "enable": true,
-    "version": "0.12.12"
+    "version": "0.12.13"
   },
   {
     "identifier": "brettm12345.nixfmt-vscode",
@@ -142,7 +142,7 @@
   {
     "identifier": "equinusocio.vsc-material-theme-icons",
     "enable": true,
-    "version": "3.8.8"
+    "version": "3.8.10"
   },
   {
     "identifier": "eriklynd.json-tools",
@@ -402,7 +402,7 @@
   {
     "identifier": "ms-vscode.vscode-typescript-next",
     "enable": true,
-    "version": "5.8.20241106"
+    "version": "5.8.20241111"
   },
   {
     "identifier": "ms-vsliveshare.vsliveshare",
@@ -467,7 +467,7 @@
   {
     "identifier": "rangav.vscode-thunder-client",
     "enable": true,
-    "version": "2.29.9"
+    "version": "2.29.13"
   },
   {
     "identifier": "redhat.vscode-xml",
@@ -512,7 +512,7 @@
   {
     "identifier": "rust-lang.rust-analyzer",
     "enable": true,
-    "version": "0.3.2172"
+    "version": "0.3.2180"
   },
   {
     "identifier": "rvest.vs-code-prettier-eslint",
