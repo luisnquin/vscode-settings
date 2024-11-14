@@ -342,7 +342,7 @@
   {
     "identifier": "ms-python.vscode-pylance",
     "enable": true,
-    "version": "2024.11.1"
+    "version": "2024.11.2"
   },
   {
     "identifier": "ms-vscode-remote.remote-containers",
@@ -352,7 +352,7 @@
   {
     "identifier": "ms-vscode-remote.remote-ssh",
     "enable": true,
-    "version": "0.115.0"
+    "version": "0.115.1"
   },
   {
     "identifier": "ms-vscode-remote.remote-ssh-edit",
@@ -402,7 +402,7 @@
   {
     "identifier": "ms-vscode.vscode-typescript-next",
     "enable": true,
-    "version": "5.8.20241111"
+    "version": "5.8.20241112"
   },
   {
     "identifier": "ms-vsliveshare.vsliveshare",
@@ -447,7 +447,7 @@
   {
     "identifier": "pkief.material-icon-theme",
     "enable": true,
-    "version": "5.13.0"
+    "version": "5.14.1"
   },
   {
     "identifier": "prisma.prisma",
@@ -547,7 +547,7 @@
   {
     "identifier": "sumneko.lua",
     "enable": true,
-    "version": "3.12.0"
+    "version": "3.13.1"
   },
   {
     "identifier": "supermaven.supermaven",
