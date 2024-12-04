@@ -151,6 +151,8 @@
         "result/*": true
     },
 
+    "workbench.colorTheme": "Tokyo Night", // remove it ;)
+
     // "workbench.colorTheme": "Default Dark Modern",
     // "workbench.colorCustomizations": {
     //     "editor.background": "#1f1f1f",
