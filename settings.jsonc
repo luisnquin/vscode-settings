@@ -853,7 +853,6 @@
         ".vscode-insiders"
     ],
     "workbench.colorCustomizations": {},
-    "workbench.colorTheme": "Tokyo Night",
     "[svg]": {
         "editor.defaultFormatter": "redhat.vscode-xml"
     },
