@@ -57,7 +57,7 @@
   {
     "identifier": "bradlc.vscode-tailwindcss",
     "enable": true,
-    "version": "0.12.15"
+    "version": "0.12.16"
   },
   {
     "identifier": "brettm12345.nixfmt-vscode",
@@ -322,7 +322,7 @@
   {
     "identifier": "ms-python.debugpy",
     "enable": true,
-    "version": "2024.12.0"
+    "version": "2024.14.0"
   },
   {
     "identifier": "ms-python.isort",
@@ -337,7 +337,7 @@
   {
     "identifier": "ms-python.python",
     "enable": true,
-    "version": "2024.21.2024120501"
+    "version": "2024.23.2024121003"
   },
   {
     "identifier": "ms-python.vscode-pylance",
@@ -347,7 +347,7 @@
   {
     "identifier": "ms-vscode-remote.remote-containers",
     "enable": true,
-    "version": "0.388.0"
+    "version": "0.394.0"
   },
   {
     "identifier": "ms-vscode-remote.remote-ssh",
@@ -402,7 +402,7 @@
   {
     "identifier": "ms-vscode.vscode-typescript-next",
     "enable": true,
-    "version": "5.8.20241205"
+    "version": "5.8.20241210"
   },
   {
     "identifier": "ms-vsliveshare.vsliveshare",
@@ -427,7 +427,7 @@
   {
     "identifier": "ocamllabs.ocaml-platform",
     "enable": true,
-    "version": "1.23.0"
+    "version": "1.24.0"
   },
   {
     "identifier": "octref.vetur",
@@ -467,7 +467,7 @@
   {
     "identifier": "rangav.vscode-thunder-client",
     "enable": true,
-    "version": "2.32.3"
+    "version": "2.32.10"
   },
   {
     "identifier": "redhat.vscode-xml",
@@ -482,7 +482,7 @@
   {
     "identifier": "redocly.openapi-vs-code",
     "enable": true,
-    "version": "0.5.7"
+    "version": "0.5.9"
   },
   {
     "identifier": "remisa.shellman",
@@ -512,7 +512,7 @@
   {
     "identifier": "rust-lang.rust-analyzer",
     "enable": true,
-    "version": "0.3.2204"
+    "version": "0.3.2212"
   },
   {
     "identifier": "rvest.vs-code-prettier-eslint",
@@ -647,6 +647,6 @@
   {
     "identifier": "ziglang.vscode-zig",
     "enable": true,
-    "version": "0.5.9"
+    "version": "0.6.2"
   }
 ]
