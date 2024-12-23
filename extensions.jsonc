@@ -7,7 +7,7 @@
   {
     "identifier": "42crunch.vscode-openapi",
     "enable": true,
-    "version": "4.30.1"
+    "version": "4.31.0"
   },
   {
     "identifier": "4ops.terraform",
@@ -57,7 +57,7 @@
   {
     "identifier": "bradlc.vscode-tailwindcss",
     "enable": true,
-    "version": "0.12.16"
+    "version": "0.12.17"
   },
   {
     "identifier": "brettm12345.nixfmt-vscode",
@@ -122,7 +122,7 @@
   {
     "identifier": "eamodio.gitlens",
     "enable": true,
-    "version": "16.0.5"
+    "version": "16.1.1"
   },
   {
     "identifier": "ecksdy.env-switcher",
@@ -182,7 +182,7 @@
   {
     "identifier": "golang.go",
     "enable": true,
-    "version": "0.42.1"
+    "version": "0.44.0"
   },
   {
     "identifier": "grapecity.gc-excelviewer",
@@ -197,7 +197,7 @@
   {
     "identifier": "hashicorp.terraform",
     "enable": true,
-    "version": "2.34.1"
+    "version": "2.34.2"
   },
   {
     "identifier": "humao.rest-client",
@@ -337,7 +337,7 @@
   {
     "identifier": "ms-python.python",
     "enable": true,
-    "version": "2024.23.2024121301"
+    "version": "2024.23.2024121901"
   },
   {
     "identifier": "ms-python.vscode-pylance",
@@ -352,7 +352,7 @@
   {
     "identifier": "ms-vscode-remote.remote-ssh",
     "enable": true,
-    "version": "0.115.1"
+    "version": "0.116.1"
   },
   {
     "identifier": "ms-vscode-remote.remote-ssh-edit",
@@ -402,7 +402,7 @@
   {
     "identifier": "ms-vscode.vscode-typescript-next",
     "enable": true,
-    "version": "5.8.20241215"
+    "version": "5.8.20241222"
   },
   {
     "identifier": "ms-vsliveshare.vsliveshare",
@@ -420,14 +420,9 @@
     "version": "0.0.5"
   },
   {
-    "identifier": "nvarner.typst-lsp",
-    "enable": true,
-    "version": "0.13.0"
-  },
-  {
     "identifier": "ocamllabs.ocaml-platform",
     "enable": true,
-    "version": "1.25.0"
+    "version": "1.26.0"
   },
   {
     "identifier": "octref.vetur",
@@ -447,12 +442,12 @@
   {
     "identifier": "pkief.material-icon-theme",
     "enable": true,
-    "version": "5.15.0"
+    "version": "5.16.0"
   },
   {
     "identifier": "prisma.prisma",
     "enable": true,
-    "version": "6.0.0"
+    "version": "6.1.0"
   },
   {
     "identifier": "pyros2097.vscode-go-inline-html",
@@ -467,7 +462,7 @@
   {
     "identifier": "rangav.vscode-thunder-client",
     "enable": true,
-    "version": "2.33.0"
+    "version": "2.33.1"
   },
   {
     "identifier": "redhat.vscode-xml",
@@ -482,7 +477,7 @@
   {
     "identifier": "redocly.openapi-vs-code",
     "enable": true,
-    "version": "0.5.10"
+    "version": "0.5.12"
   },
   {
     "identifier": "remisa.shellman",
@@ -512,7 +507,7 @@
   {
     "identifier": "rust-lang.rust-analyzer",
     "enable": true,
-    "version": "0.3.2220"
+    "version": "0.3.2228"
   },
   {
     "identifier": "rvest.vs-code-prettier-eslint",
@@ -547,7 +542,7 @@
   {
     "identifier": "sumneko.lua",
     "enable": true,
-    "version": "3.13.4"
+    "version": "3.13.5"
   },
   {
     "identifier": "supermaven.supermaven",
@@ -557,7 +552,7 @@
   {
     "identifier": "tamasfe.even-better-toml",
     "enable": true,
-    "version": "0.19.2"
+    "version": "0.21.2"
   },
   {
     "identifier": "teclado.vscode-nginx-format",
@@ -587,27 +582,22 @@
   {
     "identifier": "unifiedjs.vscode-mdx",
     "enable": true,
-    "version": "1.8.11"
+    "version": "1.8.12"
   },
   {
     "identifier": "usernamehw.errorlens",
     "enable": true,
-    "version": "3.21.0"
+    "version": "3.22.0"
   },
   {
     "identifier": "vue.volar",
     "enable": true,
-    "version": "2.1.10"
+    "version": "2.2.0"
   },
   {
     "identifier": "william-voyek.vscode-nginx",
     "enable": true,
     "version": "0.7.2"
-  },
-  {
-    "identifier": "wix.vscode-import-cost",
-    "enable": true,
-    "version": "3.3.0"
   },
   {
     "identifier": "wmaurer.change-case",
@@ -637,7 +627,7 @@
   {
     "identifier": "zeshuaro.vscode-python-poetry",
     "enable": true,
-    "version": "0.17.30"
+    "version": "0.18.0"
   },
   {
     "identifier": "zhuangtongfa.material-theme",
