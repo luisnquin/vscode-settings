@@ -402,7 +402,7 @@
   {
     "identifier": "ms-vscode.vscode-typescript-next",
     "enable": true,
-    "version": "5.8.20241223"
+    "version": "5.8.20241224"
   },
   {
     "identifier": "ms-vsliveshare.vsliveshare",
@@ -422,7 +422,7 @@
   {
     "identifier": "ocamllabs.ocaml-platform",
     "enable": true,
-    "version": "1.26.0"
+    "version": "1.26.1"
   },
   {
     "identifier": "octref.vetur",
