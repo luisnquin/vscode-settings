@@ -857,6 +857,5 @@
     "workbench.colorCustomizations": {},
     "[svg]": {
         "editor.defaultFormatter": "redhat.vscode-xml"
-    },
-    "zig.initialSetupDone": true
+    }
 }
