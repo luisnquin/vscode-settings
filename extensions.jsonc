@@ -262,7 +262,7 @@
   {
     "identifier": "kevinrose.vsc-python-indent",
     "enable": true,
-    "version": "1.18.0"
+    "version": "1.19.0"
   },
   {
     "identifier": "leonardssh.vscord",
@@ -402,7 +402,7 @@
   {
     "identifier": "ms-vscode.vscode-typescript-next",
     "enable": true,
-    "version": "5.8.20241224"
+    "version": "5.8.20241226"
   },
   {
     "identifier": "ms-vsliveshare.vsliveshare",
@@ -462,7 +462,7 @@
   {
     "identifier": "rangav.vscode-thunder-client",
     "enable": true,
-    "version": "2.33.1"
+    "version": "2.33.2"
   },
   {
     "identifier": "redhat.vscode-xml",
