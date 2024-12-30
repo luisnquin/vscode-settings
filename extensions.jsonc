@@ -402,7 +402,7 @@
   {
     "identifier": "ms-vscode.vscode-typescript-next",
     "enable": true,
-    "version": "5.8.20241227"
+    "version": "5.8.20241229"
   },
   {
     "identifier": "ms-vsliveshare.vsliveshare",
@@ -507,7 +507,7 @@
   {
     "identifier": "rust-lang.rust-analyzer",
     "enable": true,
-    "version": "0.3.2228"
+    "version": "0.3.2237"
   },
   {
     "identifier": "rvest.vs-code-prettier-eslint",
@@ -582,7 +582,7 @@
   {
     "identifier": "unifiedjs.vscode-mdx",
     "enable": true,
-    "version": "1.8.12"
+    "version": "1.8.13"
   },
   {
     "identifier": "usernamehw.errorlens",
