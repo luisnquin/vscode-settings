@@ -17,7 +17,7 @@
   {
     "identifier": "a-h.templ",
     "enable": true,
-    "version": "0.0.29"
+    "version": "0.0.30"
   },
   {
     "identifier": "aaron-bond.better-comments",
@@ -57,7 +57,7 @@
   {
     "identifier": "bradlc.vscode-tailwindcss",
     "enable": true,
-    "version": "0.12.17"
+    "version": "0.12.18"
   },
   {
     "identifier": "brettm12345.nixfmt-vscode",
@@ -92,7 +92,7 @@
   {
     "identifier": "davidanson.vscode-markdownlint",
     "enable": true,
-    "version": "0.57.0"
+    "version": "0.58.2"
   },
   {
     "identifier": "dawidd6.debian-vscode",
@@ -122,7 +122,7 @@
   {
     "identifier": "eamodio.gitlens",
     "enable": true,
-    "version": "16.1.1"
+    "version": "16.2.0"
   },
   {
     "identifier": "ecksdy.env-switcher",
@@ -227,7 +227,7 @@
   {
     "identifier": "jnoortheen.nix-ide",
     "enable": true,
-    "version": "0.3.5"
+    "version": "0.4.2"
   },
   {
     "identifier": "jock.svg",
@@ -267,7 +267,7 @@
   {
     "identifier": "mechatroner.rainbow-csv",
     "enable": true,
-    "version": "3.13.0"
+    "version": "3.14.0"
   },
   {
     "identifier": "miguelsolorio.fluent-icons",
@@ -327,7 +327,7 @@
   {
     "identifier": "ms-python.python",
     "enable": true,
-    "version": "2024.23.2024121901"
+    "version": "2024.23.2025011501"
   },
   {
     "identifier": "ms-python.vscode-pylance",
@@ -392,12 +392,12 @@
   {
     "identifier": "ms-vscode.vscode-typescript-next",
     "enable": true,
-    "version": "5.8.20250105"
+    "version": "5.8.20250119"
   },
   {
     "identifier": "ms-vsliveshare.vsliveshare",
     "enable": true,
-    "version": "1.0.5941"
+    "version": "1.0.5948"
   },
   {
     "identifier": "msjsdiag.vscode-react-native",
@@ -412,7 +412,7 @@
   {
     "identifier": "ocamllabs.ocaml-platform",
     "enable": true,
-    "version": "1.26.1"
+    "version": "1.28.0"
   },
   {
     "identifier": "octref.vetur",
@@ -432,12 +432,12 @@
   {
     "identifier": "pkief.material-icon-theme",
     "enable": true,
-    "version": "5.16.0"
+    "version": "5.17.0"
   },
   {
     "identifier": "prisma.prisma",
     "enable": true,
-    "version": "6.1.0"
+    "version": "6.2.1"
   },
   {
     "identifier": "pyros2097.vscode-go-inline-html",
@@ -497,7 +497,7 @@
   {
     "identifier": "rust-lang.rust-analyzer",
     "enable": true,
-    "version": "0.3.2237"
+    "version": "0.3.2273"
   },
   {
     "identifier": "rvest.vs-code-prettier-eslint",
@@ -520,14 +520,9 @@
     "version": "0.7.0"
   },
   {
-    "identifier": "skellock.just",
-    "enable": true,
-    "version": "2.0.0"
-  },
-  {
     "identifier": "streetsidesoftware.code-spell-checker",
     "enable": true,
-    "version": "4.0.31"
+    "version": "4.0.34"
   },
   {
     "identifier": "sumneko.lua",
@@ -552,7 +547,7 @@
   {
     "identifier": "timonwong.shellcheck",
     "enable": true,
-    "version": "0.37.4"
+    "version": "0.37.6"
   },
   {
     "identifier": "tomoki1207.pdf",
@@ -562,7 +557,7 @@
   {
     "identifier": "tonybaloney.vscode-pets",
     "enable": true,
-    "version": "1.27.0"
+    "version": "1.28.0"
   },
   {
     "identifier": "twxs.cmake",
@@ -617,7 +612,7 @@
   {
     "identifier": "zeshuaro.vscode-python-poetry",
     "enable": true,
-    "version": "0.18.1"
+    "version": "0.18.3"
   },
   {
     "identifier": "zhuangtongfa.material-theme",
