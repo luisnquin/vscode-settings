@@ -1,13 +1,15 @@
 
-# ???
+# My VSCode settings
 
-## CheatSheet
+## Setup
 
 ```shell
-# Install all repository extensions in local VSCode
+# Install extensions
 $ for id in $(curl https://raw.githubusercontent.com/luisnquin/vscode-settings/main/extensions.jsonc -s | jq -r '.[].identifier'); do code --install-extension "$id"; done
+# Install settings
+$ curl https://raw.githubusercontent.com/luisnquin/vscode-settings/main/settings.jsonc > ~/.config/Code/User/settings.json
 ```
 
 ## License
 
-Why?
+Soon, I guess.
