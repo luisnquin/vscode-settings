@@ -57,7 +57,7 @@
   {
     "identifier": "bradlc.vscode-tailwindcss",
     "enable": true,
-    "version": "0.12.18"
+    "version": "0.14.1"
   },
   {
     "identifier": "brettm12345.nixfmt-vscode",
@@ -122,7 +122,7 @@
   {
     "identifier": "eamodio.gitlens",
     "enable": true,
-    "version": "16.2.0"
+    "version": "16.2.1"
   },
   {
     "identifier": "ecksdy.env-switcher",
@@ -297,7 +297,7 @@
   {
     "identifier": "ms-azuretools.vscode-docker",
     "enable": true,
-    "version": "1.29.3"
+    "version": "1.29.4"
   },
   {
     "identifier": "ms-edgedevtools.vscode-edge-devtools",
@@ -382,7 +382,7 @@
   {
     "identifier": "ms-vscode.powershell",
     "enable": true,
-    "version": "2024.4.0"
+    "version": "2025.0.0"
   },
   {
     "identifier": "ms-vscode.remote-explorer",
@@ -392,7 +392,7 @@
   {
     "identifier": "ms-vscode.vscode-typescript-next",
     "enable": true,
-    "version": "5.8.20250119"
+    "version": "5.8.20250121"
   },
   {
     "identifier": "ms-vsliveshare.vsliveshare",
