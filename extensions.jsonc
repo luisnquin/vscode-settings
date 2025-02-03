@@ -52,12 +52,12 @@
   {
     "identifier": "biomejs.biome",
     "enable": true,
-    "version": "2.3.0"
+    "version": "2.3.1"
   },
   {
     "identifier": "bradlc.vscode-tailwindcss",
     "enable": true,
-    "version": "0.14.1"
+    "version": "0.14.2"
   },
   {
     "identifier": "brettm12345.nixfmt-vscode",
@@ -137,7 +137,7 @@
   {
     "identifier": "enkia.tokyo-night",
     "enable": true,
-    "version": "1.0.9"
+    "version": "1.1.0"
   },
   {
     "identifier": "equinusocio.vsc-material-theme-icons",
@@ -177,7 +177,7 @@
   {
     "identifier": "github.vscode-github-actions",
     "enable": true,
-    "version": "0.27.0"
+    "version": "0.27.1"
   },
   {
     "identifier": "golang.go",
@@ -227,7 +227,7 @@
   {
     "identifier": "jnoortheen.nix-ide",
     "enable": true,
-    "version": "0.4.11"
+    "version": "0.4.12"
   },
   {
     "identifier": "jock.svg",
@@ -267,7 +267,7 @@
   {
     "identifier": "mechatroner.rainbow-csv",
     "enable": true,
-    "version": "3.15.1"
+    "version": "3.16.0"
   },
   {
     "identifier": "miguelsolorio.fluent-icons",
@@ -302,7 +302,7 @@
   {
     "identifier": "ms-edgedevtools.vscode-edge-devtools",
     "enable": true,
-    "version": "2.1.6"
+    "version": "2.1.8"
   },
   {
     "identifier": "ms-python.autopep8",
@@ -362,7 +362,7 @@
   {
     "identifier": "ms-vscode.cpptools",
     "enable": true,
-    "version": "1.22.11"
+    "version": "1.23.5"
   },
   {
     "identifier": "ms-vscode.cpptools-extension-pack",
@@ -392,7 +392,7 @@
   {
     "identifier": "ms-vscode.vscode-typescript-next",
     "enable": true,
-    "version": "5.8.20250127"
+    "version": "5.8.20250202"
   },
   {
     "identifier": "ms-vsliveshare.vsliveshare",
@@ -497,7 +497,7 @@
   {
     "identifier": "rust-lang.rust-analyzer",
     "enable": true,
-    "version": "0.3.2284"
+    "version": "0.3.2291"
   },
   {
     "identifier": "rvest.vs-code-prettier-eslint",
@@ -572,7 +572,7 @@
   {
     "identifier": "usernamehw.errorlens",
     "enable": true,
-    "version": "3.22.1"
+    "version": "3.23.0"
   },
   {
     "identifier": "vue.volar",
@@ -612,12 +612,12 @@
   {
     "identifier": "zeshuaro.vscode-python-poetry",
     "enable": true,
-    "version": "0.18.4"
+    "version": "0.18.5"
   },
   {
     "identifier": "zhuangtongfa.material-theme",
     "enable": true,
-    "version": "3.17.7"
+    "version": "3.18.0"
   },
   {
     "identifier": "ziglang.vscode-zig",
