@@ -57,7 +57,7 @@
   {
     "identifier": "bradlc.vscode-tailwindcss",
     "enable": true,
-    "version": "0.14.2"
+    "version": "0.14.3"
   },
   {
     "identifier": "brettm12345.nixfmt-vscode",
@@ -137,7 +137,7 @@
   {
     "identifier": "enkia.tokyo-night",
     "enable": true,
-    "version": "1.1.0"
+    "version": "1.1.1"
   },
   {
     "identifier": "equinusocio.vsc-material-theme-icons",
@@ -392,7 +392,7 @@
   {
     "identifier": "ms-vscode.vscode-typescript-next",
     "enable": true,
-    "version": "5.8.20250203"
+    "version": "5.8.20250204"
   },
   {
     "identifier": "ms-vsliveshare.vsliveshare",
@@ -452,7 +452,7 @@
   {
     "identifier": "rangav.vscode-thunder-client",
     "enable": true,
-    "version": "2.33.2"
+    "version": "2.34.0"
   },
   {
     "identifier": "redhat.vscode-xml",
