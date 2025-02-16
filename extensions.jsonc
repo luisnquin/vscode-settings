@@ -17,7 +17,7 @@
   {
     "identifier": "a-h.templ",
     "enable": true,
-    "version": "0.0.30"
+    "version": "0.0.33"
   },
   {
     "identifier": "aaron-bond.better-comments",
@@ -52,12 +52,12 @@
   {
     "identifier": "biomejs.biome",
     "enable": true,
-    "version": "2.3.1"
+    "version": "2.3.2"
   },
   {
     "identifier": "bradlc.vscode-tailwindcss",
     "enable": true,
-    "version": "0.14.3"
+    "version": "0.14.4"
   },
   {
     "identifier": "brettm12345.nixfmt-vscode",
@@ -122,7 +122,7 @@
   {
     "identifier": "eamodio.gitlens",
     "enable": true,
-    "version": "16.2.1"
+    "version": "16.3.0"
   },
   {
     "identifier": "ecksdy.env-switcher",
@@ -132,12 +132,12 @@
   {
     "identifier": "editorconfig.editorconfig",
     "enable": true,
-    "version": "0.16.4"
+    "version": "0.17.0"
   },
   {
     "identifier": "enkia.tokyo-night",
     "enable": true,
-    "version": "1.1.1"
+    "version": "1.1.2"
   },
   {
     "identifier": "equinusocio.vsc-material-theme-icons",
@@ -187,7 +187,7 @@
   {
     "identifier": "grapecity.gc-excelviewer",
     "enable": true,
-    "version": "4.2.62"
+    "version": "4.2.63"
   },
   {
     "identifier": "gruntfuggly.todo-tree",
@@ -267,7 +267,7 @@
   {
     "identifier": "mechatroner.rainbow-csv",
     "enable": true,
-    "version": "3.16.0"
+    "version": "3.17.0"
   },
   {
     "identifier": "miguelsolorio.fluent-icons",
@@ -307,12 +307,12 @@
   {
     "identifier": "ms-python.autopep8",
     "enable": true,
-    "version": "2024.0.0"
+    "version": "2024.2.0"
   },
   {
     "identifier": "ms-python.debugpy",
     "enable": true,
-    "version": "2024.14.0"
+    "version": "2025.0.1"
   },
   {
     "identifier": "ms-python.isort",
@@ -322,27 +322,27 @@
   {
     "identifier": "ms-python.pylint",
     "enable": true,
-    "version": "2024.0.0"
+    "version": "2024.2.0"
   },
   {
     "identifier": "ms-python.python",
     "enable": true,
-    "version": "2024.23.2025012801"
+    "version": "2025.1.2025021102"
   },
   {
     "identifier": "ms-python.vscode-pylance",
     "enable": true,
-    "version": "2024.12.1"
+    "version": "2025.2.1"
   },
   {
     "identifier": "ms-vscode-remote.remote-containers",
     "enable": true,
-    "version": "0.394.0"
+    "version": "0.397.0"
   },
   {
     "identifier": "ms-vscode-remote.remote-ssh",
     "enable": true,
-    "version": "0.116.1"
+    "version": "0.117.1"
   },
   {
     "identifier": "ms-vscode-remote.remote-ssh-edit",
@@ -362,7 +362,7 @@
   {
     "identifier": "ms-vscode.cpptools",
     "enable": true,
-    "version": "1.23.5"
+    "version": "1.23.6"
   },
   {
     "identifier": "ms-vscode.cpptools-extension-pack",
@@ -392,7 +392,7 @@
   {
     "identifier": "ms-vscode.vscode-typescript-next",
     "enable": true,
-    "version": "5.8.20250204"
+    "version": "5.8.20250215"
   },
   {
     "identifier": "ms-vsliveshare.vsliveshare",
@@ -452,7 +452,7 @@
   {
     "identifier": "rangav.vscode-thunder-client",
     "enable": true,
-    "version": "2.34.0"
+    "version": "2.34.1"
   },
   {
     "identifier": "redhat.vscode-xml",
@@ -462,12 +462,12 @@
   {
     "identifier": "redhat.vscode-yaml",
     "enable": true,
-    "version": "1.15.0"
+    "version": "1.16.0"
   },
   {
     "identifier": "redocly.openapi-vs-code",
     "enable": true,
-    "version": "0.5.13"
+    "version": "0.5.15"
   },
   {
     "identifier": "remisa.shellman",
@@ -497,7 +497,7 @@
   {
     "identifier": "rust-lang.rust-analyzer",
     "enable": true,
-    "version": "0.3.2291"
+    "version": "0.3.2299"
   },
   {
     "identifier": "rvest.vs-code-prettier-eslint",
@@ -527,7 +527,7 @@
   {
     "identifier": "sumneko.lua",
     "enable": true,
-    "version": "3.13.5"
+    "version": "3.13.6"
   },
   {
     "identifier": "supermaven.supermaven",
@@ -547,7 +547,7 @@
   {
     "identifier": "timonwong.shellcheck",
     "enable": true,
-    "version": "0.37.6"
+    "version": "0.37.7"
   },
   {
     "identifier": "tomoki1207.pdf",
@@ -557,7 +557,7 @@
   {
     "identifier": "tonybaloney.vscode-pets",
     "enable": true,
-    "version": "1.29.2"
+    "version": "1.30.0"
   },
   {
     "identifier": "twxs.cmake",
@@ -577,7 +577,7 @@
   {
     "identifier": "vue.volar",
     "enable": true,
-    "version": "2.2.0"
+    "version": "2.2.2"
   },
   {
     "identifier": "william-voyek.vscode-nginx",
@@ -617,7 +617,7 @@
   {
     "identifier": "zhuangtongfa.material-theme",
     "enable": true,
-    "version": "3.18.0"
+    "version": "3.19.0"
   },
   {
     "identifier": "ziglang.vscode-zig",

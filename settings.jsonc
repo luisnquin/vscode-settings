@@ -134,7 +134,8 @@
         "encore.app": "json",
         "*curlrc": "text",
         ".env.example": "env",
-        ".env.production": "env"
+        ".env.production": "env",
+        ".senv": "yaml"
     },
     "files.exclude": {
         "node_modules": true,
@@ -857,5 +858,6 @@
     "workbench.colorCustomizations": {},
     "[svg]": {
         "editor.defaultFormatter": "redhat.vscode-xml"
-    }
+    },
+    "gitlens.ai.model": "github:Cohere-command-r-08-2024"
 }
