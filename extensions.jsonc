@@ -57,7 +57,7 @@
   {
     "identifier": "bradlc.vscode-tailwindcss",
     "enable": true,
-    "version": "0.14.5"
+    "version": "0.14.6"
   },
   {
     "identifier": "brettm12345.nixfmt-vscode",
@@ -132,7 +132,7 @@
   {
     "identifier": "editorconfig.editorconfig",
     "enable": true,
-    "version": "0.17.0"
+    "version": "0.17.1"
   },
   {
     "identifier": "enkia.tokyo-night",
@@ -327,7 +327,7 @@
   {
     "identifier": "ms-python.python",
     "enable": true,
-    "version": "2025.1.2025021701"
+    "version": "2025.1.2025022001"
   },
   {
     "identifier": "ms-python.vscode-pylance",
@@ -357,7 +357,7 @@
   {
     "identifier": "ms-vscode.cmake-tools",
     "enable": true,
-    "version": "1.19.52"
+    "version": "1.20.52"
   },
   {
     "identifier": "ms-vscode.cpptools",
@@ -392,7 +392,7 @@
   {
     "identifier": "ms-vscode.vscode-typescript-next",
     "enable": true,
-    "version": "5.8.20250217"
+    "version": "5.9.20250219"
   },
   {
     "identifier": "ms-vsliveshare.vsliveshare",
@@ -437,7 +437,7 @@
   {
     "identifier": "prisma.prisma",
     "enable": true,
-    "version": "6.3.1"
+    "version": "6.4.0"
   },
   {
     "identifier": "pyros2097.vscode-go-inline-html",
