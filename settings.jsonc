@@ -107,7 +107,7 @@
 
     "workbench.editorLargeFileConfirmation": 1024,
     "workbench.editor.pinnedTabSizing": "compact",
-    "workbench.iconTheme": "eq-material-theme-icons-ocean",
+    "workbench.iconTheme": "vscode-jetbrains-icon-theme-2023-auto",
     "workbench.panel.opensMaximized": "never",
     "workbench.editor.labelFormat": "short",
     "workbench.sideBar.location": "right",
@@ -859,5 +859,6 @@
     "[svg]": {
         "editor.defaultFormatter": "redhat.vscode-xml"
     },
-    "gitlens.ai.model": "github:Cohere-command-r-08-2024"
+    "gitlens.ai.model": "github:Cohere-command-r-08-2024",
+    "workbench.productIconTheme": "fluent-icons"
 }
