@@ -57,7 +57,7 @@
   {
     "identifier": "bradlc.vscode-tailwindcss",
     "enable": true,
-    "version": "0.14.7"
+    "version": "0.14.8"
   },
   {
     "identifier": "brettm12345.nixfmt-vscode",
@@ -182,7 +182,7 @@
   {
     "identifier": "golang.go",
     "enable": true,
-    "version": "0.44.0"
+    "version": "0.46.0"
   },
   {
     "identifier": "grapecity.gc-excelviewer",
@@ -252,7 +252,7 @@
   {
     "identifier": "kevinrose.vsc-python-indent",
     "enable": true,
-    "version": "1.19.0"
+    "version": "1.21.0"
   },
   {
     "identifier": "leonardssh.vscord",
@@ -392,7 +392,7 @@
   {
     "identifier": "ms-vscode.vscode-typescript-next",
     "enable": true,
-    "version": "5.9.20250224"
+    "version": "5.9.20250227"
   },
   {
     "identifier": "ms-vsliveshare.vsliveshare",
@@ -522,7 +522,7 @@
   {
     "identifier": "streetsidesoftware.code-spell-checker",
     "enable": true,
-    "version": "4.0.39"
+    "version": "4.0.40"
   },
   {
     "identifier": "sumneko.lua",
