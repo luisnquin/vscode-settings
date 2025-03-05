@@ -182,7 +182,7 @@
   {
     "identifier": "golang.go",
     "enable": true,
-    "version": "0.46.0"
+    "version": "0.46.1"
   },
   {
     "identifier": "grapecity.gc-excelviewer",
@@ -357,7 +357,7 @@
   {
     "identifier": "ms-vscode.cmake-tools",
     "enable": true,
-    "version": "1.20.52"
+    "version": "1.20.53"
   },
   {
     "identifier": "ms-vscode.cpptools",
@@ -392,7 +392,7 @@
   {
     "identifier": "ms-vscode.vscode-typescript-next",
     "enable": true,
-    "version": "5.9.20250227"
+    "version": "5.9.20250304"
   },
   {
     "identifier": "ms-vsliveshare.vsliveshare",
@@ -412,7 +412,7 @@
   {
     "identifier": "ocamllabs.ocaml-platform",
     "enable": true,
-    "version": "1.28.0"
+    "version": "1.28.1"
   },
   {
     "identifier": "octref.vetur",
@@ -432,7 +432,7 @@
   {
     "identifier": "pkief.material-icon-theme",
     "enable": true,
-    "version": "5.19.0"
+    "version": "5.20.0"
   },
   {
     "identifier": "prisma.prisma",
@@ -467,7 +467,7 @@
   {
     "identifier": "redocly.openapi-vs-code",
     "enable": true,
-    "version": "0.5.16"
+    "version": "0.5.17"
   },
   {
     "identifier": "remisa.shellman",
@@ -497,7 +497,7 @@
   {
     "identifier": "rust-lang.rust-analyzer",
     "enable": true,
-    "version": "0.3.2319"
+    "version": "0.3.2330"
   },
   {
     "identifier": "rvest.vs-code-prettier-eslint",
@@ -577,7 +577,7 @@
   {
     "identifier": "vue.volar",
     "enable": true,
-    "version": "2.2.4"
+    "version": "2.2.8"
   },
   {
     "identifier": "william-voyek.vscode-nginx",
