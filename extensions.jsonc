@@ -7,7 +7,7 @@
   {
     "identifier": "42crunch.vscode-openapi",
     "enable": true,
-    "version": "4.31.0"
+    "version": "4.32.1"
   },
   {
     "identifier": "4ops.terraform",
@@ -57,7 +57,7 @@
   {
     "identifier": "bradlc.vscode-tailwindcss",
     "enable": true,
-    "version": "0.14.8"
+    "version": "0.14.9"
   },
   {
     "identifier": "brettm12345.nixfmt-vscode",
@@ -127,7 +127,7 @@
   {
     "identifier": "eamodio.gitlens",
     "enable": true,
-    "version": "16.3.2"
+    "version": "16.3.3"
   },
   {
     "identifier": "ecksdy.env-switcher",
@@ -137,7 +137,7 @@
   {
     "identifier": "editorconfig.editorconfig",
     "enable": true,
-    "version": "0.17.1"
+    "version": "0.17.2"
   },
   {
     "identifier": "enkia.tokyo-night",
@@ -312,7 +312,7 @@
   {
     "identifier": "ms-python.debugpy",
     "enable": true,
-    "version": "2025.4.0"
+    "version": "2025.4.1"
   },
   {
     "identifier": "ms-python.isort",
@@ -327,12 +327,12 @@
   {
     "identifier": "ms-python.python",
     "enable": true,
-    "version": "2025.3.2025030601"
+    "version": "2025.3.2025031001"
   },
   {
     "identifier": "ms-python.vscode-pylance",
     "enable": true,
-    "version": "2025.3.1"
+    "version": "2025.3.2"
   },
   {
     "identifier": "ms-vscode-remote.remote-containers",
@@ -392,7 +392,7 @@
   {
     "identifier": "ms-vscode.vscode-typescript-next",
     "enable": true,
-    "version": "5.9.20250307"
+    "version": "5.9.20250313"
   },
   {
     "identifier": "ms-vsliveshare.vsliveshare",
@@ -412,7 +412,7 @@
   {
     "identifier": "ocamllabs.ocaml-platform",
     "enable": true,
-    "version": "1.28.1"
+    "version": "1.28.2"
   },
   {
     "identifier": "octref.vetur",
@@ -437,7 +437,7 @@
   {
     "identifier": "prisma.prisma",
     "enable": true,
-    "version": "6.4.1"
+    "version": "6.5.0"
   },
   {
     "identifier": "pyros2097.vscode-go-inline-html",
@@ -467,7 +467,7 @@
   {
     "identifier": "redocly.openapi-vs-code",
     "enable": true,
-    "version": "0.5.18"
+    "version": "0.5.19"
   },
   {
     "identifier": "remisa.shellman",
@@ -497,7 +497,7 @@
   {
     "identifier": "rust-lang.rust-analyzer",
     "enable": true,
-    "version": "0.3.2330"
+    "version": "0.3.2337"
   },
   {
     "identifier": "rvest.vs-code-prettier-eslint",
@@ -527,7 +527,7 @@
   {
     "identifier": "sumneko.lua",
     "enable": true,
-    "version": "3.13.6"
+    "version": "3.13.9"
   },
   {
     "identifier": "supermaven.supermaven",
@@ -607,7 +607,7 @@
   {
     "identifier": "yzhang.markdown-all-in-one",
     "enable": true,
-    "version": "3.6.2"
+    "version": "3.6.3"
   },
   {
     "identifier": "zeshuaro.vscode-python-poetry",
