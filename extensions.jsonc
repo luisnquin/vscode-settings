@@ -145,6 +145,11 @@
     "version": "1.1.2"
   },
   {
+    "identifier": "equinusocio.vsc-material-theme-icons",
+    "enable": true,
+    "version": "3.8.12"
+  },
+  {
     "identifier": "eriklynd.json-tools",
     "enable": true,
     "version": "1.0.2"
@@ -430,11 +435,6 @@
     "version": "1.4.1"
   },
   {
-    "identifier": "pkief.material-icon-theme",
-    "enable": true,
-    "version": "5.20.0"
-  },
-  {
     "identifier": "prisma.prisma",
     "enable": true,
     "version": "6.5.0"
@@ -533,11 +533,6 @@
     "identifier": "supermaven.supermaven",
     "enable": true,
     "version": "1.1.12"
-  },
-  {
-    "identifier": "t3dotgg.vsc-material-theme-but-i-wont-sue-you",
-    "enable": true,
-    "version": "35.0.2"
   },
   {
     "identifier": "tamasfe.even-better-toml",
