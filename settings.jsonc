@@ -107,7 +107,7 @@
 
     "workbench.editorLargeFileConfirmation": 1024,
     "workbench.editor.pinnedTabSizing": "compact",
-    "workbench.iconTheme": "vscode-jetbrains-icon-theme-2023-auto",
+    "workbench.iconTheme": "material-icon-theme",
     "workbench.panel.opensMaximized": "never",
     "workbench.editor.labelFormat": "short",
     "workbench.sideBar.location": "right",

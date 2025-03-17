@@ -327,7 +327,7 @@
   {
     "identifier": "ms-python.python",
     "enable": true,
-    "version": "2025.3.2025031001"
+    "version": "2025.3.2025031701"
   },
   {
     "identifier": "ms-python.vscode-pylance",
@@ -392,7 +392,7 @@
   {
     "identifier": "ms-vscode.vscode-typescript-next",
     "enable": true,
-    "version": "5.9.20250314"
+    "version": "5.9.20250316"
   },
   {
     "identifier": "ms-vsliveshare.vsliveshare",
@@ -497,7 +497,7 @@
   {
     "identifier": "rust-lang.rust-analyzer",
     "enable": true,
-    "version": "0.3.2337"
+    "version": "0.3.2345"
   },
   {
     "identifier": "rvest.vs-code-prettier-eslint",
@@ -533,6 +533,11 @@
     "identifier": "supermaven.supermaven",
     "enable": true,
     "version": "1.1.12"
+  },
+  {
+    "identifier": "t3dotgg.vsc-material-theme-but-i-wont-sue-you",
+    "enable": true,
+    "version": "35.0.2"
   },
   {
     "identifier": "tamasfe.even-better-toml",
