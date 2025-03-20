@@ -232,7 +232,7 @@
   {
     "identifier": "jnoortheen.nix-ide",
     "enable": true,
-    "version": "0.4.12"
+    "version": "0.4.16"
   },
   {
     "identifier": "jock.svg",
@@ -397,7 +397,7 @@
   {
     "identifier": "ms-vscode.vscode-typescript-next",
     "enable": true,
-    "version": "5.9.20250316"
+    "version": "5.9.20250319"
   },
   {
     "identifier": "ms-vsliveshare.vsliveshare",
