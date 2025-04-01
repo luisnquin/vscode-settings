@@ -57,7 +57,7 @@
   {
     "identifier": "bradlc.vscode-tailwindcss",
     "enable": true,
-    "version": "0.14.11"
+    "version": "0.14.12"
   },
   {
     "identifier": "brettm12345.nixfmt-vscode",
@@ -67,7 +67,7 @@
   {
     "identifier": "chadalen.vscode-jetbrains-icon-theme",
     "enable": true,
-    "version": "2.28.0"
+    "version": "2.29.0"
   },
   {
     "identifier": "christian-kohler.path-intellisense",
@@ -127,7 +127,7 @@
   {
     "identifier": "eamodio.gitlens",
     "enable": true,
-    "version": "16.3.3"
+    "version": "17.0.0"
   },
   {
     "identifier": "ecksdy.env-switcher",
@@ -397,7 +397,7 @@
   {
     "identifier": "ms-vscode.vscode-typescript-next",
     "enable": true,
-    "version": "5.9.20250325"
+    "version": "5.9.20250330"
   },
   {
     "identifier": "ms-vsliveshare.vsliveshare",
@@ -492,7 +492,7 @@
   {
     "identifier": "rust-lang.rust-analyzer",
     "enable": true,
-    "version": "0.3.2353"
+    "version": "0.3.2362"
   },
   {
     "identifier": "rvest.vs-code-prettier-eslint",
@@ -567,7 +567,7 @@
   {
     "identifier": "usernamehw.errorlens",
     "enable": true,
-    "version": "3.24.0"
+    "version": "3.25.0"
   },
   {
     "identifier": "vue.volar",
@@ -617,6 +617,6 @@
   {
     "identifier": "ziglang.vscode-zig",
     "enable": true,
-    "version": "0.6.6"
+    "version": "0.6.8"
   }
 ]
