@@ -17,7 +17,7 @@
   {
     "identifier": "a-h.templ",
     "enable": true,
-    "version": "0.0.33"
+    "version": "0.0.34"
   },
   {
     "identifier": "aaron-bond.better-comments",
@@ -57,7 +57,7 @@
   {
     "identifier": "bradlc.vscode-tailwindcss",
     "enable": true,
-    "version": "0.14.13"
+    "version": "0.14.14"
   },
   {
     "identifier": "brettm12345.nixfmt-vscode",
@@ -127,7 +127,7 @@
   {
     "identifier": "eamodio.gitlens",
     "enable": true,
-    "version": "17.0.0"
+    "version": "17.0.1"
   },
   {
     "identifier": "ecksdy.env-switcher",
@@ -272,7 +272,7 @@
   {
     "identifier": "mechatroner.rainbow-csv",
     "enable": true,
-    "version": "3.18.0"
+    "version": "3.19.0"
   },
   {
     "identifier": "miguelsolorio.fluent-icons",
@@ -317,12 +317,12 @@
   {
     "identifier": "ms-python.debugpy",
     "enable": true,
-    "version": "2025.4.1"
+    "version": "2025.6.0"
   },
   {
     "identifier": "ms-python.isort",
     "enable": true,
-    "version": "2023.10.1"
+    "version": "2025.0.0"
   },
   {
     "identifier": "ms-python.pylint",
@@ -332,7 +332,7 @@
   {
     "identifier": "ms-python.python",
     "enable": true,
-    "version": "2025.3.2025032601"
+    "version": "2025.5.2025040801"
   },
   {
     "identifier": "ms-python.vscode-pylance",
@@ -347,7 +347,7 @@
   {
     "identifier": "ms-vscode-remote.remote-ssh",
     "enable": true,
-    "version": "0.118.0"
+    "version": "0.119.0"
   },
   {
     "identifier": "ms-vscode-remote.remote-ssh-edit",
@@ -367,7 +367,7 @@
   {
     "identifier": "ms-vscode.cpptools",
     "enable": true,
-    "version": "1.23.6"
+    "version": "1.24.5"
   },
   {
     "identifier": "ms-vscode.cpptools-extension-pack",
@@ -492,7 +492,7 @@
   {
     "identifier": "rust-lang.rust-analyzer",
     "enable": true,
-    "version": "0.3.2362"
+    "version": "0.3.2370"
   },
   {
     "identifier": "rvest.vs-code-prettier-eslint",
@@ -517,12 +517,12 @@
   {
     "identifier": "streetsidesoftware.code-spell-checker",
     "enable": true,
-    "version": "4.0.40"
+    "version": "4.0.45"
   },
   {
     "identifier": "sumneko.lua",
     "enable": true,
-    "version": "3.13.9"
+    "version": "3.14.0"
   },
   {
     "identifier": "supermaven.supermaven",
