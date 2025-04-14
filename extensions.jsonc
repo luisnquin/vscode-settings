@@ -7,7 +7,7 @@
   {
     "identifier": "42crunch.vscode-openapi",
     "enable": true,
-    "version": "4.33.1"
+    "version": "4.33.2"
   },
   {
     "identifier": "4ops.terraform",
@@ -27,7 +27,7 @@
   {
     "identifier": "arrterian.nix-env-selector",
     "enable": true,
-    "version": "1.0.11"
+    "version": "1.0.12"
   },
   {
     "identifier": "ashinzekene.nestjs",
@@ -57,7 +57,7 @@
   {
     "identifier": "bradlc.vscode-tailwindcss",
     "enable": true,
-    "version": "0.14.14"
+    "version": "0.14.15"
   },
   {
     "identifier": "brettm12345.nixfmt-vscode",
@@ -115,6 +115,11 @@
     "version": "1.0.0"
   },
   {
+    "identifier": "docker.docker",
+    "enable": true,
+    "version": "0.4.7"
+  },
+  {
     "identifier": "dotjoshjohnson.xml",
     "enable": true,
     "version": "2.5.1"
@@ -127,7 +132,7 @@
   {
     "identifier": "eamodio.gitlens",
     "enable": true,
-    "version": "17.0.1"
+    "version": "17.0.2"
   },
   {
     "identifier": "ecksdy.env-switcher",
@@ -187,7 +192,7 @@
   {
     "identifier": "golang.go",
     "enable": true,
-    "version": "0.46.1"
+    "version": "0.47.1"
   },
   {
     "identifier": "grapecity.gc-excelviewer",
@@ -302,7 +307,7 @@
   {
     "identifier": "ms-azuretools.vscode-docker",
     "enable": true,
-    "version": "1.29.4"
+    "version": "1.29.5"
   },
   {
     "identifier": "ms-edgedevtools.vscode-edge-devtools",
@@ -332,7 +337,7 @@
   {
     "identifier": "ms-python.python",
     "enable": true,
-    "version": "2025.5.2025040801"
+    "version": "2025.5.2025041001"
   },
   {
     "identifier": "ms-python.vscode-pylance",
@@ -342,7 +347,7 @@
   {
     "identifier": "ms-vscode-remote.remote-containers",
     "enable": true,
-    "version": "0.401.0"
+    "version": "0.409.0"
   },
   {
     "identifier": "ms-vscode-remote.remote-ssh",
@@ -357,7 +362,7 @@
   {
     "identifier": "ms-vscode-remote.remote-wsl",
     "enable": true,
-    "version": "0.88.5"
+    "version": "0.99.0"
   },
   {
     "identifier": "ms-vscode.cmake-tools",
@@ -417,7 +422,7 @@
   {
     "identifier": "ocamllabs.ocaml-platform",
     "enable": true,
-    "version": "1.28.2"
+    "version": "1.29.0"
   },
   {
     "identifier": "octref.vetur",
@@ -437,7 +442,7 @@
   {
     "identifier": "prisma.prisma",
     "enable": true,
-    "version": "6.5.0"
+    "version": "6.6.0"
   },
   {
     "identifier": "pyros2097.vscode-go-inline-html",
@@ -457,7 +462,7 @@
   {
     "identifier": "redhat.vscode-xml",
     "enable": true,
-    "version": "0.28.0"
+    "version": "0.28.1"
   },
   {
     "identifier": "redhat.vscode-yaml",
@@ -607,7 +612,7 @@
   {
     "identifier": "zeshuaro.vscode-python-poetry",
     "enable": true,
-    "version": "0.18.5"
+    "version": "0.18.14"
   },
   {
     "identifier": "zhuangtongfa.material-theme",

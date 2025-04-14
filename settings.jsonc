@@ -150,9 +150,7 @@
         "**/bower_components": true,
         "**/*.code-search": true,
         "result/*": true
-    },
-
-    "workbench.colorTheme": "Tokyo Night", // remove it ;)
+    }, // remove it ;)
 
     // "workbench.colorTheme": "Default Dark Modern",
     // "workbench.colorCustomizations": {
@@ -859,6 +857,5 @@
     "[svg]": {
         "editor.defaultFormatter": "redhat.vscode-xml"
     },
-    "gitlens.ai.model": "github:Cohere-command-r-08-2024",
-    "workbench.productIconTheme": "fluent-icons"
+    "gitlens.ai.model": "github:Cohere-command-r-08-2024"
 }
