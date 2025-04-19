@@ -67,7 +67,7 @@
   {
     "identifier": "chadalen.vscode-jetbrains-icon-theme",
     "enable": true,
-    "version": "2.30.0"
+    "version": "2.31.0"
   },
   {
     "identifier": "christian-kohler.path-intellisense",
@@ -117,7 +117,7 @@
   {
     "identifier": "docker.docker",
     "enable": true,
-    "version": "0.4.7"
+    "version": "0.4.9"
   },
   {
     "identifier": "dotjoshjohnson.xml",
@@ -132,7 +132,7 @@
   {
     "identifier": "eamodio.gitlens",
     "enable": true,
-    "version": "17.0.2"
+    "version": "17.0.3"
   },
   {
     "identifier": "ecksdy.env-switcher",
@@ -192,7 +192,7 @@
   {
     "identifier": "golang.go",
     "enable": true,
-    "version": "0.47.1"
+    "version": "0.47.2"
   },
   {
     "identifier": "grapecity.gc-excelviewer",
@@ -337,7 +337,7 @@
   {
     "identifier": "ms-python.python",
     "enable": true,
-    "version": "2025.5.2025041001"
+    "version": "2025.5.2025041801"
   },
   {
     "identifier": "ms-python.vscode-pylance",
@@ -497,7 +497,7 @@
   {
     "identifier": "rust-lang.rust-analyzer",
     "enable": true,
-    "version": "0.3.2370"
+    "version": "0.3.2379"
   },
   {
     "identifier": "rvest.vs-code-prettier-eslint",
