@@ -522,7 +522,7 @@
   {
     "identifier": "streetsidesoftware.code-spell-checker",
     "enable": true,
-    "version": "4.0.45"
+    "version": "4.0.47"
   },
   {
     "identifier": "sumneko.lua",
@@ -567,7 +567,7 @@
   {
     "identifier": "unifiedjs.vscode-mdx",
     "enable": true,
-    "version": "1.8.13"
+    "version": "1.8.14"
   },
   {
     "identifier": "usernamehw.errorlens",
@@ -612,7 +612,7 @@
   {
     "identifier": "zeshuaro.vscode-python-poetry",
     "enable": true,
-    "version": "0.18.14"
+    "version": "0.18.15"
   },
   {
     "identifier": "zhuangtongfa.material-theme",
