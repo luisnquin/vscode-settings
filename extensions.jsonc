@@ -57,7 +57,7 @@
   {
     "identifier": "bradlc.vscode-tailwindcss",
     "enable": true,
-    "version": "0.14.15"
+    "version": "0.14.16"
   },
   {
     "identifier": "brettm12345.nixfmt-vscode",
@@ -117,7 +117,7 @@
   {
     "identifier": "docker.docker",
     "enable": true,
-    "version": "0.4.9"
+    "version": "0.4.10"
   },
   {
     "identifier": "dotjoshjohnson.xml",
@@ -148,11 +148,6 @@
     "identifier": "enkia.tokyo-night",
     "enable": true,
     "version": "1.1.2"
-  },
-  {
-    "identifier": "equinusocio.vsc-material-theme-icons",
-    "enable": true,
-    "version": "3.8.12"
   },
   {
     "identifier": "eriklynd.json-tools",
@@ -337,7 +332,7 @@
   {
     "identifier": "ms-python.python",
     "enable": true,
-    "version": "2025.5.2025041801"
+    "version": "2025.5.2025042501"
   },
   {
     "identifier": "ms-python.vscode-pylance",
@@ -402,7 +397,7 @@
   {
     "identifier": "ms-vscode.vscode-typescript-next",
     "enable": true,
-    "version": "5.9.20250330"
+    "version": "5.9.20250424"
   },
   {
     "identifier": "ms-vsliveshare.vsliveshare",
@@ -497,7 +492,7 @@
   {
     "identifier": "rust-lang.rust-analyzer",
     "enable": true,
-    "version": "0.3.2379"
+    "version": "0.3.2433"
   },
   {
     "identifier": "rvest.vs-code-prettier-eslint",
@@ -557,7 +552,7 @@
   {
     "identifier": "tonybaloney.vscode-pets",
     "enable": true,
-    "version": "1.30.0"
+    "version": "1.31.0"
   },
   {
     "identifier": "twxs.cmake",
@@ -575,9 +570,14 @@
     "version": "3.25.0"
   },
   {
+    "identifier": "vira.vsc-vira-theme",
+    "enable": true,
+    "version": "1.1.1"
+  },
+  {
     "identifier": "vue.volar",
     "enable": true,
-    "version": "2.2.8"
+    "version": "2.2.10"
   },
   {
     "identifier": "william-voyek.vscode-nginx",
