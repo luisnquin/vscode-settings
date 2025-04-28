@@ -22,14 +22,12 @@
                              
     */
 
-    
-
     "liveServer.settings.donotShowInfoMsg": true,
     "update.showReleaseNotes": true,
     "extensions.autoUpdate": true,
     "update.mode": "none",
 
-    "workbench.colorTheme":"Tokyo Night",
+    "workbench.colorTheme": "Tokyo Night",
 
     /*
         ______           __

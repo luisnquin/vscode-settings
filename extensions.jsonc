@@ -397,7 +397,7 @@
   {
     "identifier": "ms-vscode.vscode-typescript-next",
     "enable": true,
-    "version": "5.9.20250426"
+    "version": "5.9.20250427"
   },
   {
     "identifier": "ms-vsliveshare.vsliveshare",
@@ -492,7 +492,7 @@
   {
     "identifier": "rust-lang.rust-analyzer",
     "enable": true,
-    "version": "0.3.2433"
+    "version": "0.3.2441"
   },
   {
     "identifier": "rvest.vs-code-prettier-eslint",
@@ -572,7 +572,7 @@
   {
     "identifier": "vira.vsc-vira-theme",
     "enable": true,
-    "version": "1.1.2"
+    "version": "1.2.1"
   },
   {
     "identifier": "vue.volar",
@@ -612,7 +612,7 @@
   {
     "identifier": "zeshuaro.vscode-python-poetry",
     "enable": true,
-    "version": "0.18.15"
+    "version": "0.18.16"
   },
   {
     "identifier": "zhuangtongfa.material-theme",
