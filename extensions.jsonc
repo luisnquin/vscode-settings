@@ -117,7 +117,7 @@
   {
     "identifier": "docker.docker",
     "enable": true,
-    "version": "0.4.10"
+    "version": "0.6.0"
   },
   {
     "identifier": "dotjoshjohnson.xml",
@@ -302,7 +302,7 @@
   {
     "identifier": "ms-azuretools.vscode-docker",
     "enable": true,
-    "version": "1.29.5"
+    "version": "1.29.6"
   },
   {
     "identifier": "ms-edgedevtools.vscode-edge-devtools",
@@ -332,7 +332,7 @@
   {
     "identifier": "ms-python.python",
     "enable": true,
-    "version": "2025.5.2025042501"
+    "version": "2025.7.2025050601"
   },
   {
     "identifier": "ms-python.vscode-pylance",
@@ -367,7 +367,7 @@
   {
     "identifier": "ms-vscode.cpptools",
     "enable": true,
-    "version": "1.24.5"
+    "version": "1.25.3"
   },
   {
     "identifier": "ms-vscode.cpptools-extension-pack",
@@ -397,7 +397,7 @@
   {
     "identifier": "ms-vscode.vscode-typescript-next",
     "enable": true,
-    "version": "5.9.20250427"
+    "version": "5.9.20250505"
   },
   {
     "identifier": "ms-vsliveshare.vsliveshare",
@@ -437,7 +437,7 @@
   {
     "identifier": "prisma.prisma",
     "enable": true,
-    "version": "6.6.0"
+    "version": "6.7.0"
   },
   {
     "identifier": "pyros2097.vscode-go-inline-html",
@@ -462,7 +462,7 @@
   {
     "identifier": "redhat.vscode-yaml",
     "enable": true,
-    "version": "1.17.0"
+    "version": "1.18.0"
   },
   {
     "identifier": "remisa.shellman",
@@ -492,7 +492,7 @@
   {
     "identifier": "rust-lang.rust-analyzer",
     "enable": true,
-    "version": "0.3.2441"
+    "version": "0.3.2449"
   },
   {
     "identifier": "rvest.vs-code-prettier-eslint",
@@ -567,12 +567,12 @@
   {
     "identifier": "usernamehw.errorlens",
     "enable": true,
-    "version": "3.25.0"
+    "version": "3.26.0"
   },
   {
     "identifier": "vira.vsc-vira-theme",
     "enable": true,
-    "version": "1.2.1"
+    "version": "1.2.4"
   },
   {
     "identifier": "vue.volar",
@@ -612,7 +612,7 @@
   {
     "identifier": "zeshuaro.vscode-python-poetry",
     "enable": true,
-    "version": "0.18.16"
+    "version": "0.18.17"
   },
   {
     "identifier": "zhuangtongfa.material-theme",

@@ -162,6 +162,9 @@
     //     "editorBracketHighlight.foreground6": "#505047"
     // },
 
+    "gitlens.ai.model": "github:Cohere-command-r-08-2024",
+    "workbench.iconTheme": "vira-icons-ocean",
+
     "editor.tokenColorCustomizations": {
         "[Default Dark Modern]": {
             "textMateRules": [
@@ -852,7 +855,5 @@
     "workbench.colorCustomizations": {},
     "[svg]": {
         "editor.defaultFormatter": "redhat.vscode-xml"
-    },
-    "gitlens.ai.model": "github:Cohere-command-r-08-2024",
-    "workbench.iconTheme": "vira-icons-ocean"
+    }
 }
