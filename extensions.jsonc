@@ -17,7 +17,7 @@
   {
     "identifier": "a-h.templ",
     "enable": true,
-    "version": "0.0.34"
+    "version": "0.0.35"
   },
   {
     "identifier": "aaron-bond.better-comments",
@@ -27,7 +27,7 @@
   {
     "identifier": "arrterian.nix-env-selector",
     "enable": true,
-    "version": "1.0.12"
+    "version": "1.1.0"
   },
   {
     "identifier": "ashinzekene.nestjs",
@@ -317,7 +317,7 @@
   {
     "identifier": "ms-python.debugpy",
     "enable": true,
-    "version": "2025.6.0"
+    "version": "2025.8.0"
   },
   {
     "identifier": "ms-python.isort",
@@ -342,12 +342,12 @@
   {
     "identifier": "ms-vscode-remote.remote-containers",
     "enable": true,
-    "version": "0.409.0"
+    "version": "0.413.0"
   },
   {
     "identifier": "ms-vscode-remote.remote-ssh",
     "enable": true,
-    "version": "0.119.0"
+    "version": "0.120.0"
   },
   {
     "identifier": "ms-vscode-remote.remote-ssh-edit",
@@ -392,12 +392,12 @@
   {
     "identifier": "ms-vscode.remote-explorer",
     "enable": true,
-    "version": "0.4.3"
+    "version": "0.5.0"
   },
   {
     "identifier": "ms-vscode.vscode-typescript-next",
     "enable": true,
-    "version": "5.9.20250505"
+    "version": "5.9.20250509"
   },
   {
     "identifier": "ms-vsliveshare.vsliveshare",
@@ -417,7 +417,7 @@
   {
     "identifier": "ocamllabs.ocaml-platform",
     "enable": true,
-    "version": "1.29.0"
+    "version": "1.30.0"
   },
   {
     "identifier": "octref.vetur",
@@ -437,7 +437,7 @@
   {
     "identifier": "prisma.prisma",
     "enable": true,
-    "version": "6.7.0"
+    "version": "6.7.1"
   },
   {
     "identifier": "pyros2097.vscode-go-inline-html",
@@ -452,12 +452,12 @@
   {
     "identifier": "rangav.vscode-thunder-client",
     "enable": true,
-    "version": "2.34.3"
+    "version": "2.34.4"
   },
   {
     "identifier": "redhat.vscode-xml",
     "enable": true,
-    "version": "0.28.1"
+    "version": "0.29.0"
   },
   {
     "identifier": "redhat.vscode-yaml",
@@ -572,7 +572,7 @@
   {
     "identifier": "vira.vsc-vira-theme",
     "enable": true,
-    "version": "1.2.4"
+    "version": "1.3.0"
   },
   {
     "identifier": "vue.volar",
