@@ -57,7 +57,7 @@
   {
     "identifier": "bradlc.vscode-tailwindcss",
     "enable": true,
-    "version": "0.14.18"
+    "version": "0.14.19"
   },
   {
     "identifier": "brettm12345.nixfmt-vscode",
@@ -67,7 +67,7 @@
   {
     "identifier": "chadalen.vscode-jetbrains-icon-theme",
     "enable": true,
-    "version": "2.31.0"
+    "version": "2.32.0"
   },
   {
     "identifier": "christian-kohler.path-intellisense",
@@ -332,7 +332,7 @@
   {
     "identifier": "ms-python.python",
     "enable": true,
-    "version": "2025.7.2025052102"
+    "version": "2025.7.2025052301"
   },
   {
     "identifier": "ms-python.vscode-pylance",
@@ -397,7 +397,7 @@
   {
     "identifier": "ms-vscode.vscode-typescript-next",
     "enable": true,
-    "version": "5.9.20250514"
+    "version": "5.9.20250525"
   },
   {
     "identifier": "ms-vsliveshare.vsliveshare",
@@ -492,7 +492,7 @@
   {
     "identifier": "rust-lang.rust-analyzer",
     "enable": true,
-    "version": "0.3.2466"
+    "version": "0.3.2474"
   },
   {
     "identifier": "rvest.vs-code-prettier-eslint",
@@ -612,7 +612,7 @@
   {
     "identifier": "zeshuaro.vscode-python-poetry",
     "enable": true,
-    "version": "0.18.17"
+    "version": "0.18.20"
   },
   {
     "identifier": "zhuangtongfa.material-theme",
@@ -622,6 +622,6 @@
   {
     "identifier": "ziglang.vscode-zig",
     "enable": true,
-    "version": "0.6.9"
+    "version": "0.6.10"
   }
 ]
