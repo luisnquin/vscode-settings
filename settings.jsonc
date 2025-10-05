@@ -11,7 +11,7 @@
 	"git.openRepositoryInParentFolders": "always",
 	"git.terminalAuthentication": true,
 	"git.mergeEditor": false,
-    "git.blame.editorDecoration.enabled": true,
+	"git.blame.editorDecoration.enabled": true,
 	"diffEditor.wordWrap": "off",
 
 	/*
@@ -161,7 +161,8 @@
 	//     "editorBracketHighlight.foreground6": "#505047"
 	// },
 
-	"gitlens.ai.model": "github:Cohere-command-r-08-2024",
+	"gitlens.ai.model": "vscode",
+
 	"workbench.iconTheme": "vira-icons-ocean",
 
 	"editor.tokenColorCustomizations": {
@@ -904,11 +905,33 @@
 			"chat.avatarForeground": "#80CBC4",
 			"activityBarBadge.foreground": "#000000",
 			"button.foreground": "#000000",
-			"statusBarItem.remoteHoverForeground": "#000000"
+			"statusBarItem.remoteHoverForeground": "#000000",
+			"statusBar.debuggingBackground": "#80CBC433",
+			"statusBar.debuggingForeground": "#80CBC4",
+			"tab.activeBorderTop": "#80CBC400",
+			"tab.unfocusedActiveBorder": "#80CBC4",
+			"tab.unfocusedActiveBorderTop": "#80CBC400",
+			"tab.activeModifiedBorder": "#80CBC400"
 		}
 	},
 	"[svg]": {
 		"editor.defaultFormatter": "redhat.vscode-xml"
 	},
-	"workbench.colorTheme": "Vira Ocean"
+	"workbench.colorTheme": "Vira Deepforest",
+	"[dockercompose]": {
+		"editor.insertSpaces": true,
+		"editor.tabSize": 2,
+		"editor.autoIndent": "advanced",
+		"editor.quickSuggestions": {
+			"other": true,
+			"comments": false,
+			"strings": true
+		},
+		"editor.defaultFormatter": "redhat.vscode-yaml"
+	},
+	"[github-actions-workflow]": {
+		"editor.defaultFormatter": "redhat.vscode-yaml"
+	},
+	"gitlens.ai.vscode.model": "copilot:gpt-4.1",
+	"docker.extension.enableComposeLanguageServer": false
 }
