@@ -57,7 +57,7 @@
   {
     "identifier": "bradlc.vscode-tailwindcss",
     "enable": true,
-    "version": "0.14.27"
+    "version": "0.14.28"
   },
   {
     "identifier": "brettm12345.nixfmt-vscode",
@@ -132,7 +132,7 @@
   {
     "identifier": "eamodio.gitlens",
     "enable": true,
-    "version": "17.5.1"
+    "version": "17.6.1"
   },
   {
     "identifier": "ecksdy.env-switcher",
@@ -182,7 +182,7 @@
   {
     "identifier": "github.copilot-chat",
     "enable": true,
-    "version": "0.31.4"
+    "version": "0.31.5"
   },
   {
     "identifier": "github.github-vscode-theme",
@@ -212,7 +212,7 @@
   {
     "identifier": "hashicorp.terraform",
     "enable": true,
-    "version": "2.37.2"
+    "version": "2.37.3"
   },
   {
     "identifier": "humao.rest-client",
@@ -272,7 +272,7 @@
   {
     "identifier": "kilocode.kilo-code",
     "enable": true,
-    "version": "4.99.2"
+    "version": "4.101.0"
   },
   {
     "identifier": "leonardssh.vscord",
@@ -412,7 +412,7 @@
   {
     "identifier": "ms-vscode.powershell",
     "enable": true,
-    "version": "2025.2.0"
+    "version": "2025.4.0"
   },
   {
     "identifier": "ms-vscode.remote-explorer",
@@ -422,7 +422,7 @@
   {
     "identifier": "ms-vscode.vscode-typescript-next",
     "enable": true,
-    "version": "6.0.20251004"
+    "version": "6.0.20251008"
   },
   {
     "identifier": "ms-vsliveshare.vsliveshare",
@@ -462,7 +462,7 @@
   {
     "identifier": "prisma.prisma",
     "enable": true,
-    "version": "6.16.3"
+    "version": "6.17.0"
   },
   {
     "identifier": "pyros2097.vscode-go-inline-html",
@@ -487,7 +487,7 @@
   {
     "identifier": "redhat.vscode-yaml",
     "enable": true,
-    "version": "1.19.0"
+    "version": "1.19.1"
   },
   {
     "identifier": "remisa.shellman",
@@ -597,7 +597,7 @@
   {
     "identifier": "vue.volar",
     "enable": true,
-    "version": "3.1.0"
+    "version": "3.1.1"
   },
   {
     "identifier": "william-voyek.vscode-nginx",
