@@ -212,7 +212,7 @@
   {
     "identifier": "hashicorp.terraform",
     "enable": true,
-    "version": "2.37.3"
+    "version": "2.37.5"
   },
   {
     "identifier": "humao.rest-client",
@@ -242,7 +242,7 @@
   {
     "identifier": "jnoortheen.nix-ide",
     "enable": true,
-    "version": "0.4.24"
+    "version": "0.5.0"
   },
   {
     "identifier": "jock.svg",
@@ -272,12 +272,12 @@
   {
     "identifier": "kilocode.kilo-code",
     "enable": true,
-    "version": "4.101.0"
+    "version": "4.103.0"
   },
   {
     "identifier": "leonardssh.vscord",
     "enable": true,
-    "version": "5.3.6"
+    "version": "5.3.7"
   },
   {
     "identifier": "mads-hartmann.bash-ide-vscode",
@@ -337,7 +337,7 @@
   {
     "identifier": "ms-python.debugpy",
     "enable": true,
-    "version": "2025.10.0"
+    "version": "2025.14.0"
   },
   {
     "identifier": "ms-python.isort",
@@ -352,7 +352,7 @@
   {
     "identifier": "ms-python.python",
     "enable": true,
-    "version": "2025.14.0"
+    "version": "2025.16.0"
   },
   {
     "identifier": "ms-python.vscode-pylance",
@@ -362,7 +362,7 @@
   {
     "identifier": "ms-python.vscode-python-envs",
     "enable": true,
-    "version": "1.8.0"
+    "version": "1.10.0"
   },
   {
     "identifier": "ms-vscode-remote.remote-containers",
@@ -422,7 +422,7 @@
   {
     "identifier": "ms-vscode.vscode-typescript-next",
     "enable": true,
-    "version": "6.0.20251008"
+    "version": "6.0.20251011"
   },
   {
     "identifier": "ms-vsliveshare.vsliveshare",
@@ -462,7 +462,7 @@
   {
     "identifier": "prisma.prisma",
     "enable": true,
-    "version": "6.17.0"
+    "version": "6.17.1"
   },
   {
     "identifier": "pyros2097.vscode-go-inline-html",
