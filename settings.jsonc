@@ -14,6 +14,10 @@
 	"git.blame.editorDecoration.enabled": true,
 	"diffEditor.wordWrap": "off",
 
+	"github.copilot.enable": {
+		"*": true,
+		"c": false
+	},
 	/*
            ______
           / ____/___  ________ 
@@ -163,7 +167,7 @@
 
 	"gitlens.ai.model": "vscode",
 
-	"workbench.iconTheme": "vira-icons-ocean",
+	"workbench.iconTheme": "vira-icons-deepforest",
 
 	"editor.tokenColorCustomizations": {
 		"[Default Dark Modern]": {

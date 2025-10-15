@@ -272,7 +272,7 @@
   {
     "identifier": "kilocode.kilo-code",
     "enable": true,
-    "version": "4.103.0"
+    "version": "4.103.1"
   },
   {
     "identifier": "leonardssh.vscord",
@@ -337,7 +337,7 @@
   {
     "identifier": "ms-python.debugpy",
     "enable": true,
-    "version": "2025.14.0"
+    "version": "2025.14.1"
   },
   {
     "identifier": "ms-python.isort",
@@ -422,7 +422,7 @@
   {
     "identifier": "ms-vscode.vscode-typescript-next",
     "enable": true,
-    "version": "6.0.20251011"
+    "version": "6.0.20251013"
   },
   {
     "identifier": "ms-vsliveshare.vsliveshare",
@@ -592,7 +592,7 @@
   {
     "identifier": "vira.vsc-vira-theme",
     "enable": true,
-    "version": "1.8.7"
+    "version": "1.9.0"
   },
   {
     "identifier": "vue.volar",
